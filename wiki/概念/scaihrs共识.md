@@ -1,0 +1,37 @@
+---
+type: concept
+created: 2026-06-29
+updated: 2026-06-29
+sources: ["[[来源/204-after-the-procedure-is-done-the-optimal-follow-u]]"]
+tags: [standard]
+aliases:
+  - "SCAI/HRS Consensus"
+generation_complete: true
+---
+
+# SCAI/HRS共识
+
+## 基本信息
+- Type: standard
+- Source: [[来源/204-after-the-procedure-is-done-the-optimal-follow-u|204-after-the-procedure-is-done-the-optimal-follow-u]]
+
+## 定义
+心血管血管造影与介入学会/心律学会发布的LAAO随访影像共识，建议45-90天支持TEE或CT任一方式。
+
+## 相关概念
+- [[概念/内皮化|内皮化]]
+- [[概念/器械相关血栓drt|器械相关血栓（DRT）]]
+- [[概念/低衰减增厚hat|低衰减增厚（HAT）]]
+- [[概念/ecg门控心脏ct|ECG门控心脏CT]]
+- [[概念/fabric-leak|Fabric leak]]
+- [[概念/器械周围漏pdl|器械周围漏（PDL）]]
+
+## 相关实体
+- [[实体/watchman-flx|WATCHMAN FLX]]
+- [[实体/amulet|Amulet]]
+- [[实体/markus-scherer|Markus Scherer]]
+- [[实体/protect-af|PROTECT AF]]
+- [[实体/sanger-heart-&-vascular-institute|Sanger Heart & Vascular Institute]]
+
+## 来源提及
+- "SCAI/HRS Consensus：45-90 天支持任一影像方式；若 PDL 或 DRT 持续存在，应重复检查" — [[来源/204-after-the-procedure-is-done-the-optimal-follow-u|204-after-the-procedure-is-done-the-optimal-follow-u]]

@@ -1,0 +1,4605 @@
+# Wiki 索引
+
+## 实体（1486）
+- [[实体/evoque|EVOQUE]]（79 源）
+- [[实体/sapien-3|Sapien 3]]（60 源）
+- [[实体/edwards-lifesciences|Edwards Lifesciences]]（46 源）
+- [[实体/mitraclip|MitraClip]]（45 源）
+- [[实体/sapien-3-ultra-resilia|SAPIEN 3 Ultra Resilia]]（36 源）
+- [[实体/triscend-ii|TRISCEND II]]（35 源）
+- [[实体/stsacc-tvt-registry|STS/ACC TVT Registry]]（31 源）
+- [[实体/watchman-flx|WATCHMAN FLX]]（28 源）
+- [[实体/evolut|Evolut]]（28 源）
+- [[实体/pascal|PASCAL]]（27 源）
+- [[实体/sentinel|Sentinel]]（26 源）
+- [[实体/triclip|TriClip]]（23 源）
+- [[实体/avp-ii|AVP II]]（22 源）
+- [[实体/amulet|Amulet]]（22 源）
+- [[实体/cardiovascular-research-foundation|Cardiovascular Research Foundation]]（21 源）
+- [[实体/evolut-fx+|Evolut FX+]]（20 源）
+- [[实体/partner-3|PARTNER 3]]（20 源）
+- [[实体/jenavalve-trilogy|JenaValve Trilogy]]（20 源）
+- [[实体/abbott|Abbott]]（18 源）
+- [[实体/triluminate|TRILUMINATE]]（17 源）
+- [[实体/azeem-latib|Azeem Latib]]（17 源）
+- [[实体/sapien-m3|Sapien M3]]（16 源）
+- [[实体/coapt|COAPT]]（15 源）
+- [[实体/mitraclip-xtw|MitraClip XTW]]（15 源）
+- [[实体/montefiore-medical-center|Montefiore Medical Center]]（15 源）
+- [[实体/evolut-low-risk|Evolut Low Risk]]（15 源）
+- [[实体/myval|Myval]]（14 源）
+- [[实体/columbia-university-irving-medical-center|Columbia University Irving Medical Center]]（14 源）
+- [[实体/shortcut|ShortCut]]（14 源）
+- [[实体/sapien|SAPIEN]]（13 源）
+- [[实体/watchman|WATCHMAN]]（12 源）
+- [[实体/champion-af|CHAMPION AF]]（12 源）
+- [[实体/navitor|Navitor]]（12 源）
+- [[实体/mayo-clinic|Mayo Clinic]]（12 源）
+- [[实体/altavalve|AltaValve]]（12 源）
+- [[实体/align-ar|ALIGN-AR]]（12 源）
+- [[实体/crf-new-york-valves|CRF New York Valves]]（11 源）
+- [[实体/evolut-fx|Evolut FX]]（11 源）
+- [[实体/cleveland-clinic|Cleveland Clinic]]（11 源）
+- [[实体/cedars-sinai-medical-center|Cedars-Sinai Medical Center]]（11 源）
+- [[实体/columbia-university-medical-center|Columbia University Medical Center]]（11 源）
+- [[实体/triluminate-pivotal|TRILUMINATE Pivotal]]（10 源）
+- [[实体/gore-cardioform-septal-occluder|GORE CARDIOFORM Septal Occluder]]（10 源）
+- [[实体/versacross|VersaCross]]（10 源）
+- [[实体/medtronic|Medtronic]]（10 源）
+- [[实体/early-tavr|EARLY TAVR]]（10 源）
+- [[实体/tricvalve|TricValve]]（9 源）
+- [[实体/georgios-e-papadopoulos|Georgios E. Papadopoulos]]（9 源）
+- [[实体/boston-scientific|Boston Scientific]]（9 源）
+- [[实体/tendyne|Tendyne]]（9 源）
+- [[实体/gilbert-h-l-tang|Gilbert H. L. Tang]]（9 源）
+- [[实体/mount-sinai-fuster-heart-hospital|Mount Sinai Fuster Heart Hospital]]（9 源）
+- [[实体/notion|NOTION]]（9 源）
+- [[实体/eurotr-registry|EuroTR Registry]]（9 源）
+- [[实体/gore-dryseal|Gore DrySeal]]（9 源）
+- [[实体/jamie-mccabe|Jamie McCabe]]（8 源）
+- [[实体/beth-israel-deaconess-medical-center|Beth Israel Deaconess Medical Center]]（8 源）
+- [[实体/trifecta|Trifecta]]（8 源）
+- [[实体/triplace-registry|TRIPLACE registry]]（8 源）
+- [[实体/lux-valve|Lux-Valve]]（8 源）
+- [[实体/feops|FEops]]（8 源）
+- [[实体/isaac-george|Isaac George]]（8 源）
+- [[实体/martin-b-leon|Martin B. Leon]]（8 源）
+- [[实体/brigham-and-womens-hospital|Brigham and Women's Hospital]]（8 源）
+- [[实体/oregon-health-&-science-university|Oregon Health & Science University]]（8 源）
+- [[实体/new-york-valves-2026|New York Valves 2026]]（8 源）
+- [[实体/raj-makkar|Raj Makkar]]（8 源）
+- [[实体/verisight-pro|VeriSight Pro]]（8 源）
+- [[实体/heart-&-valve-collaboratory|Heart & Valve Collaboratory]]（8 源）
+- [[实体/piedmont-heart-institute|Piedmont Heart Institute]]（7 源）
+- [[实体/sapien-3-resilia|SAPIEN 3 Resilia]]（7 源）
+- [[实体/scripps-clinic|Scripps Clinic]]（7 源）
+- [[实体/angiovac|AngioVAC]]（7 源）
+- [[实体/paul-sorajja|Paul Sorajja]]（7 源）
+- [[实体/charles-j-davidson|Charles J. Davidson]]（7 源）
+- [[实体/jenavalve|JenaValve]]（7 源）
+- [[实体/tri-fr|TRI.FR]]（7 源）
+- [[实体/the-christ-hospital|The Christ Hospital]]（7 源）
+- [[实体/amplatzer-septal-occluder|Amplatzer Septal Occluder]]（7 源）
+- [[实体/smart-trial|SMART trial]]（7 源）
+- [[实体/sentara-medical-group|Sentara Medical Group]]（7 源）
+- [[实体/st-michaels-hospital|St. Michael's Hospital]]（7 源）
+- [[实体/option|OPTION]]（7 源）
+- [[实体/3mensio|3mensio]]（7 源）
+- [[实体/protect-af|PROTECT AF]]（7 源）
+- [[实体/landmark-trial|LANDMARK trial]]（7 源）
+- [[实体/pradeep-yadav|Pradeep Yadav]]（6 源）
+- [[实体/agilis|Agilis]]（6 源）
+- [[实体/joão-cavalcante|João Cavalcante]]（6 源）
+- [[实体/intrepid|Intrepid]]（6 源）
+- [[实体/evolut-r|Evolut R]]（6 源）
+- [[实体/samir-kapadia|Samir Kapadia]]（6 源）
+- [[实体/ncdr-laao-registry|NCDR LAAO Registry]]（6 源）
+- [[实体/triclip-xtw|TriClip XTW]]（6 源）
+- [[实体/weill-cornell-medicine|Weill Cornell Medicine]]（6 源）
+- [[实体/mitra-fr|MITRA-FR]]（6 源）
+- [[实体/evolut-pro|Evolut Pro]]（6 源）
+- [[实体/edoardo-zancanaro|Edoardo Zancanaro]]（6 源）
+- [[实体/heartmate-3|HeartMate 3]]（6 源）
+- [[实体/philippe-pibarot|Philippe Pibarot]]（6 源）
+- [[实体/mitroflow|MitroFlow]]（6 源）
+- [[实体/evolut-pro+|Evolut Pro+]]（6 源）
+- [[实体/encircle|ENCIRCLE]]（6 源）
+- [[实体/acurate-neo2|ACURATE Neo2]]（6 源）
+- [[实体/watchman-flx-pro|WATCHMAN FLX-Pro]]（5 源）
+- [[实体/ado2|ADO2]]（5 源）
+- [[实体/baylor-scott-&-white-health|Baylor Scott & White Health]]（5 源）
+- [[实体/university-of-michigan|University of Michigan]]（5 源）
+- [[实体/topaz|Topaz]]（5 源）
+- [[实体/devi-g-nair|Devi G Nair]]（5 源）
+- [[实体/gagan-d-singh|Gagan D. Singh]]（5 源）
+- [[实体/inspiris-resilia|INSPIRIS RESILIA]]（5 源）
+- [[实体/baylor-scott-and-white-the-heart-hospital|Baylor Scott and White The Heart Hospital]]（5 源）
+- [[实体/bern-university-hospital|Bern University Hospital]]（5 源）
+- [[实体/notion-2|NOTION-2]]（5 源）
+- [[实体/saibal-kar|Saibal Kar]]（5 源）
+- [[实体/cms|CMS]]（5 源）
+- [[实体/fda|FDA]]（5 源）
+- [[实体/pi-cardia|Pi-Cardia]]（5 源）
+- [[实体/prevue-valve|PREVUE-Valve]]（5 源）
+- [[实体/neil-fam|Neil Fam]]（5 源）
+- [[实体/surpass-registry|SURPASS Registry]]（5 源）
+- [[实体/veritas|VERITAS]]（5 源）
+- [[实体/simplaafy|SIMPLAAFY]]（5 源）
+- [[实体/abbott-vascular|Abbott Vascular]]（5 源）
+- [[实体/apollo|APOLLO]]（5 源）
+- [[实体/micra|MICRA]]（5 源）
+- [[实体/j-valve|J-Valve]]（5 源）
+- [[实体/abbott-structural|Abbott Structural]]（5 源）
+- [[实体/paul-mahoney|Paul Mahoney]]（5 源）
+- [[实体/robin-le-ruz|Robin Le Ruz]]（5 源）
+- [[实体/artist|ARTIST]]（5 源）
+- [[实体/oren-yagel|Oren Yagel]]（5 源）
+- [[实体/guido-ascione|Guido Ascione]]（4 源）
+- [[实体/vinayak-bapat|Vinayak Bapat]]（4 源）
+- [[实体/viabahn|Viabahn]]（4 源）
+- [[实体/medtronic-freestyle|Medtronic Freestyle]]（4 源）
+- [[实体/curtiss-t-stinis|Curtiss T. Stinis]]（4 源）
+- [[实体/medanta-the-medicity|Medanta The Medicity]]（4 源）
+- [[实体/rahul-p-sharma|Rahul P Sharma]]（4 源）
+- [[实体/phanthaphan-sureeyathanaphat|Phanthaphan Sureeyathanaphat]]（4 源）
+- [[实体/erasmus-mc|Erasmus MC]]（4 源）
+- [[实体/brian-whisenant|Brian Whisenant]]（4 源）
+- [[实体/intermountain-medical-center|Intermountain Medical Center]]（4 源）
+- [[实体/impella|Impella]]（4 源）
+- [[实体/susheel-kodali|Susheel Kodali]]（4 源）
+- [[实体/mahesh-v-madhavan|Mahesh V. Madhavan]]（4 源）
+- [[实体/newyork-presbyterian-hospital|NewYork-Presbyterian Hospital]]（4 源）
+- [[实体/fabien-praz|Fabien Praz]]（4 源）
+- [[实体/jason-h-rogers|Jason H. Rogers]]（4 源）
+- [[实体/dasi|DASI]]（4 源）
+- [[实体/vdyne|VDyne]]（4 源）
+- [[实体/nicholas-j-valle|Nicholas J. Valle]]（4 源）
+- [[实体/expanded|EXPANDed]]（4 源）
+- [[实体/aurora-st-luke-medical-center|Aurora St Luke Medical Center]]（4 源）
+- [[实体/qais-radaideh|Qais Radaideh]]（4 源）
+- [[实体/michael-i-brener|Michael I. Brener]]（4 源）
+- [[实体/dasi-simulations|DASI Simulations]]（4 源）
+- [[实体/henry-ford|Henry Ford]]（4 源）
+- [[实体/columbia-university|Columbia University]]（4 源）
+- [[实体/megan-coylewright|Megan Coylewright]]（4 源）
+- [[实体/shephal-doshi|Shephal Doshi]]（4 源）
+- [[实体/promedica-toledo-hospital|ProMedica Toledo Hospital]]（4 源）
+- [[实体/philippe-généreux|Philippe Généreux]]（4 源）
+- [[实体/tavr-unload|TAVR-UNLOAD]]（4 源）
+- [[实体/thomas-modine|Thomas Modine]]（4 源）
+- [[实体/atlas-pivotal-trial|ATLAS Pivotal Trial]]（4 源）
+- [[实体/vasilis-babaliaros|Vasilis Babaliaros]]（4 源）
+- [[实体/amulet-360|Amulet 360]]（4 源）
+- [[实体/gagnon-cardiovascular-institute|Gagnon Cardiovascular Institute]]（4 源）
+- [[实体/trillium|Trillium]]（4 源）
+- [[实体/edwin-ho|Edwin Ho]]（4 源）
+- [[实体/mosaic|Mosaic]]（4 源）
+- [[实体/harminder-s-gill|Harminder S. Gill]]（4 源）
+- [[实体/mayra-guerrero|Mayra Guerrero]]（4 源）
+- [[实体/avatar|AVATAR]]（4 源）
+- [[实体/american-heart-association|American Heart Association]]（4 源）
+- [[实体/paste-registry|PASTE Registry]]（4 源）
+- [[实体/stefan-toggweiler|Stefan Toggweiler]]（4 源）
+- [[实体/jean-michel-paradis|Jean-Michel Paradis]]（4 源）
+- [[实体/quebec-heart-and-lung-institute|Quebec Heart and Lung Institute]]（4 源）
+- [[实体/saturn-tmvr|Saturn TMVR]]（4 源）
+- [[实体/mitral-trial|MITRAL Trial]]（4 源）
+- [[实体/4c-medical|4C Medical]]（4 源）
+- [[实体/trisol|Trisol]]（4 源）
+- [[实体/cedars-sinai-smidt-heart-institute|Cedars-Sinai Smidt Heart Institute]]（4 源）
+- [[实体/mitraclip-xtr|MitraClip XTR]]（4 源）
+- [[实体/trilogy|Trilogy]]（4 源）
+- [[实体/national-inpatient-sample|National Inpatient Sample]]（4 源）
+- [[实体/jeffrey-popma|Jeffrey Popma]]（4 源）
+- [[实体/cephea|Cephea]]（4 源）
+- [[实体/journey|Journey]]（4 源）
+- [[实体/jad-mroue|Jad Mroue]]（4 源）
+- [[实体/meril-life-sciences|Meril Life Sciences]]（4 源）
+- [[实体/david-j-cohen|David J. Cohen]]（3 源）
+- [[实体/tri-qol|TRI-QOL]]（3 源）
+- [[实体/atriclip|AtriClip]]（3 源）
+- [[实体/conformal-medical|Conformal Medical]]（3 源）
+- [[实体/wei-hsian-yin|Wei-Hsian Yin]]（3 源）
+- [[实体/vivid-registry|VIVID Registry]]（3 源）
+- [[实体/molly-szerlip|Molly Szerlip]]（3 源）
+- [[实体/karim-al-azizi|Karim Al-Azizi]]（3 源）
+- [[实体/lauren-s-ranard|Lauren S. Ranard]]（3 源）
+- [[实体/ny-valves-2026|NY Valves 2026]]（3 源）
+- [[实体/proglide|ProGlide]]（3 源）
+- [[实体/ce-perimount|CE Perimount]]（3 源）
+- [[实体/mitraclip-nt|MitraClip NT]]（3 源）
+- [[实体/andrea-scotti|Andrea Scotti]]（3 源）
+- [[实体/tct-2026|TCT 2026]]（3 源）
+- [[实体/banner-university-medical-center|Banner University Medical Center]]（3 源）
+- [[实体/anita-w-asgar|Anita W. Asgar]]（3 源）
+- [[实体/emboliner|Emboliner]]（3 源）
+- [[实体/st-bernards-heart-&-vascular-center|St. Bernard's Heart & Vascular Center]]（3 源）
+- [[实体/george-hanna|George Hanna]]（3 源）
+- [[实体/expand|EXPAND]]（3 源）
+- [[实体/impella-5-5|Impella 5.5]]（3 源）
+- [[实体/houston-methodist|Houston Methodist]]（3 源）
+- [[实体/nino-mihatov|Nino Mihatov]]（3 源）
+- [[实体/magna-ease|Magna Ease]]（3 源）
+- [[实体/aakriti-gupta|Aakriti Gupta]]（3 源）
+- [[实体/watchman-2-5|Watchman 2.5]]（3 源）
+- [[实体/tricav-i|TRICAV-I]]（3 源）
+- [[实体/tricav-ii|TRICAV-II]]（3 源）
+- [[实体/rishi-puri|Rishi Puri]]（3 源）
+- [[实体/mount-sinai-health-system|Mount Sinai Health System]]（3 源）
+- [[实体/watchman-elite|WATCHMAN Elite]]（3 源）
+- [[实体/augustin-coisne|Augustin Coisne]]（3 源）
+- [[实体/northwestern-university-feinberg-school-of-medicine|Northwestern University Feinberg School of Medicine]]（3 源）
+- [[实体/revalve-solutions|ReValve Solutions]]（3 源）
+- [[实体/sachin-s-goel|Sachin S. Goel]]（3 源）
+- [[实体/stephen-h-little|Stephen H. Little]]（3 源）
+- [[实体/miho-fukui|Miho Fukui]]（3 源）
+- [[实体/alexander-lauten|Alexander Lauten]]（3 源）
+- [[实体/trinetx|TriNetX]]（3 源）
+- [[实体/kings-college-london|King's College London]]（3 源）
+- [[实体/corevalveevolut|CoreValve/Evolut]]（3 源）
+- [[实体/sreek-vemulapalli|Sreek Vemulapalli]]（3 源）
+- [[实体/raj-tayal|Raj Tayal]]（3 源）
+- [[实体/valley-health-system|Valley Health System]]（3 源）
+- [[实体/matthew-j-price|Matthew J. Price]]（3 源）
+- [[实体/highlife-tmvr|HighLife TMVR]]（3 源）
+- [[实体/jörg-hausleiter|Jörg Hausleiter]]（3 源）
+- [[实体/partner|PARTNER]]（3 源）
+- [[实体/avp-iii|AVP III]]（3 源）
+- [[实体/gennaro-giustino|Gennaro Giustino]]（3 源）
+- [[实体/closure-af|CLOSURE-AF]]（3 源）
+- [[实体/laza-medical|Laza Medical]]（3 源）
+- [[实体/partner-2a|PARTNER 2A]]（3 源）
+- [[实体/vivek-y-reddy|Vivek Y. Reddy]]（3 源）
+- [[实体/watch-tavr|WATCH-TAVR]]（3 源）
+- [[实体/tsuyoshi-kaneko|Tsuyoshi Kaneko]]（3 源）
+- [[实体/progress|PROGRESS]]（3 源）
+- [[实体/vanderbilt-university-medical-center|Vanderbilt University Medical Center]]（3 源）
+- [[实体/abhijeet-dhoble|Abhijeet Dhoble]]（3 源）
+- [[实体/baylor-university-medical-center|Baylor University Medical Center]]（3 源）
+- [[实体/tamim-nazif|Tamim Nazif]]（3 源）
+- [[实体/nadira-hamid|Nadira Hamid]]（3 源）
+- [[实体/ayesha-rehman|Ayesha Rehman]]（3 源）
+- [[实体/recovery|RECOVERY]]（3 源）
+- [[实体/shmuel-chen|Shmuel Chen]]（3 源）
+- [[实体/kent-chak-yu-so|Kent Chak-yu So]]（3 源）
+- [[实体/pedro-villablanca|Pedro Villablanca]]（3 源）
+- [[实体/rick-a-nishimura|Rick A. Nishimura]]（3 源）
+- [[实体/patrick-t-ogara|Patrick T. O'Gara]]（3 源）
+- [[实体/ōnō-retrieval-system|ŌNŌ Retrieval System]]（3 源）
+- [[实体/university-of-california-davis-health|University of California Davis Health]]（3 源）
+- [[实体/ensnare|EnSnare]]（3 源）
+- [[实体/innovheart|Innovheart]]（3 源）
+- [[实体/jiun-ruey-hu|Jiun-Ruey Hu]]（3 源）
+- [[实体/jennifer-von-stein|Jennifer von Stein]]（3 源）
+- [[实体/sukhdeep-s-basra|Sukhdeep S Basra]]（3 源）
+- [[实体/impella-cp|Impella CP]]（3 源）
+- [[实体/american-college-of-cardiology|American College of Cardiology]]（3 源）
+- [[实体/yoshinobu-onuma|Yoshinobu Onuma]]（3 源）
+- [[实体/torsten-vahl|Torsten Vahl]]（3 源）
+- [[实体/clasp-iid|CLASP IID]]（3 源）
+- [[实体/victor-chang-cardiac-research-institute|Victor Chang Cardiac Research Institute]]（3 源）
+- [[实体/epic-生物瓣|Epic 生物瓣]]（3 源）
+- [[实体/beatrice-bacchi|Beatrice Bacchi]]（3 源）
+- [[实体/duravr|DurAVR]]（3 源）
+- [[实体/paradigm|PARADIGM]]（3 源）
+- [[实体/patrick-w-serruys|Patrick W Serruys]]（3 源）
+- [[实体/chu-de-nantes|CHU de Nantes]]（3 源）
+- [[实体/northwell-health|Northwell Health]]（3 源）
+- [[实体/jaffar-m-khan|Jaffar M. Khan]]（3 源）
+- [[实体/sapien-ultra|Sapien Ultra]]（3 源）
+- [[实体/triscend|TRISCEND]]（3 源）
+- [[实体/gore-viabahn-vbx|Gore Viabahn VBX]]（3 源）
+- [[实体/institut-cardiovasculaire-paris-sud|Institut Cardiovasculaire Paris Sud]]（3 源）
+- [[实体/pacific-heart-institute|Pacific Heart Institute]]（3 源）
+- [[实体/interbalkan-medical-center|Interbalkan Medical Center]]（3 源）
+- [[实体/amplatzer-duct-occluder|Amplatzer Duct Occluder]]（3 源）
+- [[实体/triclip-g4|TriClip G4]]（2 源）
+- [[实体/aaron-v-kaplan|Aaron V. Kaplan]]（2 源）
+- [[实体/cheng-hsin-general-hospital|Cheng Hsin General Hospital]]（2 源）
+- [[实体/hopital-saint-joseph|Hopital Saint Joseph]]（2 源）
+- [[实体/rami-al-ayyubi|Rami Al-Ayyubi]]（2 源）
+- [[实体/siu-school-of-medicine|SIU School of Medicine]]（2 源）
+- [[实体/omar-khalique|Omar Khalique]]（2 源）
+- [[实体/alan-zajarias|Alan Zajarias]]（2 源）
+- [[实体/perimount|Perimount]]（2 源）
+- [[实体/isida-byku|Isida Byku]]（2 源）
+- [[实体/mitraclip-xt|MitraClip XT]]（2 源）
+- [[实体/ashwini-kerkar|Ashwini Kerkar]]（2 源）
+- [[实体/medtronic-evolut-fx+|Medtronic Evolut FX+]]（2 源）
+- [[实体/julius-jelisejevas|Julius Jelisejevas]]（2 源）
+- [[实体/vancouver-general-hospital|Vancouver General Hospital]]（2 源）
+- [[实体/montreal-heart-institute|Montreal Heart Institute]]（2 源）
+- [[实体/john-thomas-saxon|John Thomas Saxon]]（2 源）
+- [[实体/géraldine-ong|Géraldine Ong]]（2 源）
+- [[实体/nyu-langone-health|NYU Langone Health]]（2 源）
+- [[实体/trigistry|TRIGISTRY]]（2 源）
+- [[实体/markus-scherer|Markus Scherer]]（2 源）
+- [[实体/explore-mr|EXPLORE MR]]（2 源）
+- [[实体/hackensack-university-medical-center|Hackensack University Medical Center]]（2 源）
+- [[实体/kenneth-a-ellenbogen|Kenneth A. Ellenbogen]]（2 源）
+- [[实体/giulio-mondellini|Giulio Mondellini]]（2 源）
+- [[实体/louis-labrousse|Louis Labrousse]]（2 源）
+- [[实体/matterhorn-trial|MATTERHORN Trial]]（2 源）
+- [[实体/william-a-gray|William A. Gray]]（2 源）
+- [[实体/lankenau-heart-institute|Lankenau Heart Institute]]（2 源）
+- [[实体/avp4|AVP4]]（2 源）
+- [[实体/catrx|CatRX]]（2 源）
+- [[实体/medical-university-of-south-carolina|Medical University of South Carolina]]（2 源）
+- [[实体/takayuki-onishi|Takayuki Onishi]]（2 源）
+- [[实体/acurate-prime|Acurate Prime]]（2 源）
+- [[实体/jennifer-jantz|Jennifer Jantz]]（2 源）
+- [[实体/cardiovalve|Cardiovalve]]（2 源）
+- [[实体/mahmoud-abdelsalam|Mahmoud Abdelsalam]]（2 源）
+- [[实体/reshape-hf2|RESHAPE-HF2]]（2 源）
+- [[实体/2025-esceacts-瓣膜病指南|2025 ESC/EACTS 瓣膜病指南]]（2 源）
+- [[实体/yashasvi-chugh|Yashasvi Chugh]]（2 源）
+- [[实体/amplatzer-muscular-vsd-occluder|Amplatzer Muscular VSD Occluder]]（2 源）
+- [[实体/shreyas-nandyal|Shreyas Nandyal]]（2 源）
+- [[实体/georg-nickenig|Georg Nickenig]]（2 源）
+- [[实体/heart-center-university-hospital-bonn|Heart Center University Hospital Bonn]]（2 源）
+- [[实体/edwards|Edwards]]（2 源）
+- [[实体/yaser-nemshah|Yaser Nemshah]]（2 源）
+- [[实体/davide-margonato|Davide Margonato]]（2 源）
+- [[实体/allina-health-minneapolis-heart-institute|Allina Health Minneapolis Heart Institute]]（2 源）
+- [[实体/stephanie-sellers|Stephanie Sellers]]（2 源）
+- [[实体/alan-wong|Alan Wong]]（2 源）
+- [[实体/precise-tavi|PRECISE-TAVI]]（2 源）
+- [[实体/mimics-for-tavr|Mimics for TAVR]]（2 源）
+- [[实体/philippe-garot|Philippe Garot]]（2 源）
+- [[实体/amplatzer-pfo-occluder|Amplatzer PFO Occluder]]（2 源）
+- [[实体/laplace-ttvr|Laplace TTVR]]（2 源）
+- [[实体/james-v-freeman|James V. Freeman]]（2 源）
+- [[实体/believers|BELIEVERS]]（2 源）
+- [[实体/navitor-vision|Navitor Vision]]（2 源）
+- [[实体/firas-zahr|Firas Zahr]]（2 源）
+- [[实体/manaf-assafin|Manaf Assafin]]（2 源）
+- [[实体/otávio-augusto-aragão|Otávio Augusto Aragão]]（2 源）
+- [[实体/amx-technologies|AMX Technologies]]（2 源）
+- [[实体/laaos-iii|LAAOS III]]（2 源）
+- [[实体/jacqueline-saw|Jacqueline Saw]]（2 源）
+- [[实体/trinity|TRINITY]]（2 源）
+- [[实体/juan-f-granada|Juan F. Granada]]（2 源）
+- [[实体/hasan-jilaihawi|Hasan Jilaihawi]]（2 源）
+- [[实体/christian-hengstenberg|Christian Hengstenberg]]（2 源）
+- [[实体/emory-university|Emory University]]（2 源）
+- [[实体/scaihrs|SCAI/HRS]]（2 源）
+- [[实体/mitris|MITRIS]]（2 源）
+- [[实体/evolve|EVOLVE]]（2 源）
+- [[实体/maurice-enriquez-sarano|Maurice Enriquez-Sarano]]（2 源）
+- [[实体/wayne-batchelor|Wayne Batchelor]]（2 源）
+- [[实体/inova-health-system|Inova Health System]]（2 源）
+- [[实体/amir-ghabousian|Amir Ghabousian]]（2 源）
+- [[实体/safari-导丝|Safari 导丝]]（2 源）
+- [[实体/lluis-asmarats|Lluis Asmarats]]（2 源）
+- [[实体/hospital-sant-pau|Hospital Sant Pau]]（2 源）
+- [[实体/alert-trial|ALERT Trial]]（2 源）
+- [[实体/detect-as|DETECT AS]]（2 源）
+- [[实体/helios-academic-hospital|Helios Academic Hospital]]（2 源）
+- [[实体/nirat-beohar|Nirat Beohar]]（2 源）
+- [[实体/echonext|EchoNext]]（2 源）
+- [[实体/university-of-maryland-medical-center|University of Maryland Medical Center]]（2 源）
+- [[实体/chirag-bavishi|Chirag Bavishi]]（2 源）
+- [[实体/on-x|On-X]]（2 源）
+- [[实体/p-kasi-ramanathan|P. Kasi Ramanathan]]（2 源）
+- [[实体/andrea-natale|Andrea Natale]]（2 源）
+- [[实体/4tavr|4TAVR]]（2 源）
+- [[实体/vitaliy-androshchuk|Vitaliy Androshchuk]]（2 源）
+- [[实体/jeremiah-p-depta|Jeremiah P. Depta]]（2 源）
+- [[实体/ncdr|NCDR]]（2 源）
+- [[实体/medical-university-of-silesia|Medical University of Silesia]]（2 源）
+- [[实体/emblok|Emblok]]（2 源）
+- [[实体/houston-methodist-hospital|Houston Methodist Hospital]]（2 源）
+- [[实体/france-tavi|FRANCE-TAVI]]（2 源）
+- [[实体/guillaume-bonnet|Guillaume Bonnet]]（2 源）
+- [[实体/kendra-j-grubb|Kendra J. Grubb]]（2 源）
+- [[实体/impella-rp-flex|Impella RP Flex]]（2 源）
+- [[实体/michael-joner|Michael Joner]]（2 源）
+- [[实体/vincenzo-cesario|Vincenzo Cesario]]（2 源）
+- [[实体/veranex|Veranex]]（2 源）
+- [[实体/duke-clinical-research-institute|Duke Clinical Research Institute]]（2 源）
+- [[实体/occlutech-pld|Occlutech PLD]]（2 源）
+- [[实体/catalyst|CATALYST]]（2 源）
+- [[实体/2025-scaihrs-laao指南|2025 SCAI/HRS LAAO指南]]（2 源）
+- [[实体/surtavi|SURTAVI]]（2 源）
+- [[实体/ahmad-alkhalil|Ahmad Alkhalil]]（2 源）
+- [[实体/john-k-forrest|John K. Forrest]]（2 源）
+- [[实体/yale-school-of-medicine|Yale School of Medicine]]（2 源）
+- [[实体/scott-m-chadderdon|Scott M. Chadderdon]]（2 源）
+- [[实体/sapien-xt|SAPIEN XT]]（2 源）
+- [[实体/shockwave-m5+|Shockwave M5+]]（2 源）
+- [[实体/rabin-medical-center|Rabin Medical Center]]（2 源）
+- [[实体/st-francis-hospital-&-heart-center|St. Francis Hospital & Heart Center]]（2 源）
+- [[实体/cms-medpar|CMS MedPAR]]（2 源）
+- [[实体/nabil-sabbak|Nabil Sabbak]]（2 源）
+- [[实体/wellstar-kennestone-hospital|Wellstar Kennestone Hospital]]（2 源）
+- [[实体/michael-cryer|Michael Cryer]]（2 源）
+- [[实体/prisma-health-midlands|Prisma Health Midlands]]（2 源）
+- [[实体/nrd|NRD]]（2 源）
+- [[实体/brian-r-lindman|Brian R. Lindman]]（2 源）
+- [[实体/protected-tavr|PROTECTED TAVR]]（2 源）
+- [[实体/laralab|LARALAB]]（2 源）
+- [[实体/ralph-stephan-von-bardeleben|Ralph Stephan von Bardeleben]]（2 源）
+- [[实体/uthealth-houston-heart-&-vascular|UTHealth Houston Heart & Vascular]]（2 源）
+- [[实体/stephan-windecker|Stephan Windecker]]（2 源）
+- [[实体/expand-g4|EXPAND G4]]（2 源）
+- [[实体/roxana-mehran|Roxana Mehran]]（2 源）
+- [[实体/rishab-agarwal|Rishab Agarwal]]（2 源）
+- [[实体/thomas-pilgrim|Thomas Pilgrim]]（2 源）
+- [[实体/evolved|EVOLVED]]（2 源）
+- [[实体/everest-ii|EVEREST II]]（2 源）
+- [[实体/northwestern-medicine|Northwestern Medicine]]（2 源）
+- [[实体/deborah-heart-and-lung-center|Deborah Heart and Lung Center]]（2 源）
+- [[实体/amar-krishnaswamy|Amar Krishnaswamy]]（2 源）
+- [[实体/toby-rogers|Toby Rogers]]（2 源）
+- [[实体/medstar-washington-hospital-center|MedStar Washington Hospital Center]]（2 源）
+- [[实体/ravi-ramana|Ravi Ramana]]（2 源）
+- [[实体/smartcrack|SMARTCRACK]]（2 源）
+- [[实体/telltale|TELLTALE]]（2 源）
+- [[实体/essentia-health|Essentia Health]]（2 源）
+- [[实体/spanish-tavi-registry|Spanish TAVI Registry]]（2 源）
+- [[实体/asan-medical-center|Asan Medical Center]]（2 源）
+- [[实体/rama-ellauzi|Rama Ellauzi]]（2 源）
+- [[实体/keith-b-allen|Keith B. Allen]]（2 源）
+- [[实体/bjc-st-lukes-mid-america-heart-institute|BJC St. Luke's Mid America Heart Institute]]（2 源）
+- [[实体/samuel-horr|Samuel Horr]]（2 源）
+- [[实体/centennial-medical-center|Centennial Medical Center]]（2 源）
+- [[实体/summit|SUMMIT]]（2 源）
+- [[实体/encircle-mac-registry|ENCIRCLE MAC Registry]]（2 源）
+- [[实体/yu-chuan-chuang|Yu-Chuan Chuang]]（2 源）
+- [[实体/northwell-health-lenox-hill-hospital|Northwell Health Lenox Hill Hospital]]（2 源）
+- [[实体/gianmaria-calamita|Gianmaria Calamita]]（2 源）
+- [[实体/tricure-efs|TRICURE EFS]]（2 源）
+- [[实体/tricure-us-ide-pivotal|TRICURE US IDE PIVOTAL]]（2 源）
+- [[实体/heart-center-lucerne|Heart Center Lucerne]]（2 源）
+- [[实体/university-of-washington|University of Washington]]（2 源）
+- [[实体/charanjit-rihal|Charanjit Rihal]]（2 源）
+- [[实体/target-as|Target: AS]]（2 源）
+- [[实体/paolo-denti|Paolo Denti]]（2 源）
+- [[实体/jacc-cardiovascular-interventions|JACC: Cardiovascular Interventions]]（2 源）
+- [[实体/isis-abu-mouch|Isis Abu Mouch]]（2 源）
+- [[实体/claas-acuform|CLAAS AcuFORM]]（2 源）
+- [[实体/physio-ii-ring|Physio II ring]]（2 源）
+- [[实体/zoltán-ruzsa|Zoltán Ruzsa]]（2 源）
+- [[实体/edwards-magna-ease|Edwards Magna Ease]]（2 源）
+- [[实体/elliott-elias|Elliott Elias]]（2 源）
+- [[实体/lampoon-trial|LAMPOON Trial]]（2 源）
+- [[实体/summit-mac|SUMMIT MAC]]（2 源）
+- [[实体/maude|MAUDE]]（2 源）
+- [[实体/heart-valve-centre|Heart Valve Centre]]（2 源）
+- [[实体/cleveland-clinic-london|Cleveland Clinic London]]（2 源）
+- [[实体/sam-dawkins|Sam Dawkins]]（2 源）
+- [[实体/explantorredo-tavr|EXPLANTORREDO-TAVR]]（2 源）
+- [[实体/surplus|SURPLUS]]（2 源）
+- [[实体/oklahoma-heart-hospital|Oklahoma Heart Hospital]]（2 源）
+- [[实体/hasaan-ahmed|Hasaan Ahmed]]（2 源）
+- [[实体/nicolas-m-van-mieghem|Nicolas M. Van Mieghem]]（2 源）
+- [[实体/amr-mohsen|Amr Mohsen]]（2 源）
+- [[实体/sami-alnasser|Sami Alnasser]]（2 源）
+- [[实体/chantal-y-asselin|Chantal Y. Asselin]]（2 源）
+- [[实体/shahab-masoumi|Shahab Masoumi]]（2 源）
+- [[实体/prince-of-wales-hospital|Prince of Wales Hospital]]（2 源）
+- [[实体/mohammed-salih|Mohammed Salih]]（2 源）
+- [[实体/freestyle|Freestyle]]（2 源）
+- [[实体/erwan-donal|Erwan Donal]]（2 源）
+- [[实体/centracare-st-cloud-hospital|CentraCare-St Cloud Hospital]]（2 源）
+- [[实体/valve-in-valve-app|Valve-in-Valve app]]（2 源）
+- [[实体/nicolas-krepostman|Nicolas Krepostman]]（2 源）
+- [[实体/northwestern-memorial-hospital|Northwestern Memorial Hospital]]（2 源）
+- [[实体/marcella-calfon-press|Marcella Calfon Press]]（2 源）
+- [[实体/iremmi|IREMMI]]（2 源）
+- [[实体/mrace-mitral-leaflet-restoration|MRace Mitral Leaflet Restoration]]（2 源）
+- [[实体/fabio-sândoli-de-brito|Fabio Sândoli de Brito]]（2 源）
+- [[实体/santiago-garcia|Santiago Garcia]]（2 源）
+- [[实体/jenscare|Jenscare]]（2 源）
+- [[实体/jorge-sandoval-berrocal|Jorge Sandoval Berrocal]]（2 源）
+- [[实体/instituto-nacional-del-torax|Instituto Nacional del Torax]]（2 源）
+- [[实体/gianluigi-bisleri|Gianluigi Bisleri]]（2 源）
+- [[实体/mariam-dvalishvili|Mariam Dvalishvili]]（2 源）
+- [[实体/stephen-worthley|Stephen Worthley]]（2 源）
+- [[实体/macquarie-university-hospital|Macquarie University Hospital]]（2 源）
+- [[实体/navigate-bicuspid|NAVIGATE Bicuspid]]（2 源）
+- [[实体/pantheon|PANTHEON]]（2 源）
+- [[实体/jenavad|JENAVAD]]（2 源）
+- [[实体/prevail|PREVAIL]]（2 源）
+- [[实体/prague-17|PRAGUE-17]]（2 源）
+- [[实体/najam-saqib|Najam Saqib]]（2 源）
+- [[实体/university-of-chicago-endeavor-health|University of Chicago-Endeavor Health]]（2 源）
+- [[实体/michael-a-borger|Michael A. Borger]]（2 源）
+- [[实体/leipzig-heart-center|Leipzig Heart Center]]（2 源）
+- [[实体/hari-chaliki|Hari Chaliki]]（2 源）
+- [[实体/brookdale-university-hospital-&-medical-center|Brookdale University Hospital & Medical Center]]（2 源）
+- [[实体/z-med-球囊|Z-Med 球囊]]（2 源）
+- [[实体/st-josephs-university-medical-center|St Joseph's University Medical Center]]（2 源）
+- [[实体/rebecca-t-hahn|Rebecca T. Hahn]]（2 源）
+- [[实体/st-francis-hospital|St. Francis Hospital]]（2 源）
+- [[实体/bioventrix|BioVentrix]]（2 源）
+- [[实体/kashish-goel|Kashish Goel]]（2 源）
+- [[实体/tavipilot|TAVIPILOT]]（2 源）
+- [[实体/cms-ncd|CMS NCD]]（2 源）
+- [[实体/robert-j-lederman|Robert J. Lederman]]（2 源）
+- [[实体/travel-study|TRAVEL study]]（2 源）
+- [[实体/activation-trial|ACTIVATION Trial]]（2 源）
+- [[实体/pro-tavi-trial|PRO-TAVI Trial]]（2 源）
+- [[实体/accucinch|AccuCinch]]（2 源）
+- [[实体/new-york-presbyterian-columbia-university|New York Presbyterian - Columbia University]]（2 源）
+- [[实体/philipp-von-stein|Philipp von Stein]]（2 源）
+- [[实体/baim-institute-for-clinical-research|Baim Institute for Clinical Research]]（2 源）
+- [[实体/nagendra-s-chouhan|Nagendra S Chouhan]]（2 源）
+- [[实体/mangesh-kritya|Mangesh Kritya]]（2 源）
+- [[实体/janelle-muuse|Janelle Muuse]]（2 源）
+- [[实体/ivan-hanson|Ivan Hanson]]（2 源）
+- [[实体/william-beaumont-university-hospital|William Beaumont University Hospital]]（2 源）
+- [[实体/highlife-tmvr-study|HighLife TMVR Study]]（2 源）
+- [[实体/cottage-health-system|Cottage Health System]]（2 源）
+- [[实体/joseph-aragon|Joseph Aragon]]（2 源）
+- [[实体/palmetto-tmvr-system|Palmetto TMVR System]]（2 源）
+- [[实体/minneapolis-heart-institute-foundation|Minneapolis Heart Institute Foundation]]（2 源）
+- [[实体/gaetano-liccardo|Gaetano Liccardo]]（2 源）
+- [[实体/galileo|GALILEO]]（2 源）
+- [[实体/atlantis|ATLANTIS]]（2 源）
+- [[实体/adapt-tavr|ADAPT-TAVR]]（2 源）
+- [[实体/abdulrahman-museedi|Abdulrahman Museedi]]（2 源）
+- [[实体/praveen-chandra|Praveen Chandra]]（2 源）
+- [[实体/st-pauls-hospital|St. Paul's Hospital]]（2 源）
+- [[实体/repair-注册研究|REPAIR 注册研究]]（2 源）
+- [[实体/queen-mary-hospital|Queen Mary Hospital]]（2 源）
+- [[实体/mitraclip-g4|MitraClip G4]]（2 源）
+- [[实体/ocean-mitral-registry|OCEAN-Mitral Registry]]（2 源）
+- [[实体/conform-ide|CONFORM IDE]]（2 源）
+- [[实体/cardiomems|CardioMEMS]]（2 源）
+- [[实体/inoue-balloon|Inoue balloon]]（2 源）
+- [[实体/mirvat-alasnag|Mirvat Alasnag]]（2 源）
+- [[实体/michigan-structural-heart-consortium|Michigan Structural Heart Consortium]]（2 源）
+- [[实体/sts-risk-calculator|STS Risk Calculator]]（2 源）
+- [[实体/afek-kodesh|Afek Kodesh]]（1 源）
+- [[实体/recross-cardio|Recross Cardio]]（1 源）
+- [[实体/carey-kimmelstiel|Carey Kimmelstiel]]（1 源）
+- [[实体/protea-pfo|PROTEA-PFO]]（1 源）
+- [[实体/pfo-seal|PFO Seal]]（1 源）
+- [[实体/abbott-amplatzer|Abbott Amplatzer]]（1 源）
+- [[实体/peter-flueckiger|Peter Flueckiger]]（1 源）
+- [[实体/dartmouth-health|Dartmouth Health]]（1 源）
+- [[实体/trajectory-guide|Trajectory Guide]]（1 源）
+- [[实体/prevent-tr-fih|Prevent TR FIH]]（1 源）
+- [[实体/katharina-epe|Katharina Epe]]（1 源）
+- [[实体/uksh-kiel|UKSH Kiel]]（1 源）
+- [[实体/toshimasa-tanaka|Toshimasa Tanaka]]（1 源）
+- [[实体/kardiapsi|KardiaPSI]]（1 源）
+- [[实体/alyza-baig|Alyza Baig]]（1 源）
+- [[实体/baystate-medical-center|Baystate Medical Center]]（1 源）
+- [[实体/edwards-magna|Edwards Magna]]（1 源）
+- [[实体/impella-rp|Impella RP]]（1 源）
+- [[实体/jaideep-menda|Jaideep Menda]]（1 源）
+- [[实体/solopace|SoloPace]]（1 源）
+- [[实体/solopace-fusion-wire|SoloPace Fusion Wire]]（1 源）
+- [[实体/giulia-passaniti|Giulia Passaniti]]（1 源）
+- [[实体/columbia-interventional-cardiovascular-care|Columbia Interventional Cardiovascular Care]]（1 源）
+- [[实体/john-g-webb|John G. Webb]]（1 源）
+- [[实体/saint-pauls-hospital|Saint Paul's Hospital]]（1 源）
+- [[实体/jonathan-x-fang|Jonathan X. Fang]]（1 源）
+- [[实体/mounika-lakhmalla|Mounika Lakhmalla]]（1 源）
+- [[实体/amplatzer|Amplatzer]]（1 源）
+- [[实体/mauricio-castillo-perez|Mauricio Castillo-Perez]]（1 源）
+- [[实体/hospital-zambrano-hellion|Hospital Zambrano-Hellion]]（1 源）
+- [[实体/srini-potluri|Srini Potluri]]（1 源）
+- [[实体/avp|AVP]]（1 源）
+- [[实体/edwards-classic-ring|Edwards Classic ring]]（1 源）
+- [[实体/xdot|xDot]]（1 源）
+- [[实体/manta|MANTA]]（1 源）
+- [[实体/mash-trial|MASH Trial]]（1 源）
+- [[实体/matthias-götberg|Matthias Götberg]]（1 源）
+- [[实体/valve-guide|Valve guide]]（1 源）
+- [[实体/skane-university-hospital|Skane University Hospital]]（1 源）
+- [[实体/amplatzer-valvular-plug|Amplatzer Valvular Plug]]（1 源）
+- [[实体/pivotal-trial|PIVOTAL trial]]（1 源）
+- [[实体/mitraclip-tvt|MitraClip TVT]]（1 源）
+- [[实体/tri-spa|TRI-SPA]]（1 源）
+- [[实体/pluto-study-ii|PLUTO-study II]]（1 源）
+- [[实体/mohammad-ghannam|Mohammad Ghannam]]（1 源）
+- [[实体/prospero|PROSPERO]]（1 源）
+- [[实体/openstent-solution|OpenStent Solution]]（1 源）
+- [[实体/cardiomech|CardioMech]]（1 源）
+- [[实体/roy-flemmer|Roy Flemmer]]（1 源）
+- [[实体/suoh-0-3|Suoh 0.3]]（1 源）
+- [[实体/nick-amoroso|Nick Amoroso]]（1 源）
+- [[实体/intellispace|Intellispace]]（1 源）
+- [[实体/tomtec|TOMTEC]]（1 源）
+- [[实体/valcare|Valcare]]（1 源）
+- [[实体/amend|AMEND]]（1 源）
+- [[实体/neochord|NeoChord]]（1 源）
+- [[实体/bluhm-cardiovascular-institute|Bluhm Cardiovascular Institute]]（1 源）
+- [[实体/john-radcliffe-hospital|John Radcliffe Hospital]]（1 源）
+- [[实体/raptor|Raptor]]（1 源）
+- [[实体/katherine-mcgee|Katherine McGee]]（1 源）
+- [[实体/the-university-of-toledo|The University of Toledo]]（1 源）
+- [[实体/promedica-heart-institute|ProMedica Heart Institute]]（1 源）
+- [[实体/stephan-baldus|Stephan Baldus]]（1 源）
+- [[实体/eurosmr-registry|EuroSMR Registry]]（1 源）
+- [[实体/momentum-3|MOMENTUM 3]]（1 源）
+- [[实体/gabriel-sayer|Gabriel Sayer]]（1 源）
+- [[实体/smaha-waseem|Smaha Waseem]]（1 源）
+- [[实体/anna-sannino|Anna Sannino]]（1 源）
+- [[实体/target-study|TARGET Study]]（1 源）
+- [[实体/dimitrios-magouliotis|Dimitrios Magouliotis]]（1 源）
+- [[实体/mitria|Mitria]]（1 源）
+- [[实体/saahil-jumkhawala|Saahil Jumkhawala]]（1 源）
+- [[实体/university-of-miami-miller-school-of-medicine|University of Miami Miller School of Medicine]]（1 源）
+- [[实体/cubeddu-et-al-jacc-2024|Cubeddu et al. JACC 2024]]（1 源）
+- [[实体/laaode-study|LAAODE Study]]（1 源）
+- [[实体/marcos-ferrandez-escarabajal|Marcos Ferrandez-Escarabajal]]（1 源）
+- [[实体/nazanin-afsarkazerooni|Nazanin AfsarKazerooni]]（1 源）
+- [[实体/carpentier-edwards-perimount|Carpentier-Edwards PERIMOUNT]]（1 源）
+- [[实体/kyung-woo-park|Kyung Woo Park]]（1 源）
+- [[实体/neochord-nexus|NeoChord NeXuS]]（1 源）
+- [[实体/abbott-asd-sizing-balloon|Abbott ASD sizing balloon]]（1 源）
+- [[实体/marco-metra|Marco Metra]]（1 源）
+- [[实体/irccs-san-raffaele-hospital|IRCCS San Raffaele Hospital]]（1 源）
+- [[实体/edwards-pericardial-valve|Edwards Pericardial Valve]]（1 源）
+- [[实体/reveal-afmr|REVEAL-AFMR]]（1 源）
+- [[实体/euroc-drt-registry|EUROC-DRT registry]]（1 源）
+- [[实体/carlen|CARLEN]]（1 源）
+- [[实体/nyra-medical|Nyra Medical]]（1 源）
+- [[实体/mustard-procedure|Mustard procedure]]（1 源）
+- [[实体/clifford-j-kavinsky|Clifford J. Kavinsky]]（1 源）
+- [[实体/loyola-university-stritch-school-of-medicine|Loyola University Stritch School of Medicine]]（1 源）
+- [[实体/scai|SCAI]]（1 源）
+- [[实体/medtronic-3d-contour|Medtronic 3D Contour]]（1 源）
+- [[实体/edwards-sapien-s3-ultra|Edwards Sapien S3 Ultra]]（1 源）
+- [[实体/peter-nguyen|Peter Nguyen]]（1 源）
+- [[实体/austin-heart|Austin Heart]]（1 源）
+- [[实体/nicolas-van-mieghem|Nicolas Van Mieghem]]（1 源）
+- [[实体/ziekenhuis-oost-limburg|Ziekenhuis Oost-Limburg]]（1 源）
+- [[实体/vista|VISTA]]（1 源）
+- [[实体/trivita|TRIVITA]]（1 源）
+- [[实体/medstar|MedStar]]（1 源）
+- [[实体/ischemia|ISCHEMIA]]（1 源）
+- [[实体/tricus-registry|Tricus Registry]]（1 源）
+- [[实体/kamran-muhammad|Kamran Muhammad]]（1 源）
+- [[实体/yale-new-haven-health|Yale New Haven Health]]（1 源）
+- [[实体/pcori|PCORI]]（1 源）
+- [[实体/patrascu-alexandru|Patrascu Alexandru]]（1 源）
+- [[实体/lux|Lux]]（1 源）
+- [[实体/christine-j-chung|Christine J. Chung]]（1 源）
+- [[实体/valsalva-graft|Valsalva graft]]（1 源）
+- [[实体/intrepid-ttvr|Intrepid TTVR]]（1 源）
+- [[实体/choice-trial|CHOICE trial]]（1 源）
+- [[实体/solve-tavi-trial|SOLVE-TAVI trial]]（1 源）
+- [[实体/scope-i-trial|SCOPE I trial]]（1 源）
+- [[实体/elasta|ELASTA]]（1 源）
+- [[实体/david-h-adams|David H. Adams]]（1 源）
+- [[实体/physio-flex-annuloplasty-ring|Physio Flex Annuloplasty Ring]]（1 源）
+- [[实体/lambre|Lambre]]（1 源）
+- [[实体/ishita-vasudev|Ishita Vasudev]]（1 源）
+- [[实体/lille-university-hospital|Lille University Hospital]]（1 源）
+- [[实体/narmeen-rehman|Narmeen Rehman]]（1 源）
+- [[实体/ahmed-k-abdelrahman|Ahmed K. Abdelrahman]]（1 源）
+- [[实体/tvarc-2|TVARC-2]]（1 源）
+- [[实体/diego-grinfeld|Diego Grinfeld]]（1 源）
+- [[实体/edwards-intuity|Edwards Intuity]]（1 源）
+- [[实体/smitha-narayana-gowda|Smitha Narayana Gowda]]（1 源）
+- [[实体/mackram-f-eleid|Mackram F. Eleid]]（1 源）
+- [[实体/astato-xs|Astato XS]]（1 源）
+- [[实体/de-vega-三尖瓣环成形|De Vega 三尖瓣环成形]]（1 源）
+- [[实体/asap-too-trial|ASAP-TOO Trial]]（1 源）
+- [[实体/croivalve-duo-adapt|CroiValve DUO Adapt]]（1 源）
+- [[实体/tandem-ii|TANDEM II]]（1 源）
+- [[实体/tandem-i|TANDEM I]]（1 源）
+- [[实体/hiroshi-tsunamoto|Hiroshi Tsunamoto]]（1 源）
+- [[实体/scifluid|SciFluid]]（1 源）
+- [[实体/tom-fringand|Tom Fringand]]（1 源）
+- [[实体/ap-hm-hospital|AP-HM Hospital]]（1 源）
+- [[实体/david-b-de-lurgio|David B. De Lurgio]]（1 源）
+- [[实体/akasa|AKASA]]（1 源）
+- [[实体/brad-boserup|Brad Boserup]]（1 源）
+- [[实体/dartmouth-hitchcock-medical-center|Dartmouth Hitchcock Medical Center]]（1 源）
+- [[实体/acc-cardiosmart|ACC CardioSmart]]（1 源）
+- [[实体/víctor-a-jiménez-díaz|Víctor A. Jiménez Díaz]]（1 源）
+- [[实体/allegra-tav|Allegra TAV]]（1 源）
+- [[实体/new-valve-technology|New Valve Technology]]（1 源）
+- [[实体/hospital-alvaro-cunqueiro|Hospital Alvaro Cunqueiro]]（1 源）
+- [[实体/pivot-extend|Pivot Extend]]（1 源）
+- [[实体/forma|Forma]]（1 源）
+- [[实体/fabian-barbieri|Fabian Barbieri]]（1 源）
+- [[实体/detect2|DETECT2]]（1 源）
+- [[实体/sammy-elmariah|Sammy Elmariah]]（1 源）
+- [[实体/mount-sinai-medical-center-miami-beach|Mount Sinai Medical Center Miami Beach]]（1 源）
+- [[实体/sid-wayangankar|Sid Wayangankar]]（1 源）
+- [[实体/amplatzer-talisman-pfo-occluder|Amplatzer Talisman PFO Occluder]]（1 源）
+- [[实体/baptist-health-system|Baptist Health System]]（1 源）
+- [[实体/dharam-j-kumbhani|Dharam J. Kumbhani]]（1 源）
+- [[实体/ut-southwestern-medical-center|UT Southwestern Medical Center]]（1 源）
+- [[实体/icardio-ai|iCardio.ai]]（1 源）
+- [[实体/kosmos-torso-one|Kosmos Torso-one]]（1 源）
+- [[实体/versa-adaptr|Versa AdapTR]]（1 源）
+- [[实体/versa-vascular|Versa Vascular]]（1 源）
+- [[实体/centre-cardiologique-du-nord|Centre Cardiologique Du Nord]]（1 源）
+- [[实体/triscend-trial|TRISCEND Trial]]（1 源）
+- [[实体/university-of-washington-medical-center|University of Washington Medical Center]]（1 源）
+- [[实体/pathway-labs|Pathway Labs]]（1 源）
+- [[实体/pierre-elias|Pierre Elias]]（1 源）
+- [[实体/sage-study|SAGE Study]]（1 源）
+- [[实体/dapatavi|DapaTAVI]]（1 源）
+- [[实体/valvematrix-aortic|ValveMatrix AORTIC]]（1 源）
+- [[实体/edwards-physio-ring|Edwards Physio ring]]（1 源）
+- [[实体/texas-cardiac-arrhythmia-institute|Texas Cardiac Arrhythmia Institute]]（1 源）
+- [[实体/journal-of-the-american-college-of-cardiology|Journal of the American College of Cardiology]]（1 源）
+- [[实体/aquarius-intuition|Aquarius Intuition]]（1 源）
+- [[实体/approxima|Approxima]]（1 源）
+- [[实体/redemption-registry|REDEMPTION Registry]]（1 源）
+- [[实体/prasham-dave|Prasham Dave]]（1 源）
+- [[实体/grzegorz-smolka|Grzegorz Smolka]]（1 源）
+- [[实体/parasuram-krishnamoorthy|Parasuram Krishnamoorthy]]（1 源）
+- [[实体/cesar-tr-registry|CESAR-TR Registry]]（1 源）
+- [[实体/abbott-aveir|Abbott Aveir]]（1 源）
+- [[实体/intertak-评分|InterTAK 评分]]（1 源）
+- [[实体/rampart-vanguard|Rampart Vanguard]]（1 源）
+- [[实体/uab-structural-heart-&-valve-clinic|UAB Structural Heart & Valve Clinic]]（1 源）
+- [[实体/secure-data-series|SECURE data series]]（1 源）
+- [[实体/evolut-tavr-low-risk-bicuspid-study|Evolut TAVR Low Risk Bicuspid Study]]（1 源）
+- [[实体/giovanni-paolella|Giovanni Paolella]]（1 源）
+- [[实体/kaoutare-chbini|Kaoutare Chbini]]（1 源）
+- [[实体/hawthorne-health|Hawthorne Health]]（1 源）
+- [[实体/jodi-akin|Jodi Akin]]（1 源）
+- [[实体/abdallah-el-sabbagh|Abdallah El Sabbagh]]（1 源）
+- [[实体/chief-hf|CHIEF-HF]]（1 源）
+- [[实体/heartline|Heartline]]（1 源）
+- [[实体/john-spertus|John Spertus]]（1 源）
+- [[实体/ahmed-elshafie|Ahmed Elshafie]]（1 源）
+- [[实体/hartford-healthcare|Hartford HealthCare]]（1 源）
+- [[实体/kiyan-heybati|Kiyan Heybati]]（1 源）
+- [[实体/loeys-dietz-综合征|Loeys-Dietz 综合征]]（1 源）
+- [[实体/orbit-af-ii|ORBIT-AF II]]（1 源）
+- [[实体/coapt-valve|CoApt Valve]]（1 源）
+- [[实体/neocor-llc|Neocor LLC]]（1 源）
+- [[实体/george-a-kramer|George A. Kramer]]（1 源）
+- [[实体/lifetec-group|LifeTec Group]]（1 源）
+- [[实体/keck|Keck]]（1 源）
+- [[实体/chad-rammohan|Chad Rammohan]]（1 源）
+- [[实体/deepu-nair|Deepu Nair]]（1 源）
+- [[实体/sung-han-yoon|Sung-Han Yoon]]（1 源）
+- [[实体/perimountmagna|Perimount/Magna]]（1 源）
+- [[实体/neel-butala|Neel Butala]]（1 源）
+- [[实体/va-cart|VA-CART]]（1 源）
+- [[实体/veterans-affairs-healthcare-system|Veterans Affairs Healthcare System]]（1 源）
+- [[实体/valfix|VALFIX]]（1 源）
+- [[实体/yaron-almagor|Yaron Almagor]]（1 源）
+- [[实体/sanger-heart-&-vascular-institute|Sanger Heart & Vascular Institute]]（1 源）
+- [[实体/medtronic-evolute|Medtronic Evolute]]（1 源）
+- [[实体/lee-health-heart-institute|Lee Health Heart Institute]]（1 源）
+- [[实体/hannah-runnoe|Hannah Runnoe]]（1 源）
+- [[实体/nabeel-memon|Nabeel Memon]]（1 源）
+- [[实体/amir-sharon|Amir Sharon]]（1 源）
+- [[实体/lenox-hill-hospital|Lenox Hill Hospital]]（1 源）
+- [[实体/capital-minos|CAPITAL MINOS]]（1 源）
+- [[实体/chu-de-bordeaux|CHU de Bordeaux]]（1 源）
+- [[实体/snds|SNDS]]（1 源）
+- [[实体/stop-as|STOP-AS]]（1 源）
+- [[实体/french-society-of-cardiology|French Society of Cardiology]]（1 源）
+- [[实体/early-feasibility-study|Early Feasibility Study]]（1 源）
+- [[实体/vivian-g-ng|Vivian G. Ng]]（1 源）
+- [[实体/highlife-clarity|HighLife Clarity]]（1 源）
+- [[实体/eroica|EROICA]]（1 源）
+- [[实体/emory-structural-heart-&-valve-center|Emory Structural Heart & Valve Center]]（1 源）
+- [[实体/grant-reed|Grant Reed]]（1 源）
+- [[实体/true-球囊|TRUE 球囊]]（1 源）
+- [[实体/krishna-santosh-vemuri|Krishna Santosh Vemuri]]（1 源）
+- [[实体/goose-neck-snare|Goose neck snare]]（1 源）
+- [[实体/jama-cardiology|JAMA Cardiology]]（1 源）
+- [[实体/rotavi-registry|ROTAVI Registry]]（1 源）
+- [[实体/san-camillo-forlanini-hospital|San Camillo Forlanini Hospital]]（1 源）
+- [[实体/thomas-e-waggoner|Thomas E. Waggoner]]（1 源）
+- [[实体/kate-dalton|Kate Dalton]]（1 源）
+- [[实体/pablo-morales|Pablo Morales]]（1 源）
+- [[实体/lmu-klinikum|LMU Klinikum]]（1 源）
+- [[实体/tria-mitral-valve|TRIA Mitral Valve]]（1 源）
+- [[实体/indian-mitral-surgical-trial|Indian Mitral Surgical Trial]]（1 源）
+- [[实体/michael-l-chuang|Michael L. Chuang]]（1 源）
+- [[实体/sts-adult-cardiac-surgery-database|STS Adult Cardiac Surgery Database]]（1 源）
+- [[实体/saib-s-khogali|Saib S. Khogali]]（1 源）
+- [[实体/royal-brompton-hospital|Royal Brompton Hospital]]（1 源）
+- [[实体/pvl-academic-research-consortium|PVL Academic Research Consortium]]（1 源）
+- [[实体/shunsuke-kubo|Shunsuke Kubo]]（1 源）
+- [[实体/kurashiki-central-hospital|Kurashiki Central Hospital]]（1 源）
+- [[实体/reda-ibrahim|Reda Ibrahim]]（1 源）
+- [[实体/torqvue-45x45|TorqVue 45x45]]（1 源）
+- [[实体/andrew-m-goldsweig|Andrew M. Goldsweig]]（1 源）
+- [[实体/akash-makkar|Akash Makkar]]（1 源）
+- [[实体/precise-laao|PRECISE LAAO]]（1 源）
+- [[实体/emerge-laa|EMERGE LAA]]（1 源）
+- [[实体/changfu-wu|Changfu Wu]]（1 源）
+- [[实体/medtronic-corevalve|Medtronic CoreValve]]（1 源）
+- [[实体/robert-w-yeh|Robert W. Yeh]]（1 源）
+- [[实体/extend|EXTEND]]（1 源）
+- [[实体/mostafa-naguib|Mostafa Naguib]]（1 源）
+- [[实体/elasta-t|ELASTA-T]]（1 源）
+- [[实体/deviceguide|DeviceGuide]]（1 源）
+- [[实体/arnar-geirsson|Arnar Geirsson]]（1 源）
+- [[实体/cutting-edge-registry|CUTTING-EDGE registry]]（1 源）
+- [[实体/laaos-4|LAAOS-4]]（1 源）
+- [[实体/abdellaziz-dahou|Abdellaziz Dahou]]（1 源）
+- [[实体/geisinger-medical-center|Geisinger Medical Center]]（1 源）
+- [[实体/bistees-george|Bistees George]]（1 源）
+- [[实体/amplatzer-cribriform|Amplatzer Cribriform]]（1 源）
+- [[实体/takashi-matsumoto|Takashi Matsumoto]]（1 源）
+- [[实体/robe|ROB'E]]（1 源）
+- [[实体/ge-vivid-e95|GE Vivid E95]]（1 源）
+- [[实体/xianbao-liu|Xianbao Liu]]（1 源）
+- [[实体/jianan-wang|Jian'an Wang]]（1 源）
+- [[实体/j-valve-tf|J-Valve TF]]（1 源）
+- [[实体/art-trial|ART Trial]]（1 源）
+- [[实体/nmpa|NMPA]]（1 源）
+- [[实体/david-zemanek|David Zemanek]]（1 源）
+- [[实体/general-university-hospital-prague|General University Hospital Prague]]（1 源）
+- [[实体/mu-shiang-huang|Mu-shiang Huang]]（1 源）
+- [[实体/national-cheng-kung-university-hospital|National Cheng Kung University Hospital]]（1 源）
+- [[实体/leor-perl|Leor Perl]]（1 源）
+- [[实体/sheba-medical-center|Sheba Medical Center]]（1 源）
+- [[实体/remart-working-group|REMART Working Group]]（1 源）
+- [[实体/elasta-clip|ELASTA-Clip]]（1 源）
+- [[实体/adil-ansari|Adil Ansari]]（1 源）
+- [[实体/suiteheart|SuiteHeart]]（1 源）
+- [[实体/syngo-via|Syngo.Via]]（1 源）
+- [[实体/cvi42|CVI42]]（1 源）
+- [[实体/michael-beshara|Michael Beshara]]（1 源）
+- [[实体/gates-vascular-institute|Gates Vascular Institute]]（1 源）
+- [[实体/ajit-p-yoganathan|Ajit P. Yoganathan]]（1 源）
+- [[实体/acurate-neo|Acurate Neo]]（1 源）
+- [[实体/iso-5840|ISO 5840]]（1 源）
+- [[实体/ge-healthcare-caption-ai|GE HealthCare Caption AI]]（1 源）
+- [[实体/echonous-kosmos|EchoNous KOSMOS]]（1 源）
+- [[实体/ultrasight|UltraSight]]（1 源）
+- [[实体/yukari-kobayashi|Yukari Kobayashi]]（1 源）
+- [[实体/aladin-altic|Aladin Altic]]（1 源）
+- [[实体/jacobi-medical-center|Jacobi Medical Center]]（1 源）
+- [[实体/martin-swaans|Martin Swaans]]（1 源）
+- [[实体/repair-study|REPAIR study]]（1 源）
+- [[实体/prime-mr|PRIME-MR]]（1 源）
+- [[实体/st-antonius-hospital|St. Antonius Hospital]]（1 源）
+- [[实体/tribeca-registry|TRIBECA registry]]（1 源）
+- [[实体/repair-mr|REPAIR MR]]（1 源）
+- [[实体/primary-trial|PRIMARY Trial]]（1 源）
+- [[实体/timothy-poterucha|Timothy Poterucha]]（1 源）
+- [[实体/delineate|DELINEATE]]（1 源）
+- [[实体/mahmoud-ismayl|Mahmoud Ismayl]]（1 源）
+- [[实体/johns-hopkins-adjusted-clinical-groups|Johns Hopkins Adjusted Clinical Groups]]（1 源）
+- [[实体/tamim-m-nazif|Tamim M. Nazif]]（1 源）
+- [[实体/abdulaziz-al-shaibi|Abdulaziz Al-Shaibi]]（1 源）
+- [[实体/robert-gooley|Robert Gooley]]（1 源）
+- [[实体/point-guard-pro|Point-Guard PRO]]（1 源）
+- [[实体/transverse-medical-inc|Transverse Medical Inc]]（1 源）
+- [[实体/victorian-heart-hospital|Victorian Heart Hospital]]（1 源）
+- [[实体/guardian|GUARDIAN]]（1 源）
+- [[实体/colin-barker|Colin Barker]]（1 源）
+- [[实体/sameer-gafoor|Sameer Gafoor]]（1 源）
+- [[实体/alvin-ko|Alvin KO]]（1 源）
+- [[实体/jesse-k-fitzpatrick|Jesse K. Fitzpatrick]]（1 源）
+- [[实体/emblok-1|EMBLOK-1]]（1 源）
+- [[实体/mvseg2023-challenge|MVSEG2023 Challenge]]（1 源）
+- [[实体/ken-chan|Ken Chan]]（1 源）
+- [[实体/amro-alsaid|Amro Alsaid]]（1 源）
+- [[实体/andes|ANDES]]（1 源）
+- [[实体/adala|ADALA]]（1 源）
+- [[实体/napt-laac|NAPT-LAAC]]（1 源）
+- [[实体/protect-h2h|Protect H2H]]（1 源）
+- [[实体/expand-ii|EXPAND II]]（1 源）
+- [[实体/neda|NEDA]]（1 源）
+- [[实体/kishor-khanal|Kishor Khanal]]（1 源）
+- [[实体/leila-alizadeh|Leila Alizadeh]]（1 源）
+- [[实体/ran-kornowski|Ran Kornowski]]（1 源）
+- [[实体/captis|CAPTIS]]（1 源）
+- [[实体/filterlex-medical|Filterlex Medical]]（1 源）
+- [[实体/everest-trials|EVEREST Trials]]（1 源）
+- [[实体/northwestern-university|Northwestern University]]（1 源）
+- [[实体/ruhr-university-bochum|Ruhr University Bochum]]（1 源）
+- [[实体/oklahoma-heart-hospital-south|Oklahoma Heart Hospital South]]（1 源）
+- [[实体/milwaukee-advocate-aurora-st-lukes-medical-center|Milwaukee Advocate Aurora St. Lukes Medical Center]]（1 源）
+- [[实体/impression-laac-study|Impression LAAC Study]]（1 源）
+- [[实体/protembo|ProtEmbo]]（1 源）
+- [[实体/protembis-gmbh|Protembis GmbH]]（1 源）
+- [[实体/christopher-bentsen|Christopher Bentsen]]（1 源）
+- [[实体/third|THIRD]]（1 源）
+- [[实体/muhammad-raza|Muhammad Raza]]（1 源）
+- [[实体/chris-cook|Chris Cook]]（1 源）
+- [[实体/the-essex-cardiothoracic-centre|The Essex Cardiothoracic Centre]]（1 源）
+- [[实体/bordeaux-university-hospital|Bordeaux University Hospital]]（1 源）
+- [[实体/christina-lalani|Christina Lalani]]（1 源）
+- [[实体/medicare-ffs|Medicare FFS]]（1 源）
+- [[实体/swiss-apero-trial|Swiss-Apero Trial]]（1 源）
+- [[实体/bhf-protect-tavi|BHF PROTECT-TAVI]]（1 源）
+- [[实体/zenon-huczek|Zenon Huczek]]（1 源）
+- [[实体/medical-university-of-warsaw|Medical University of Warsaw]]（1 源）
+- [[实体/marek-grygier|Marek Grygier]]（1 源）
+- [[实体/jena-vad-now|JENA-VAD NOW]]（1 源）
+- [[实体/sahil-khera|Sahil Khera]]（1 源）
+- [[实体/sapien-bev|Sapien BEV]]（1 源）
+- [[实体/danny-dvir|Danny Dvir]]（1 源）
+- [[实体/shaare-zedek-medical-center|Shaare Zedek Medical Center]]（1 源）
+- [[实体/smart-mac|SMART-MAC]]（1 源）
+- [[实体/smartwave-limited|SmartWave Limited]]（1 源）
+- [[实体/cleve|CLEVE]]（1 源）
+- [[实体/redo-mr|REDO-MR]]（1 源）
+- [[实体/stun-af|STUN-AF]]（1 源）
+- [[实体/farawave|Farawave]]（1 源）
+- [[实体/atlantic-health-system|Atlantic Health System]]（1 源）
+- [[实体/robert-t-kay|Robert T Kay]]（1 源）
+- [[实体/ctsn|CTSN]]（1 源）
+- [[实体/do-yoon-kang|Do-Yoon Kang]]（1 源）
+- [[实体/medtronic-evolut-fx|Medtronic Evolut FX]]（1 源）
+- [[实体/terumo-relay-pro|Terumo Relay Pro]]（1 源）
+- [[实体/mass-general-brigham-heart-and-vascular-institute|Mass General Brigham Heart and Vascular Institute]]（1 源）
+- [[实体/memo-3d|MEMO 3D]]（1 源）
+- [[实体/inquis-medical|Inquis Medical]]（1 源）
+- [[实体/trillium-efs|Trillium EFS]]（1 源）
+- [[实体/gorav-ailawadi|Gorav Ailawadi]]（1 源）
+- [[实体/tsun-jui-liu|Tsun-Jui Liu]]（1 源）
+- [[实体/台中荣民总医院|台中荣民总医院]]（1 源）
+- [[实体/arber-kodra|Arber Kodra]]（1 源）
+- [[实体/edwards-sapien-resilia|Edwards SAPIEN Resilia]]（1 源）
+- [[实体/cook-zenith|Cook Zenith]]（1 源）
+- [[实体/washington-university-in-st-louis|Washington University in St. Louis]]（1 源）
+- [[实体/tony-walton|Tony Walton]]（1 源）
+- [[实体/safer-tavi|SAFER-TAVI]]（1 源）
+- [[实体/alfred-hospital|Alfred Hospital]]（1 源）
+- [[实体/ace-tavi|ACE-TAVI]]（1 源）
+- [[实体/ahmed-el-eshmawi|Ahmed El-Eshmawi]]（1 源）
+- [[实体/mount-sinai-adams-valve-institute|Mount Sinai Adams Valve Institute]]（1 源）
+- [[实体/aats-2025-expert-consensus-document|AATS 2025 Expert Consensus Document]]（1 源）
+- [[实体/barbara-danek-karatasakis|Barbara Danek-Karatasakis]]（1 源）
+- [[实体/seattle-procedure|SEATTLE procedure]]（1 源）
+- [[实体/julio-echarte-morales|Julio Echarte-Morales]]（1 源）
+- [[实体/alvaro-cunqueiro-hospital|Alvaro Cunqueiro Hospital]]（1 源）
+- [[实体/jacc-case-reports|JACC Case Reports]]（1 源）
+- [[实体/astato-20|Astato 20]]（1 源）
+- [[实体/laplace-interventional|Laplace Interventional]]（1 源）
+- [[实体/brandon-jones|Brandon Jones]]（1 源）
+- [[实体/triumph-pivotal-ide|TRIUMPH PIVOTAL IDE]]（1 源）
+- [[实体/hartford-hospital|Hartford Hospital]]（1 源）
+- [[实体/carpentier-edwards|Carpentier-Edwards]]（1 源）
+- [[实体/detect-as-ii|DETECT AS II]]（1 源）
+- [[实体/ucsf-health|UCSF Health]]（1 源）
+- [[实体/eunpyeong-st-marys-hospital|Eunpyeong St Mary's Hospital]]（1 源）
+- [[实体/edwards-commander-delivery-system|Edwards Commander Delivery System]]（1 源）
+- [[实体/vilnius-university-hospital-santaros-klinikos|Vilnius University Hospital Santaros klinikos]]（1 源）
+- [[实体/vdyne-inc|VDyne, Inc]]（1 源）
+- [[实体/vista-us|VISTA-US]]（1 源）
+- [[实体/brian-oneill|Brian O'Neill]]（1 源）
+- [[实体/tauruselite|TaurusElite]]（1 源）
+- [[实体/bing-yan|Bing Yan]]（1 源）
+- [[实体/guidezilla|Guidezilla]]（1 源）
+- [[实体/alejandro-araujo-adams|Alejandro Araujo Adams]]（1 源）
+- [[实体/albany-medical-center|Albany Medical Center]]（1 源）
+- [[实体/popular-tavi|POPular TAVI]]（1 源）
+- [[实体/arte|ARTE]]（1 源）
+- [[实体/samineh-sehatbakhsh|Samineh Sehatbakhsh]]（1 源）
+- [[实体/aragon-jawz-biopsy-forceps|Aragon Jawz biopsy forceps]]（1 源）
+- [[实体/lille-university-hospital-heart-valve-center|Lille University Hospital Heart Valve Center]]（1 源）
+- [[实体/polydoros-kampaktsis|Polydoros Kampaktsis]]（1 源）
+- [[实体/siemens-somatom-ct|Siemens Somatom CT]]（1 源）
+- [[实体/medicare-ffs-claims|Medicare FFS claims]]（1 源）
+- [[实体/manuel-pan|Manuel Pan]]（1 源）
+- [[实体/reina-sofía-hospital|Reina Sofía Hospital]]（1 源）
+- [[实体/euro-basilica-registry|EURO-BASILICA registry]]（1 源）
+- [[实体/lofter-tavi-registry|LOFTER-TAVI registry]]（1 源）
+- [[实体/minoru-tabata|Minoru Tabata]]（1 源）
+- [[实体/matthew-r-summers|Matthew R. Summers]]（1 源）
+- [[实体/hendrik-treede|Hendrik Treede]]（1 源）
+- [[实体/gate-ar-system|GATE AR System]]（1 源）
+- [[实体/chala-fekadu-oljira|Chala Fekadu Oljira]]（1 源）
+- [[实体/addis-ababa-university|Addis Ababa University]]（1 源）
+- [[实体/university-of-bergen|University of Bergen]]（1 源）
+- [[实体/university-of-texas-houston|University of Texas, Houston]]（1 源）
+- [[实体/benjamin-zorach|Benjamin Zorach]]（1 源）
+- [[实体/southcoast-health|Southcoast Health]]（1 源）
+- [[实体/wl-gore-&-associates|WL Gore & Associates]]（1 源）
+- [[实体/mohamed-abdel-wahab|Mohamed Abdel-Wahab]]（1 源）
+- [[实体/amit-n-vora|Amit N. Vora]]（1 源）
+- [[实体/fivus-tavi-registry|FIVUS-TAVI Registry]]（1 源）
+- [[实体/szeged-university|Szeged University]]（1 源）
+- [[实体/vlasis-ninios|Vlasis Ninios]]（1 源）
+- [[实体/tiana-s-dodd|Tiana S. Dodd]]（1 源）
+- [[实体/shivam-mehta|Shivam Mehta]]（1 源）
+- [[实体/micra-av|Micra AV]]（1 源）
+- [[实体/anantharaman-r|Anantharaman R]]（1 源）
+- [[实体/kauvery-hospital|Kauvery Hospital]]（1 源）
+- [[实体/m-valve|M-Valve]]（1 源）
+- [[实体/stan-chetcuti|Stan Chetcuti]]（1 源）
+- [[实体/ramon-quesada|Ramon Quesada]]（1 源）
+- [[实体/append-medical|Append Medical]]（1 源）
+- [[实体/invertis|Invertis]]（1 源）
+- [[实体/homolka-hospital|Homolka Hospital]]（1 源）
+- [[实体/swisstavi-registry|SwissTAVI registry]]（1 源）
+- [[实体/university-teaching-and-research-hospital-lucerne|University Teaching and Research Hospital Lucerne]]（1 源）
+- [[实体/bhaskar-bhardwaj|Bhaskar Bhardwaj]]（1 源）
+- [[实体/vandan-d-upadhyaya|Vandan D. Upadhyaya]]（1 源）
+- [[实体/ezra-schneier|Ezra Schneier]]（1 源）
+- [[实体/breno-falcão|Breno Falcão]]（1 源）
+- [[实体/surviv-trial|SURVIV trial]]（1 源）
+- [[实体/marina-urena|Marina Urena]]（1 源）
+- [[实体/bichat-hospital|Bichat Hospital]]（1 源）
+- [[实体/octopus-registry|OCTOPUS registry]]（1 源）
+- [[实体/philip-maccarthy|Philip MacCarthy]]（1 源）
+- [[实体/kings-college-hospital|King's College Hospital]]（1 源）
+- [[实体/nicor|NICOR]]（1 源）
+- [[实体/target-as-initiative|TARGET AS Initiative]]（1 源）
+- [[实体/dedicate|DEDICATE]]（1 源）
+- [[实体/altayyeb-yousef|Altayyeb Yousef]]（1 源）
+- [[实体/adan-hospital|Adan Hospital]]（1 源）
+- [[实体/retavi|ReTAVI]]（1 源）
+- [[实体/revalve|REVALVE]]（1 源）
+- [[实体/restore|RESTORE]]（1 源）
+- [[实体/everest|EVEREST]]（1 源）
+- [[实体/edwards-inspiris|Edwards Inspiris]]（1 源）
+- [[实体/ehraeapci|EHRA/EAPCI]]（1 源）
+- [[实体/sant-kumar|Sant Kumar]]（1 源）
+- [[实体/shockwave|Shockwave]]（1 源）
+- [[实体/malu-carmona|Malu Carmona]]（1 源）
+- [[实体/melody-valve|Melody valve]]（1 源）
+- [[实体/cp-8zig-covered-stent|CP 8zig covered stent]]（1 源）
+- [[实体/imip-rhp|IMIP / RHP]]（1 源）
+- [[实体/edwards-sapien-3-resilia|Edwards Sapien 3 Resilia]]（1 源）
+- [[实体/loma-linda-university|Loma Linda University]]（1 源）
+- [[实体/redo-tavr-international-registry|Redo-TAVR International Registry]]（1 源）
+- [[实体/henry-ford-hospital-center-for-structural-heart-disease|Henry Ford Hospital Center for Structural Heart Disease]]（1 源）
+- [[实体/konstantinos-voudris|Konstantinos Voudris]]（1 源）
+- [[实体/minneapolis-heart-institute|Minneapolis Heart Institute]]（1 源）
+- [[实体/remodulin|Remodulin]]（1 源）
+- [[实体/observant|OBSERVANT]]（1 源）
+- [[实体/ningyan-wong|Ningyan Wong]]（1 源）
+- [[实体/national-heart-centre-singapore|National Heart Centre Singapore]]（1 源）
+- [[实体/ramathibodi-hospital|Ramathibodi Hospital]]（1 源）
+- [[实体/hi-d-imaging|Hi-D Imaging]]（1 源）
+- [[实体/edouard-long|Edouard Long]]（1 源）
+- [[实体/houston-methodist-hospital-debakey-heart-&-vascular-center|Houston Methodist Hospital DeBakey Heart & Vascular Center]]（1 源）
+- [[实体/nadeen-n-faza|Nadeen N Faza]]（1 源）
+- [[实体/sage-m-teer-trial|SAGE-M-TEER Trial]]（1 源）
+- [[实体/thom-dahle|Thom Dahle]]（1 源）
+- [[实体/l-uchoa-de-assis|L. Uchoa de Assis]]（1 源）
+- [[实体/ramesh-daggubati|Ramesh Daggubati]]（1 源）
+- [[实体/trima-study|TRIMA study]]（1 源）
+- [[实体/unicorn-hong-kong-registry|Unicorn Hong Kong Registry]]（1 源）
+- [[实体/nilay-k-patel|Nilay K. Patel]]（1 源）
+- [[实体/benjamin-seguy|Benjamin Seguy]]（1 源）
+- [[实体/triclip-sgc|TriClip SGC]]（1 源）
+- [[实体/trivalve|TriValve]]（1 源）
+- [[实体/trami|TRAMI]]（1 源）
+- [[实体/nicholas-fanous|Nicholas Fanous]]（1 源）
+- [[实体/flow-tavi|FLOW-TAVI]]（1 源）
+- [[实体/haleema-nawaz|Haleema Nawaz]]（1 源）
+- [[实体/geisinger-wyoming-valley-medical-centre|Geisinger Wyoming Valley Medical Centre]]（1 源）
+- [[实体/vav-ecmo|VAV ECMO]]（1 源）
+- [[实体/ana-paula-tagliari|Ana Paula Tagliari]]（1 源）
+- [[实体/emily-bach|Emily Bach]]（1 源）
+- [[实体/evelio-rodriguez|Evelio Rodriguez]]（1 源）
+- [[实体/bellevue-hospital|Bellevue Hospital]]（1 源）
+- [[实体/sarah-shortall|Sarah Shortall]]（1 源）
+- [[实体/atsushi-sugiura|Atsushi Sugiura]]（1 源）
+- [[实体/primary-tr-registry|PRIMARY TR registry]]（1 源）
+- [[实体/bright|bRIGHT]]（1 源）
+- [[实体/aishwarya-pastapur|Aishwarya Pastapur]]（1 源）
+- [[实体/james-d-flaherty|James D. Flaherty]]（1 源）
+- [[实体/mira|MIRA]]（1 源）
+- [[实体/carl-schulz|Carl Schulz]]（1 源）
+- [[实体/abdullah-safdar|Abdullah Safdar]]（1 源）
+- [[实体/cdc-wonder|CDC WONDER]]（1 源）
+- [[实体/harlem-hospital-center|Harlem Hospital Center]]（1 源）
+- [[实体/jewish-hospital-of-cincinnati|Jewish Hospital of Cincinnati]]（1 源）
+- [[实体/m-andrew-morse|M. Andrew Morse]]（1 源）
+- [[实体/satelia-programme|Satelia Programme]]（1 源）
+- [[实体/samuel-berhanu|Samuel Berhanu]]（1 源）
+- [[实体/lotus-tavr|Lotus TAVR]]（1 源）
+- [[实体/millipede-iris|Millipede IRIS]]（1 源）
+- [[实体/ucla|UCLA]]（1 源）
+- [[实体/p-michael-grossman|P. Michael Grossman]]（1 源）
+- [[实体/acurate-ide|ACURATE IDE]]（1 源）
+- [[实体/aaron-chalekian|Aaron Chalekian]]（1 源）
+- [[实体/university-of-minnesota|University of Minnesota]]（1 源）
+- [[实体/mony-shuvy|Mony Shuvy]]（1 源）
+- [[实体/chu-rennes|CHU Rennes]]（1 源）
+- [[实体/nicolò-azzola-guicciardi|Nicolò Azzola Guicciardi]]（1 源）
+- [[实体/francesco-maisano|Francesco Maisano]]（1 源）
+- [[实体/structural-heart|Structural Heart]]（1 源）
+- [[实体/dawood-shehzad|Dawood Shehzad]]（1 源）
+- [[实体/christian-witzke|Christian Witzke]]（1 源）
+- [[实体/jefferson-einstein-philadelphia-hospital|Jefferson Einstein Philadelphia Hospital]]（1 源）
+- [[实体/xience-pro-s|Xience Pro S]]（1 源）
+- [[实体/robogenix|Robogenix]]（1 源）
+- [[实体/厦门大学附属心血管病医院|厦门大学附属心血管病医院]]（1 源）
+- [[实体/ronnie-cheuk-bong-ho|Ronnie Cheuk Bong Ho]]（1 源）
+- [[实体/embark-fih|EMBARK FIH]]（1 源）
+- [[实体/prefer-cmr-registry|PREFER-CMR Registry]]（1 源）
+- [[实体/comasur|ComASUR]]（1 源）
+- [[实体/incor-heart-institute|InCor Heart Institute]]（1 源）
+- [[实体/alexandre-abizaid|Alexandre Abizaid]]（1 源）
+- [[实体/joanna-nawara-skipirzepa|Joanna Nawara-Skipirzepa]]（1 源）
+- [[实体/upper-medical-silesian-center|Upper Medical Silesian Center]]（1 源）
+- [[实体/tavr-lm-注册研究|TAVR-LM 注册研究]]（1 源）
+- [[实体/capstan|Capstan]]（1 源）
+- [[实体/luigi-pirelli|Luigi Pirelli]]（1 源）
+- [[实体/columbia-structural-heart-and-valve-center|Columbia Structural Heart and Valve Center]]（1 源）
+- [[实体/regroup-trial|REGROUP Trial]]（1 源）
+- [[实体/cd-leycom|CD Leycom]]（1 源）
+- [[实体/bryce-allen|Bryce Allen]]（1 源）
+- [[实体/st-lukes-university-health-network|St. Luke's University Health Network]]（1 源）
+- [[实体/abc-bav-sizing|ABC BAV Sizing]]（1 源）
+- [[实体/tioga|Tioga]]（1 源）
+- [[实体/tioga-luna-tmvr|Tioga Luna TMVR]]（1 源）
+- [[实体/olivia-l-hulme|Olivia L. Hulme]]（1 源）
+- [[实体/massachusetts-general-hospital|Massachusetts General Hospital]]（1 源）
+- [[实体/st-jude-trifecta|St. Jude Trifecta]]（1 源）
+- [[实体/harmony-tpvr|Harmony TPVR]]（1 源）
+- [[实体/sapien-resilia|Sapien Resilia]]（1 源）
+- [[实体/ottavio-alfieri|Ottavio Alfieri]]（1 源）
+- [[实体/sabah-skaf|Sabah Skaf]]（1 源）
+- [[实体/lux-机器人系统|LUX 机器人系统]]（1 源）
+- [[实体/biocor-epic|Biocor-Epic]]（1 源）
+- [[实体/vitae|Vitae]]（1 源）
+- [[实体/notion-3|NOTION 3]]（1 源）
+- [[实体/faitavi|FAITAVI]]（1 源）
+- [[实体/taichung-veterans-general-hospital|Taichung Veterans General Hospital]]（1 源）
+- [[实体/memorial-hermann-hospital|Memorial Hermann Hospital]]（1 源）
+- [[实体/william-f-fearon|William F. Fearon]]（1 源）
+- [[实体/comic-as|COMIC AS]]（1 源）
+- [[实体/carvolix|Carvolix]]（1 源）
+- [[实体/rotao-1|ROTAO 1]]（1 源）
+- [[实体/rogério-sarmento-leite|Rogério Sarmento-Leite]]（1 源）
+- [[实体/sapien-x4|SAPIEN X4]]（1 源）
+- [[实体/alliance-pivotal-trial|ALLIANCE pivotal trial]]（1 源）
+- [[实体/tricbicaval-registry|TricBicaval Registry]]（1 源）
+- [[实体/tricustricus-euro|TRICUS/TRICUS EURO]]（1 源）
+- [[实体/joshua-dolsen|Joshua Dolsen]]（1 源）
+- [[实体/aegilis|Aegilis]]（1 源）
+- [[实体/compare-tavi|COMPARE-TAVI]]（1 源）
+- [[实体/niels-van-royen|Niels van Royen]]（1 源）
+- [[实体/radboud-university-medical-center|Radboud University Medical Center]]（1 源）
+- [[实体/farhan-mohammed|Farhan Mohammed]]（1 源）
+- [[实体/bhanu-ramachandran|Bhanu Ramachandran]]（1 源）
+- [[实体/suny-downstate-health-sciences-university|SUNY Downstate Health Sciences University]]（1 源）
+- [[实体/columbia-echo|Columbia Echo]]（1 源）
+- [[实体/ahmed-elmorsy-mohamed|Ahmed Elmorsy Mohamed]]（1 源）
+- [[实体/tomohiko-taniguchi|Tomohiko Taniguchi]]（1 源）
+- [[实体/current-as-registry-2|CURRENT AS Registry-2]]（1 源）
+- [[实体/tomasz-skowerski|Tomasz Skowerski]]（1 源）
+- [[实体/aviator-registry|AVIATOR Registry]]（1 源）
+- [[实体/didier-tchetche|Didier Tchetche]]（1 源）
+- [[实体/encantor|Encantor]]（1 源）
+- [[实体/ease-study|EASE Study]]（1 源）
+- [[实体/be-tavi-efs|BE TAVI EFS]]（1 源）
+- [[实体/benjamin-m-easow|Benjamin M Easow]]（1 源）
+- [[实体/southeast-health|Southeast Health]]（1 源）
+- [[实体/duke-university-hospital|Duke University Hospital]]（1 源）
+- [[实体/luke-p-dawson|Luke P. Dawson]]（1 源）
+- [[实体/penumbra-lightning-16|Penumbra Lightning 16]]（1 源）
+- [[实体/zachery-d-neil|Zachery D. Neil]]（1 源）
+- [[实体/recross-cardio-device|ReCross Cardio Device]]（1 源）
+- [[实体/evolute-r|Evolute R]]（1 源）
+- [[实体/endurant-ii|Endurant II]]（1 源）
+- [[实体/mirus|MiRus]]（1 源）
+- [[实体/star-trial|STAR Trial]]（1 源）
+- [[实体/siegel-tavr|Siegel TAVR]]（1 源）
+- [[实体/michał-tworek|Michał Tworek]]（1 源）
+- [[实体/jagiellonian-university-medical-college|Jagiellonian University Medical College]]（1 源）
+- [[实体/grzegorz-kopeć|Grzegorz Kopeć]]（1 源）
+- [[实体/sean-pinney|Sean Pinney]]（1 源）
+- [[实体/kosta-koulogiannis|Kosta Koulogiannis]]（1 源）
+- [[实体/morristown-medical-center|Morristown Medical Center]]（1 源）
+- [[实体/intrepid-tf|Intrepid TF]]（1 源）
+- [[实体/iad-alhallak|Iad Alhallak]]（1 源）
+- [[实体/john-j-galla-iii|John J Galla III]]（1 源）
+- [[实体/harmony-tpv|Harmony TPV]]（1 源）
+- [[实体/seattle-childrens-hospital|Seattle Children's Hospital]]（1 源）
+- [[实体/zachary-steinberg|Zachary Steinberg]]（1 源）
+- [[实体/beka-bakhtadze|Beka Bakhtadze]]（1 源）
+- [[实体/mustafa-abomohsen|Mustafa Abomohsen]]（1 源）
+- [[实体/mohammad-ishrak-khan|Mohammad Ishrak Khan]]（1 源）
+- [[实体/palmaz-xl|Palmaz XL]]（1 源）
+- [[实体/mcelhinney-db|McElhinney DB]]（1 源）
+- [[实体/richard-bae|Richard Bae]]（1 源）
+- [[实体/konect-valve-conduit|Konect Valve Conduit]]（1 源）
+- [[实体/rayan-s-el-zein|Rayan S. El-Zein]]（1 源）
+- [[实体/ohiohealth-riverside-methodist-hospital|OhioHealth Riverside Methodist Hospital]]（1 源）
+- [[实体/university-of-galway|University of Galway]]（1 源）
+- [[实体/stuart-pocock|Stuart Pocock]]（1 源）
+- [[实体/multilobe-snare|Multilobe Snare]]（1 源）
+- [[实体/hasan-munshi|Hasan Munshi]]（1 源）
+- [[实体/rahul-vasudev|Rahul Vasudev]]（1 源）
+- [[实体/elana-koss|Elana Koss]]（1 源）
+- [[实体/oxford-university-hospitals|Oxford University Hospitals]]（1 源）
+- [[实体/access-tavi|ACCESS-TAVI]]（1 源）
+- [[实体/advocate-aurora-health-st-lukes-medical-center|Advocate Aurora Health, St Luke's Medical Center]]（1 源）
+- [[实体/heart-rhythm-society|Heart Rhythm Society]]（1 源）
+- [[实体/stop-clot-trial|STOP CLOT trial]]（1 源）
+- [[实体/mohammed-hussein|Mohammed Hussein]]（1 源）
+- [[实体/tyshak-balloon|Tyshak balloon]]（1 源）
+- [[实体/marco-ferrone|Marco Ferrone]]（1 源）
+- [[实体/qdot-micro|QDOT MICRO]]（1 源）
+- [[实体/omnilink|Omnilink]]（1 源）
+- [[实体/cardialysis|Cardialysis]]（1 源）
+- [[实体/philips-healthcare|Philips Healthcare]]（1 源）
+- [[实体/lovelace-medical-center|Lovelace Medical Center]]（1 源）
+- [[实体/mark-c-bieniarz|Mark C. Bieniarz]]（1 源）
+- [[实体/mark-j-ricciardi|Mark J. Ricciardi]]（1 源）
+- [[实体/rutger-jan-nuis|Rutger-Jan Nuis]]（1 源）
+- [[实体/erin-spinner|Erin Spinner]]（1 源）
+- [[实体/hoda-hatoum|Hoda Hatoum]]（1 源）
+- [[实体/nodari-maisuradze|Nodari Maisuradze]]（1 源）
+- [[实体/eduardo-a-arias|Eduardo A. Arias]]（1 源）
+- [[实体/michael-ruiz|Michael Ruiz]]（1 源）
+- [[实体/physio-ii-成形环|Physio II 成形环]]（1 源）
+- [[实体/smart-valves|SMART Valves]]（1 源）
+- [[实体/fayaz-shawl|Fayaz Shawl]]（1 源）
+- [[实体/adventist-healthcare-whiteoak-medical-center|Adventist HealthCare Whiteoak Medical Center]]（1 源）
+- [[实体/ori-ben-yehuda|Ori Ben-Yehuda]]（1 源）
+- [[实体/revivent-tc|Revivent TC]]（1 源）
+- [[实体/relive-trial|RELIVE Trial]]（1 源）
+- [[实体/guy-robinson|Guy Robinson]]（1 源）
+- [[实体/peter-pollak|Peter Pollak]]（1 源）
+- [[实体/ono-装置|ONO 装置]]（1 源）
+- [[实体/tej-sheth|Tej Sheth]]（1 源）
+- [[实体/hamilton-health-sciences|Hamilton Health Sciences]]（1 源）
+- [[实体/abc-bicuspid-sizing-prospective-multicenter-study|ABC Bicuspid Sizing Prospective Multicenter Study]]（1 源）
+- [[实体/carillon-mitral-contour-system|Carillon Mitral Contour System]]（1 源）
+- [[实体/reduce-fmr|REDUCE FMR]]（1 源）
+- [[实体/empower-trial|EMPOWER Trial]]（1 源）
+- [[实体/cinch-registry|CINCH Registry]]（1 源）
+- [[实体/trisol-us-efs|Trisol US EFS]]（1 源）
+- [[实体/muhammad-ahmad|Muhammad Ahmad]]（1 源）
+- [[实体/vinay-guduguntla|Vinay Guduguntla]]（1 源）
+- [[实体/saito|SAITO]]（1 源）
+- [[实体/three-peaks-medical|Three Peaks Medical]]（1 源）
+- [[实体/dhaval-kolte|Dhaval Kolte]]（1 源）
+- [[实体/empath-health-services|Empath Health Services]]（1 源）
+- [[实体/improve-tavr|IMPROVE TAVR]]（1 源）
+- [[实体/mirth|MIRTH]]（1 源）
+- [[实体/eden|EDEN]]（1 源）
+- [[实体/nih-national-heart-lung-and-blood-institute|NIH National Heart, Lung, and Blood Institute]]（1 源）
+- [[实体/revasc-tavi|REVASC-TAVI]]（1 源）
+- [[实体/trapeze|TRAPEZE]]（1 源）
+- [[实体/puvi-seshiah|Puvi Seshiah]]（1 源）
+- [[实体/anene-ukaigwe|Anene Ukaigwe]]（1 源）
+- [[实体/university-hospitals-harrington-heart-and-vascular-institute|University Hospitals Harrington Heart and Vascular Institute]]（1 源）
+- [[实体/corcinch-hf|CORCINCH-HF]]（1 源）
+- [[实体/ancora-heart|Ancora Heart]]（1 源）
+- [[实体/ulrich-p-jorde|Ulrich P Jorde]]（1 源）
+- [[实体/edwards-3300tfx|Edwards 3300TFX]]（1 源）
+- [[实体/medtronic-simulus-flexible-ring|Medtronic Simulus Flexible ring]]（1 源）
+- [[实体/hak-seung-lee|Hak Seung Lee]]（1 源）
+- [[实体/medical-ai-inc|Medical AI, Inc.]]（1 源）
+- [[实体/ish|ISH]]（1 源）
+- [[实体/uk-biobank|UK Biobank]]（1 源）
+- [[实体/lakshmi-prasad-dasi|Lakshmi Prasad Dasi]]（1 源）
+- [[实体/daniel-burkhoff|Daniel Burkhoff]]（1 源）
+- [[实体/stich|STICH]]（1 源）
+- [[实体/siemens-naeotom|Siemens Naeotom]]（1 源）
+- [[实体/innovalve|INNOVALVE]]（1 源）
+- [[实体/twist|TWIST]]（1 源）
+- [[实体/kitae-kim|Kitae Kim]]（1 源）
+- [[实体/c-michael-gibson|C. Michael Gibson]]（1 源）
+- [[实体/nc-atlas|NC Atlas]]（1 源）
+- [[实体/conquest-pro|Conquest Pro]]（1 源）
+- [[实体/vinod-h-thourani|Vinod H. Thourani]]（1 源）
+- [[实体/crown-mv|CROWN-MV]]（1 源）
+- [[实体/uc-davis|UC Davis]]（1 源）
+- [[实体/moody-makar|Moody Makar]]（1 源）
+- [[实体/real-mr|REAL-MR]]（1 源）
+- [[实体/pier-pasquale-leone|Pier Pasquale Leone]]（1 源）
+- [[实体/baylis-rf-powerwire-pro|Baylis RF PowerWire Pro]]（1 源）
+- [[实体/endobentall|EndoBentall]]（1 源）
+- [[实体/apollo-eu-trial|APOLLO-EU trial]]（1 源）
+- [[实体/steven-j-yakubov|Steven J. Yakubov]]（1 源）
+- [[实体/evolut-rpro|Evolut R/PRO]]（1 源）
+- [[实体/oceanic-af|OCEANIC-AF]]（1 源）
+- [[实体/azalea-timi-71|AZALEA-TIMI 71]]（1 源）
+- [[实体/librexia-af|LIBREXIA-AF]]（1 源）
+- [[实体/lilac-timi-76|LILAC-TIMI 76]]（1 源）
+- [[实体/obadah-aqtash|Obadah Aqtash]]（1 源）
+- [[实体/resilia|RESILIA]]（1 源）
+- [[实体/jerzy-sacha|Jerzy Sacha]]（1 源）
+- [[实体/prostyle|ProStyle]]（1 源）
+- [[实体/wolfgang-rottbauer|Wolfgang Rottbauer]]（1 源）
+- [[实体/highlife-medical|HighLife Medical]]（1 源）
+- [[实体/aasim-afzal|Aasim Afzal]]（1 源）
+- [[实体/prisma-health|Prisma Health]]（1 源）
+- [[实体/edwards-physio-ii|Edwards Physio II]]（1 源）
+- [[实体/mohammad-al-bataineh|Mohammad Al Bataineh]]（1 源）
+- [[实体/georges-ghanem|Georges Ghanem]]（1 源）
+- [[实体/ron-waksman|Ron Waksman]]（1 源）
+- [[实体/bronx-valve-registry|Bronx-Valve Registry]]（1 源）
+- [[实体/saint-michaels-medical-center|Saint Michael's Medical Center]]（1 源）
+- [[实体/addi-sulieman|Addi Sulieman]]（1 源）
+- [[实体/sanatorio-güemes|Sanatorio Güemes]]（1 源）
+- [[实体/sebastian-peralta|Sebastian Peralta]]（1 源）
+- [[实体/adnan-k-chhatriwalla|Adnan K. Chhatriwalla]]（1 源）
+- [[实体/saint-lukes-mid-america-heart-institute|Saint Luke's Mid America Heart Institute]]（1 源）
+- [[实体/cassini-eu|CASSINI-EU]]（1 源）
+- [[实体/transmural-systems|Transmural Systems]]（1 源）
+- [[实体/society-of-thoracic-surgeons|Society of Thoracic Surgeons]]（1 源）
+- [[实体/omar-a-saleh|Omar A. Saleh]]（1 源）
+- [[实体/shankar-thampi|Shankar Thampi]]（1 源）
+- [[实体/coda-球囊|Coda 球囊]]（1 源）
+- [[实体/paul-elias|Paul Elias]]（1 源）
+- [[实体/tampa-general-hospital|Tampa General Hospital]]（1 源）
+- [[实体/carbomedics|Carbomedics]]（1 源）
+- [[实体/marcio-josé-montenegro-da-costa|Marcio José Montenegro da Costa]]（1 源）
+- [[实体/munich-tmvr-system|Munich TMVR System]]（1 源）
+- [[实体/p+f-products-&-features|P+F Products & Features]]（1 源）
+- [[实体/instituto-estadual-de-cardiologia-aloysio-de-castro|Instituto Estadual de Cardiologia Aloysio de Castro]]（1 源）
+- [[实体/shane-prejean|Shane Prejean]]（1 源）
+- [[实体/cardiovascular-institute-of-the-south|Cardiovascular Institute of the South]]（1 源）
+- [[实体/lunderquist|Lunderquist]]（1 源）
+- [[实体/amplatz-superstiff|Amplatz SuperStiff]]（1 源）
+- [[实体/luigi-di-biase|Luigi Di Biase]]（1 源）
+- [[实体/nuvision-4d-ice|NUVISION 4D ICE]]（1 源）
+- [[实体/cartosound-sonata|CARTOSOUND SONATA]]（1 源）
+- [[实体/jonathan-yap|Jonathan Yap]]（1 源）
+- [[实体/新加坡国家心脏中心|新加坡国家心脏中心]]（1 源）
+- [[实体/tullio-palmerini|Tullio Palmerini]]（1 源）
+- [[实体/hostile-registry|HOSTILE Registry]]（1 源）
+- [[实体/shockwave-ivl|Shockwave IVL]]（1 源）
+- [[实体/miracle-registry|MIRACLE Registry]]（1 源）
+- [[实体/rodrigo-estevez-loureiro|Rodrigo Estevez Loureiro]]（1 源）
+- [[实体/mohamad-s-alabdaljabar|Mohamad S. Alabdaljabar]]（1 源）
+- [[实体/repeat-trial|REPEAT Trial]]（1 源）
+- [[实体/uc-davis-health|UC Davis Health]]（1 源）
+- [[实体/adolfo-martinez-salazar|Adolfo Martinez Salazar]]（1 源）
+- [[实体/duk-woo-park|Duk-Woo Park]]（1 源）
+- [[实体/hospital-san-juan-de-dios|Hospital San Juan de Dios]]（1 源）
+- [[实体/next-gen-luxera-acunav-4d-ice-catheter|Next Gen LUXERA / ACUNAV 4D ICE catheter]]（1 源）
+- [[实体/harrison-bonilla|Harrison Bonilla]]（1 源）
+- [[实体/tovia-brodie-2019|Tovia-Brodie 2019]]（1 源）
+- [[实体/fukutomi-2021|Fukutomi 2021]]（1 源）
+- [[实体/cook-zdeg-thoracic-stent-graft|Cook ZDEG thoracic stent graft]]（1 源）
+- [[实体/benjamin-peterson|Benjamin Peterson]]（1 源）
+- [[实体/suneet-mittal|Suneet Mittal]]（1 源）
+- [[实体/eileen-mihas|Eileen Mihas]]（1 源）
+- [[实体/mdic|MDIC]]（1 源）
+- [[实体/renata-medical|Renata Medical]]（1 源）
+- [[实体/felix-rudolph|Felix Rudolph]]（1 源）
+- [[实体/eurosmr-score|EuroSMR Score]]（1 源）
+- [[实体/kendall-brown|Kendall Brown]]（1 源）
+- [[实体/james-stewart|James Stewart]]（1 源）
+- [[实体/ho-on-alston-conrad-chiu|Ho-On Alston Conrad Chiu]]（1 源）
+- [[实体/heartmate-iii|HeartMate III]]（1 源）
+- [[实体/laurence-epstein|Laurence Epstein]]（1 源）
+- [[实体/lexicon|LExiCon]]（1 源）
+- [[实体/tamara-syrek-jensen|Tamara Syrek Jensen]]（1 源）
+- [[实体/rubrum-advising|Rubrum Advising]]（1 源）
+- [[实体/mark-reisman|Mark Reisman]]（1 源）
+- [[实体/katherine-kumar|Katherine Kumar]]（1 源）
+- [[实体/mitragen5|MITRAGEN5]]（1 源）
+- [[实体/mitraclip-g5|MitraClip G5]]（1 源）
+- [[实体/viewflex|ViewFlex]]（1 源）
+- [[实体/acunav|AcuNav]]（1 源）
+- [[实体/claas-system|CLAAS System]]（1 源）
+- [[实体/bipul-mainali|Bipul Mainali]]（1 源）
+- [[实体/cedars-valvequant|Cedars ValveQuant]]（1 源）
+- [[实体/taha-hatab|Taha Hatab]]（1 源）
+- [[实体/rommel-yap|Rommel Yap]]（1 源）
+- [[实体/biotronik|Biotronik]]（1 源）
+- [[实体/watch-teer|WATCH-TEER]]（1 源）
+- [[实体/elite-af-trial|Elite AF trial]]（1 源）
+- [[实体/ttvr-ahi|TTVR-AHI]]（1 源）
+- [[实体/karl-philipp-rommel|Karl-Philipp Rommel]]（1 源）
+- [[实体/university-medical-center-mainz|University Medical Center Mainz]]（1 源）
+- [[实体/lorenzo-fargione|Lorenzo Fargione]]（1 源）
+- [[实体/madalina-garbi|Madalina Garbi]]（1 源）
+- [[实体/royal-papworth-hospital|Royal Papworth Hospital]]（1 源）
+- [[实体/arsalan-abu-much|Arsalan Abu-Much]]（1 源）
+- [[实体/mcot|MCOT]]（1 源）
+- [[实体/juri-iwata|Juri Iwata]]（1 源）
+- [[实体/kentaro-hayashida|Kentaro Hayashida]]（1 源）
+- [[实体/nicolas-zubrzycki|Nicolas Zubrzycki]]（1 源）
+- [[实体/st-vincents-hospital-sydney|St Vincent's Hospital Sydney]]（1 源）
+- [[实体/thomas-meredith|Thomas Meredith]]（1 源）
+- [[实体/lucy-m-safi|Lucy M. Safi]]（1 源）
+- [[实体/srivatsan-swaminathan|Srivatsan Swaminathan]]（1 源）
+- [[实体/medtronic-3f-valve|Medtronic 3F Valve]]（1 源）
+- [[实体/mida-q-registry|MIDA-Q registry]]（1 源）
+- [[实体/karan-chhabra|Karan Chhabra]]（1 源）
+- [[实体/mount-sinai-morningside|Mount Sinai Morningside]]（1 源）
+- [[实体/mohamed-zghouzi|Mohamed Zghouzi]]（1 源）
+- [[实体/uthsc-nashville-ascension-st-thomas-heart|UTHSC-Nashville / Ascension St. Thomas Heart]]（1 源）
+- [[实体/toronto-stentless-生物瓣|Toronto stentless 生物瓣]]（1 源）
+- [[实体/威尔斯亲王医院|威尔斯亲王医院]]（1 源）
+- [[实体/smart-mac-investigators|SMART-MAC investigators]]（1 源）
+- [[实体/shockwave-medical-ivl-l6|Shockwave Medical IVL L6]]（1 源）
+- [[实体/bruce-j-rutkin|Bruce J. Rutkin]]（1 源）
+- [[实体/medtronic-evolut-pro|Medtronic Evolut Pro]]（1 源）
+- [[实体/eric-gehres|Eric Gehres]]（1 源）
+- [[实体/ronnie-ramadan|Ronnie Ramadan]]（1 源）
+- [[实体/georgia-heart-institute|Georgia Heart Institute]]（1 源）
+- [[实体/biv-crt|BiV-CRT]]（1 源）
+- [[实体/jake-m-chanin|Jake M. Chanin]]（1 源）
+- [[实体/intermountain-health-st-joseph-hospital|Intermountain Health St Joseph Hospital]]（1 源）
+- [[实体/shockwave-medical|Shockwave Medical]]（1 源）
+- [[实体/marta-mazur|Marta Mazur]]（1 源）
+- [[实体/american-heart-of-poland|American Heart of Poland]]（1 源）
+- [[实体/octacor|Octacor]]（1 源）
+- [[实体/dan-blackman|Dan Blackman]]（1 源）
+- [[实体/kristen-sell-dottin|Kristen Sell-Dottin]]（1 源）
+- [[实体/jc-medical|JC Medical]]（1 源）
+- [[实体/jscai|JSCAI]]（1 源）
+- [[实体/cardioband|Cardioband]]（1 源）
+- [[实体/navitor-ide-study|Navitor IDE Study]]（1 源）
+- [[实体/dustin-kliner|Dustin Kliner]]（1 源）
+- [[实体/ahmed-a-elkaialy|Ahmed A. Elkaialy]]（1 源）
+- [[实体/purpose|PURPOSE]]（1 源）
+- [[实体/jeris-abuhouran|Jeris Abuhouran]]（1 源）
+- [[实体/卢塞恩州医院心脏中心|卢塞恩州医院心脏中心]]（1 源）
+- [[实体/pascal-ace-p10|Pascal Ace P10]]（1 源）
+- [[实体/university-hospital-cologne|University Hospital Cologne]]（1 源）
+- [[实体/rheia|RHEIA]]（1 源）
+- [[实体/ocean-tavi-registry|OCEAN-TAVI Registry]]（1 源）
+- [[实体/michael-j-reardon|Michael J. Reardon]]（1 源）
+- [[实体/zeta-valve|Zeta Valve]]（1 源）
+- [[实体/steven-bolling|Steven Bolling]]（1 源）
+- [[实体/bo-yang|Bo Yang]]（1 源）
+- [[实体/viva-trial|VIVA trial]]（1 源）
+- [[实体/neal-duggal|Neal Duggal]]（1 源）
+- [[实体/ragul-manoharan|Ragul Manoharan]]（1 源）
+- [[实体/ahmed-albadri|Ahmed AlBadri]]（1 源）
+- [[实体/wellstar-center-for-cardiovascular-care|WellStar Center for Cardiovascular Care]]（1 源）
+- [[实体/pratheesh-george|Pratheesh George]]（1 源）
+- [[实体/true-balloon|True Balloon]]（1 源）
+- [[实体/icoach-6|iCOACH 6]]（1 源）
+- [[实体/st-bernards-medical-center|St. Bernard's Medical Center]]（1 源）
+- [[实体/aortosave|AortoSave]]（1 源）
+- [[实体/diego-gaia|Diego Gaia]]（1 源）
+- [[实体/vienna-valve|Vienna Valve]]（1 源）
+- [[实体/federal-university-of-são-paulo|Federal University of São Paulo]]（1 源）
+- [[实体/renuka-jain|Renuka Jain]]（1 源）
+- [[实体/triselect-study|TriSelect Study]]（1 源）
+- [[实体/duane-pinto|Duane Pinto]]（1 源）
+- [[实体/egnite|eGnite]]（1 源）
+- [[实体/ravinder-singh-rao|Ravinder Singh Rao]]（1 源）
+- [[实体/chloe-kharsa|Chloe Kharsa]]（1 源）
+- [[实体/joe-aoun|Joe Aoun]]（1 源）
+- [[实体/michael-rinaldi|Michael Rinaldi]]（1 源）
+- [[实体/dee-dee-wang|Dee Dee Wang]]（1 源）
+- [[实体/nch-rooney-heart-institute|NCH Rooney Heart Institute]]（1 源）
+- [[实体/medtronic-avalus|Medtronic Avalus]]（1 源）
+- [[实体/siemens-healthineers|Siemens Healthineers]]（1 源）
+- [[实体/andrea-mariani|Andrea Mariani]]（1 源）
+- [[实体/endurant|Endurant]]（1 源）
+- [[实体/raviteja-guddeti|Raviteja Guddeti]]（1 源）
+- [[实体/israa-saleh|Israa Saleh]]（1 源）
+- [[实体/généreux|Généreux]]（1 源）
+- [[实体/mimic-iv|MIMIC-IV]]（1 源）
+- [[实体/egnite-registry|egnite registry]]（1 源）
+- [[实体/larsen-综合征|Larsen 综合征]]（1 源）
+- [[实体/a-greenbaum|A. Greenbaum]]（1 源）
+- [[实体/mohammad-sarraf|Mohammad Sarraf]]（1 源）
+- [[实体/travel-ii|TRAVEL II]]（1 源）
+- [[实体/trinity-eu|TRINITY-EU]]（1 源）
+- [[实体/unica|Unica]]（1 源）
+- [[实体/ottawa-heart|Ottawa Heart]]（1 源）
+- [[实体/omar-abdel-razek|Omar Abdel-Razek]]（1 源）
+- [[实体/innoventric|Innoventric]]（1 源）
+- [[实体/triact|TriACT]]（1 源）
+- [[实体/triselect|TriSelect]]（1 源）
+- [[实体/guru|Guru]]（1 源）
+- [[实体/xenter|Xenter]]（1 源）
+- [[实体/harvi|HARVi]]（1 源）
+- [[实体/reveal|Reveal]]（1 源）
+- [[实体/avara|Avara]]（1 源）
+- [[实体/charishma-nallapati|Charishma Nallapati]]（1 源）
+- [[实体/jarmanjeet-singh|Jarmanjeet Singh]]（1 源）
+- [[实体/cardioclip-rct|CardioClip RCT]]（1 源）
+- [[实体/carillon|Carillon]]（1 源）
+- [[实体/mhif|MHIF]]（1 源）
+- [[实体/american-society-of-echocardiography|American Society of Echocardiography]]（1 源）
+
+## 概念（2250）
+- [[概念/m-teer|M-TEER]]（81 源）
+- [[概念/瓣周漏pvl|瓣周漏（PVL）]]（70 源）
+- [[概念/ttvr|TTVR]]（60 源）
+- [[概念/t-teer|T-TEER]]（53 源）
+- [[概念/左心耳封堵|左心耳封堵]]（52 源）
+- [[概念/neo-lvot|neo-LVOT]]（43 源）
+- [[概念/viv-tavr|ViV-TAVR]]（40 源）
+- [[概念/varc-3|VARC-3]]（39 源）
+- [[概念/tmvr|TMVR]]（37 源）
+- [[概念/结构性瓣膜退化svd|结构性瓣膜退化（SVD）]]（37 源）
+- [[概念/basilica|BASILICA]]（36 源）
+- [[概念/sts-风险评分|STS 风险评分]]（34 源）
+- [[概念/lvot-梗阻|LVOT 梗阻]]（34 源）
+- [[概念/halt|HALT]]（33 源）
+- [[概念/二尖瓣环钙化|二尖瓣环钙化]]（33 源）
+- [[概念/功能性二尖瓣反流|功能性二尖瓣反流]]（32 源）
+- [[概念/kccq|KCCQ]]（32 源）
+- [[概念/tavr|TAVR]]（31 源）
+- [[概念/ppm|PPM]]（31 源）
+- [[概念/tav-in-tav|TAV-in-TAV]]（28 源）
+- [[概念/tri-score|TRI-SCORE]]（26 源）
+- [[概念/slda|SLDA]]（25 源）
+- [[概念/lampoon|LAMPOON]]（25 源）
+- [[概念/heart-team-决策|Heart Team 决策]]（25 源）
+- [[概念/kccq-os|KCCQ-OS]]（21 源）
+- [[概念/teer|TEER]]（21 源）
+- [[概念/vtc|VTC]]（21 源）
+- [[概念/器械相关血栓drt|器械相关血栓（DRT）]]（21 源）
+- [[概念/unicorn|UNICORN]]（21 源）
+- [[概念/gdmt|GDMT]]（20 源）
+- [[概念/二叶式主动脉瓣|二叶式主动脉瓣]]（20 源）
+- [[概念/倾向评分匹配|倾向评分匹配]]（20 源）
+- [[概念/经房间隔穿刺|经房间隔穿刺]]（20 源）
+- [[概念/rv-pa-coupling|RV-PA coupling]]（20 源）
+- [[概念/ice心腔内超声|ICE（心腔内超声）]]（19 源）
+- [[概念/瓣周漏封堵|瓣周漏封堵]]（17 源）
+- [[概念/器械周围漏pdl|器械周围漏（PDL）]]（17 源）
+- [[概念/valve-in-mac|Valve-in-MAC]]（17 源）
+- [[概念/经导管三尖瓣置换ttvr|经导管三尖瓣置换（TTVR）]]（15 源）
+- [[概念/batman|BATMAN]]（14 源）
+- [[概念/永久起搏器植入|永久起搏器植入]]（14 源）
+- [[概念/机械循环支持|机械循环支持]]（14 源）
+- [[概念/cha2ds2-vasc-评分|CHA2DS2-VASc 评分]]（14 源）
+- [[概念/酒精室间隔消融|酒精室间隔消融]]（14 源）
+- [[概念/sesame|SESAME]]（13 源）
+- [[概念/mpr|MPR]]（13 源）
+- [[概念/脑栓塞保护|脑栓塞保护]]（12 源）
+- [[概念/valve-in-valve|Valve-in-Valve]]（12 源）
+- [[概念/tvarc|TVARC]]（12 源）
+- [[概念/早期可行性研究|早期可行性研究]]（11 源）
+- [[概念/ttvi|TTVI]]（11 源）
+- [[概念/冠脉阻塞风险评估|冠脉阻塞风险评估]]（11 源）
+- [[概念/glide-score|GLIDE score]]（11 源）
+- [[概念/sinus-sequestration|Sinus sequestration]]（11 源）
+- [[概念/有效瓣口面积|有效瓣口面积]]（11 源）
+- [[概念/经导管二尖瓣置换tmvr|经导管二尖瓣置换（TMVR）]]（11 源）
+- [[概念/valve-in-ring|valve-in-ring]]（10 源）
+- [[概念/瓣叶改良|瓣叶改良]]（10 源）
+- [[概念/iasd|iASD]]（10 源）
+- [[概念/退行性二尖瓣反流|退行性二尖瓣反流]]（10 源）
+- [[概念/cied相关tr|CIED相关TR]]（10 源）
+- [[概念/tee经食管超声心动图|TEE（经食管超声心动图）]]（10 源）
+- [[概念/bvf|BVF]]（10 源）
+- [[概念/3d-tee|3D TEE]]（9 源）
+- [[概念/冠脉阻塞|冠脉阻塞]]（9 源）
+- [[概念/papi|PAPi]]（9 源）
+- [[概念/iabp|IABP]]（9 源）
+- [[概念/ct-based-mac-score|CT-Based MAC Score]]（9 源）
+- [[概念/ivl|IVL]]（9 源）
+- [[概念/savr|SAVR]]（8 源）
+- [[概念/doac|DOAC]]（8 源）
+- [[概念/valve-in-valve-tavr|Valve-in-Valve TAVR]]（8 源）
+- [[概念/tapse|TAPSE]]（8 源）
+- [[概念/esceacts-2025指南|ESC/EACTS 2025指南]]（8 源）
+- [[概念/脉冲场消融|脉冲场消融]]（8 源）
+- [[概念/球囊后扩张|球囊后扩张]]（8 源）
+- [[概念/hfref|HFrEF]]（8 源）
+- [[概念/ice引导|ICE引导]]（8 源）
+- [[概念/sam|SAM]]（8 源）
+- [[概念/冠脉阻塞风险|冠脉阻塞风险]]（8 源）
+- [[概念/终身瓣膜管理|终身瓣膜管理]]（8 源）
+- [[概念/chimney-支架|Chimney 支架]]（8 源）
+- [[概念/dapt|DAPT]]（7 源）
+- [[概念/3d-vca|3D VCA]]（7 源）
+- [[概念/心源性休克|心源性休克]]（7 源）
+- [[概念/win-ratio|Win Ratio]]（7 源）
+- [[概念/bev|BEV]]（7 源）
+- [[概念/sev|SEV]]（7 源）
+- [[概念/dlcd|DLC/d]]（7 源）
+- [[概念/共同决策|共同决策]]（7 源）
+- [[概念/mace|MACE]]（7 源）
+- [[概念/多模态影像|多模态影像]]（7 源）
+- [[概念/小主动脉瓣环|小主动脉瓣环]]（7 源）
+- [[概念/va-ecmo|VA-ECMO]]（7 源）
+- [[概念/瓣中瓣valve-in-valve|瓣中瓣（Valve-in-Valve）]]（7 源）
+- [[概念/左室逆重构|左室逆重构]]（7 源）
+- [[概念/vtstj|VTSTJ]]（7 源）
+- [[概念/血流动力学瓣膜恶化hvd|血流动力学瓣膜恶化（HVD）]]（7 源）
+- [[概念/macce|MACCE]]（6 源）
+- [[概念/cied|CIED]]（6 源）
+- [[概念/bvf生物瓣膜断裂|BVF（生物瓣膜断裂）]]（6 源）
+- [[概念/redo-tavr|redo-TAVR]]（6 源）
+- [[概念/经导管三尖瓣缘对缘修复|经导管三尖瓣缘对缘修复]]（6 源）
+- [[概念/eroa|EROA]]（6 源）
+- [[概念/hfpef|HFpEF]]（6 源）
+- [[概念/三尖瓣反流tr|三尖瓣反流（TR）]]（6 源）
+- [[概念/torrential-tr|Torrential TR]]（6 源）
+- [[概念/pass-标准|PASS 标准]]（6 源）
+- [[概念/纯主动脉反流|纯主动脉反流]]（6 源）
+- [[概念/bvd|BVD]]（6 源）
+- [[概念/lava-ecmo|LAVA-ECMO]]（6 源）
+- [[概念/tapsepasp|TAPSE/PASP]]（6 源）
+- [[概念/右室反向重构|右室反向重构]]（6 源）
+- [[概念/心房功能性mr|心房功能性MR]]（6 源）
+- [[概念/快速起搏释放rapid-pacing-deployment|快速起搏释放（rapid pacing deployment）]]（6 源）
+- [[概念/alfieri-stitch|Alfieri stitch]]（5 源）
+- [[概念/cusp-overlap-view|cusp-overlap view]]（5 源）
+- [[概念/omt|OMT]]（5 源）
+- [[概念/3d-ice|3D-ICE]]（5 源）
+- [[概念/nyha-功能分级|NYHA 功能分级]]（5 源）
+- [[概念/随机效应荟萃分析|随机效应荟萃分析]]（5 源）
+- [[概念/ncd-20-34|NCD 20.34]]（5 源）
+- [[概念/乳头肌断裂|乳头肌断裂]]（5 源）
+- [[概念/first-in-human|First-in-Human]]（5 源）
+- [[概念/sglt2抑制剂|SGLT2抑制剂]]（5 源）
+- [[概念/neoskirt-plane|Neoskirt plane]]（5 源）
+- [[概念/sievers-分型|Sievers 分型]]（5 源）
+- [[概念/fine-gray-竞争风险模型|Fine-Gray 竞争风险模型]]（5 源）
+- [[概念/has-bled-评分|HAS-BLED 评分]]（5 源）
+- [[概念/euroscore-ii|EuroSCORE II]]（5 源）
+- [[概念/flying-v|Flying V]]（5 源）
+- [[概念/三尖瓣缘对缘修复|三尖瓣缘对缘修复]]（5 源）
+- [[概念/急性瓣膜综合征|急性瓣膜综合征]]（5 源）
+- [[概念/心脏损害分期|心脏损害分期]]（5 源）
+- [[概念/nt-probnp|NT-proBNP]]（5 源）
+- [[概念/低流量低梯度主动脉瓣狭窄lflg-as|低流量低梯度主动脉瓣狭窄（LFLG AS）]]（5 源）
+- [[概念/lvad相关主动脉瓣反流|LVAD相关主动脉瓣反流]]（5 源）
+- [[概念/tavr-瓣膜栓塞抢救transcatheter-valve-embolization-rescue|TAVR 瓣膜栓塞抢救（transcatheter valve embolization rescue）]]（5 源）
+- [[概念/4d-ice|4D ICE]]（5 源）
+- [[概念/多瓣膜病|多瓣膜病]]（5 源）
+- [[概念/dvi|DVI]]（5 源）
+- [[概念/多学科心脏团队|多学科心脏团队]]（5 源）
+- [[概念/tvt-registry|TVT Registry]]（4 源）
+- [[概念/rlm|RLM]]（4 源）
+- [[概念/有效rvef|有效RVEF]]（4 源）
+- [[概念/septostomy|Septostomy]]（4 源）
+- [[概念/true-internal-diameter|true internal diameter]]（4 源）
+- [[概念/主动脉反流定量评估|主动脉反流定量评估]]（4 源）
+- [[概念/右心导管检查|右心导管检查]]（4 源）
+- [[概念/qpqs肺体血流比|Qp:Qs（肺体血流比）]]（4 源）
+- [[概念/腔静脉瓣膜介入cavi|腔静脉瓣膜介入（CAVI）]]（4 源）
+- [[概念/commissural-alignment|Commissural alignment]]（4 源）
+- [[概念/经房间隔入路transseptal-approach|经房间隔入路（transseptal approach）]]（4 源）
+- [[概念/vital-status-sweepvss|Vital Status Sweep（VSS）]]（4 源）
+- [[概念/清醒镇静|清醒镇静]]（4 源）
+- [[概念/累积发生函数cif|累积发生函数（CIF）]]（4 源）
+- [[概念/球囊扩张式-tavr|球囊扩张式 TAVR]]（4 源）
+- [[概念/全生命周期管理|全生命周期管理]]（4 源）
+- [[概念/dw-mri|DW-MRI]]（4 源）
+- [[概念/barlow病|Barlow病]]（4 源）
+- [[概念/neochords|neochords]]（4 源）
+- [[概念/wilkins评分|Wilkins评分]]（4 源）
+- [[概念/eurotr-score|EuroTR score]]（4 源）
+- [[概念/异位三尖瓣置换heterotopic-ttvr|异位三尖瓣置换（Heterotopic TTVR）]]（4 源）
+- [[概念/ivus|IVUS]]（4 源）
+- [[概念/感染性心内膜炎ie|感染性心内膜炎（IE）]]（4 源）
+- [[概念/二尖瓣面积mva|二尖瓣面积（MVA）]]（4 源）
+- [[概念/rv-fac|RV FAC]]（4 源）
+- [[概念/完全性房室传导阻滞|完全性房室传导阻滞]]（4 源）
+- [[概念/技术成功率|技术成功率]]（4 源）
+- [[概念/trivalve-score|TRIVALVE score]]（4 源）
+- [[概念/mvarc-技术成功|MVARC 技术成功]]（4 源）
+- [[概念/经房间隔tmvr|经房间隔TMVR]]（4 源）
+- [[概念/经静脉导线拔除|经静脉导线拔除]]（4 源）
+- [[概念/accaha-2020指南|ACC/AHA 2020指南]]（4 源）
+- [[概念/vtstj-vtc|VTSTJ / VTC]]（4 源）
+- [[概念/carpentier-分型|Carpentier 分型]]（3 源）
+- [[概念/tootsie-roll技术|Tootsie Roll技术]]（3 源）
+- [[概念/varc-2|VARC-2]]（3 源）
+- [[概念/virchow三联征|Virchow三联征]]（3 源）
+- [[概念/hat分级|HAT分级]]（3 源）
+- [[概念/急性主动脉瓣综合征|急性主动脉瓣综合征]]（3 源）
+- [[概念/dryseal-sheath|Dryseal sheath]]（3 源）
+- [[概念/压力-容量环pv-loop|压力-容量环（PV loop）]]（3 源）
+- [[概念/ffr|FFR]]（3 源）
+- [[概念/ivc-tva-offset|IVC-TVA offset]]（3 源）
+- [[概念/二尖瓣经导管缘对缘修复m-teer|二尖瓣经导管缘对缘修复（M-TEER）]]（3 源）
+- [[概念/三尖瓣反流严重程度分级|三尖瓣反流严重程度分级]]（3 源）
+- [[概念/lvad|LVAD]]（3 源）
+- [[概念/digital-twin|digital twin]]（3 源）
+- [[概念/水平主动脉|水平主动脉]]（3 源）
+- [[概念/lvot-钙化|LVOT 钙化]]（3 源）
+- [[概念/主动脉根部扩大|主动脉根部扩大]]（3 源）
+- [[概念/valve-sparing-aortic-root-replacement|valve sparing aortic root replacement]]（3 源）
+- [[概念/心脏团队决策|心脏团队决策]]（3 源）
+- [[概念/系统综述与荟萃分析|系统综述与荟萃分析]]（3 源）
+- [[概念/ccta规划|CCTA规划]]（3 源）
+- [[概念/landing-zone|Landing zone]]（3 源）
+- [[概念/agatston钙化评分|Agatston钙化评分]]（3 源）
+- [[概念/fih-慈善使用|FIH 慈善使用]]（3 源）
+- [[概念/同日出院|同日出院]]（3 源）
+- [[概念/房性功能性三尖瓣反流|房性功能性三尖瓣反流]]（3 源）
+- [[概念/组内相关系数|组内相关系数]]（3 源）
+- [[概念/ms-drg-317|MS-DRG 317]]（3 源）
+- [[概念/无症状重度主动脉瓣狭窄asymptomatic-severe-as|无症状重度主动脉瓣狭窄（asymptomatic severe AS）]]（3 源）
+- [[概念/tav-in-tav-in-tav|TAV-in-TAV-in-TAV]]（3 源）
+- [[概念/上市后监测|上市后监测]]（3 源）
+- [[概念/功能性三尖瓣反流|功能性三尖瓣反流]]（3 源）
+- [[概念/mvoa二尖瓣口面积|MVOA（二尖瓣口面积）]]（3 源）
+- [[概念/左室重构|左室重构]]（3 源）
+- [[概念/全身栓塞保护|全身栓塞保护]]（3 源）
+- [[概念/心包填塞|心包填塞]]（3 源）
+- [[概念/pv-isolation|PV isolation]]（3 源）
+- [[概念/残余-tr|残余 TR]]（3 源）
+- [[概念/瓣膜栓塞|瓣膜栓塞]]（3 源）
+- [[概念/rbbb|RBBB]]（3 源）
+- [[概念/急性血流动力学不稳定|急性血流动力学不稳定]]（3 源）
+- [[概念/sitral|SITRAL]]（3 源）
+- [[概念/pocus床旁即时超声|POCUS（床旁即时超声）]]（3 源）
+- [[概念/bentall-手术|Bentall 手术]]（3 源）
+- [[概念/lifetime-management|lifetime management]]（3 源）
+- [[概念/bland-altman-分析|Bland-Altman 分析]]（3 源）
+- [[概念/monitored-anesthesia-care-mac|Monitored Anesthesia Care (MAC)]]（3 源）
+- [[概念/机械瓣叶裂开|机械瓣叶裂开]]（3 源）
+- [[概念/心房功能性tr|心房功能性TR]]（3 源）
+- [[概念/dasi-模型|DASI 模型]]（3 源）
+- [[概念/kaplan-meier-生存分析|Kaplan-Meier 生存分析]]（3 源）
+- [[概念/charlson-comorbidity-index|Charlson Comorbidity Index]]（3 源）
+- [[概念/double-tap|Double-TAP]]（3 源）
+- [[概念/多巴酚丁胺负荷超声心动图dse|多巴酚丁胺负荷超声心动图（DSE）]]（3 源）
+- [[概念/late-gadolinium-enhancement-lge|late gadolinium enhancement (LGE)]]（3 源）
+- [[概念/连合对齐|连合对齐]]（3 源）
+- [[概念/窦部隔绝sinus-sequestration|窦部隔绝（Sinus Sequestration）]]（3 源）
+- [[概念/icdinter-commissural-distance|ICD（inter-commissural distance）]]（3 源）
+- [[概念/ced-mandate|CED mandate]]（3 源）
+- [[概念/prohibitive-surgical-risk外科禁忌风险|prohibitive surgical risk（外科禁忌风险）]]（3 源）
+- [[概念/mae|MAE]]（3 源）
+- [[概念/医源性二尖瓣狭窄|医源性二尖瓣狭窄]]（3 源）
+- [[概念/thv-欠扩张|THV 欠扩张]]（3 源）
+- [[概念/经颈动脉入路|经颈动脉入路]]（3 源）
+- [[概念/ct-主动脉瓣钙化评分|CT 主动脉瓣钙化评分]]（3 源）
+- [[概念/snorkel-技术|Snorkel 技术]]（3 源）
+- [[概念/septolateral-coaptation-gap|Septolateral coaptation gap]]（3 源）
+- [[概念/matrix|MATRIX]]（3 源）
+- [[概念/rvfwls|RVFWLS]]（3 源）
+- [[概念/竞争风险分析|竞争风险分析]]（3 源）
+- [[概念/pvl-伴溶血|PVL 伴溶血]]（3 源）
+- [[概念/sev与bev|SEV与BEV]]（3 源）
+- [[概念/hospital-frailty-risk-score|Hospital Frailty Risk Score]]（2 源）
+- [[概念/fronteer-tmvr|FRONTEER TMVR]]（2 源）
+- [[概念/安慰剂效应|安慰剂效应]]（2 源）
+- [[概念/人工腱索|人工腱索]]（2 源）
+- [[概念/夹间反流inter-clip-mr|夹间反流（Inter-clip MR）]]（2 源）
+- [[概念/吸入一氧化氮|吸入一氧化氮]]（2 源）
+- [[概念/pannus|pannus]]（2 源）
+- [[概念/cied导线jailed|CIED导线jailed]]（2 源）
+- [[概念/内皮化|内皮化]]（2 源）
+- [[概念/coumadin-ridge|coumadin ridge]]（2 源）
+- [[概念/commissural-post-height|commissural-post height]]（2 源）
+- [[概念/4d-ct|4D-CT]]（2 源）
+- [[概念/pisa-eroa|PISA EROA]]（2 源）
+- [[概念/viv-tavi|ViV TAVI]]（2 源）
+- [[概念/延迟期-ct|延迟期 CT]]（2 源）
+- [[概念/瓣膜血栓|瓣膜血栓]]（2 源）
+- [[概念/gooseneck-snare|gooseneck snare]]（2 源）
+- [[概念/继发性-mr|继发性 MR]]（2 源）
+- [[概念/crt-d|CRT-D]]（2 源）
+- [[概念/ifr|iFR]]（2 源）
+- [[概念/lv-gls|LV GLS]]（2 源）
+- [[概念/经导管二尖瓣环成形|经导管二尖瓣环成形]]（2 源）
+- [[概念/经颈静脉入路|经颈静脉入路]]（2 源）
+- [[概念/gdmt-uptitration|GDMT uptitration]]（2 源）
+- [[概念/m-teer作为lvad桥接|M-TEER作为LVAD桥接]]（2 源）
+- [[概念/arni血管紧张素受体脑啡肽酶抑制剂|ARNI（血管紧张素受体脑啡肽酶抑制剂）]]（2 源）
+- [[概念/球囊封堵测试|球囊封堵测试]]（2 源）
+- [[概念/crt|CRT]]（2 源）
+- [[概念/左主干阻塞|左主干阻塞]]（2 源）
+- [[概念/protected-pci|protected PCI]]（2 源）
+- [[概念/cmr定量三尖瓣反流|CMR定量三尖瓣反流]]（2 源）
+- [[概念/llamacorn|LLAMACORN]]（2 源）
+- [[概念/neoskirt|neoskirt]]（2 源）
+- [[概念/roc-曲线分析|ROC 曲线分析]]（2 源）
+- [[概念/经颈动脉-tavr|经颈动脉 TAVR]]（2 源）
+- [[概念/itt-分析|ITT 分析]]（2 源）
+- [[概念/ebstein畸形|Ebstein畸形]]（2 源）
+- [[概念/随机效应模型|随机效应模型]]（2 源）
+- [[概念/rf切割技术|RF切割技术]]（2 源）
+- [[概念/外科maze手术|外科MAZE手术]]（2 源）
+- [[概念/a-smr|A-SMR]]（2 源）
+- [[概念/瓣架变形|瓣架变形]]（2 源）
+- [[概念/vivid-分型|VIVID 分型]]（2 源）
+- [[概念/数字孪生digital-twin|数字孪生（Digital Twin）]]（2 源）
+- [[概念/椭圆率|椭圆率]]（2 源）
+- [[概念/起搏依赖|起搏依赖]]（2 源）
+- [[概念/vca缩流颈面积|VCA（缩流颈面积）]]（2 源）
+- [[概念/假性动脉瘤|假性动脉瘤]]（2 源）
+- [[概念/限制平均生存时间|限制平均生存时间]]（2 源）
+- [[概念/compassionate-use|Compassionate Use]]（2 源）
+- [[概念/vena-contracta|Vena Contracta]]（2 源）
+- [[概念/3d数字孪生|3D数字孪生]]（2 源）
+- [[概念/左室假性动脉瘤|左室假性动脉瘤]]（2 源）
+- [[概念/临床监测clinical-surveillance|临床监测（clinical surveillance）]]（2 源）
+- [[概念/后负荷不匹配|后负荷不匹配]]（2 源）
+- [[概念/亚临床性瓣膜血栓|亚临床性瓣膜血栓]]（2 源）
+- [[概念/患者报告结局pro|患者报告结局（PRO）]]（2 源）
+- [[概念/后扩张post-dilation|后扩张（Post-Dilation）]]（2 源）
+- [[概念/经房间隔顺行入路|经房间隔顺行入路]]（2 源）
+- [[概念/二尖瓣反流-mr|二尖瓣反流 (MR)]]（2 源）
+- [[概念/器械耐久性证据|器械耐久性证据]]（2 源）
+- [[概念/竞争风险|竞争风险]]（2 源）
+- [[概念/瓣膜耐久性|瓣膜耐久性]]（2 源）
+- [[概念/seal-and-advance-技术|Seal and Advance 技术]]（2 源）
+- [[概念/前二尖瓣叶|前二尖瓣叶]]（2 源）
+- [[概念/溶血性贫血|溶血性贫血]]（2 源）
+- [[概念/房间隔穿刺高度|房间隔穿刺高度]]（2 源）
+- [[概念/风湿性心脏病|风湿性心脏病]]（2 源）
+- [[概念/landing-zone-sizing|Landing zone sizing]]（2 源）
+- [[概念/chicken-wing-解剖|chicken-wing 解剖]]（2 源）
+- [[概念/被动随访架构|被动随访架构]]（2 源）
+- [[概念/自膨式-tavr|自膨式 TAVR]]（2 源）
+- [[概念/锚定环anchor-ring设计|锚定环（anchor ring）设计]]（2 源）
+- [[概念/guyot-ipd重建|Guyot IPD重建]]（2 源）
+- [[概念/相位对比cmr血流测量|相位对比CMR血流测量]]（2 源）
+- [[概念/tr五级分级|TR五级分级]]（2 源）
+- [[概念/cfd计算流体动力学|CFD（计算流体动力学）]]（2 源）
+- [[概念/非手术相关出血|非手术相关出血]]（2 源）
+- [[概念/mean-transmitral-pressure-gradient-mpg|mean transmitral pressure gradient (MPG)]]（2 源）
+- [[概念/atrial-functional-mr-atrial-fmr|atrial functional MR (atrial FMR)]]（2 源）
+- [[概念/valve-in-valve-tavi-viv-tavi|valve-in-valve TAVI (ViV-TAVI)]]（2 源）
+- [[概念/非劣效设计|非劣效设计]]（2 源）
+- [[概念/空气栓塞|空气栓塞]]（2 源）
+- [[概念/主动管理流程|主动管理流程]]（2 源）
+- [[概念/thv-explant|THV explant]]（2 源）
+- [[概念/中度as|中度AS]]（2 源）
+- [[概念/lvedvi|LVEDVi]]（2 源）
+- [[概念/冠脉遮挡|冠脉遮挡]]（2 源）
+- [[概念/主动脉反流ar|主动脉反流（AR）]]（2 源）
+- [[概念/术前-ct-规划|术前 CT 规划]]（2 源）
+- [[概念/二尖瓣碎石术|二尖瓣碎石术]]（2 源）
+- [[概念/经导管心腔内超声tieice|经导管心腔内超声（TIE/ICE）]]（2 源）
+- [[概念/laa形态分型|LAA形态分型]]（2 源）
+- [[概念/ama-pra-category-1-credits|AMA PRA Category 1 Credits]]（2 源）
+- [[概念/a-str|A-STR]]（2 源）
+- [[概念/同轴性|同轴性]]（2 源）
+- [[概念/中心静脉压cvp|中心静脉压（CVP）]]（2 源）
+- [[概念/瓣叶切开术|瓣叶切开术]]（2 源）
+- [[概念/lvot-假性动脉瘤|LVOT 假性动脉瘤]]（2 源）
+- [[概念/barc-出血分级|BARC 出血分级]]（2 源）
+- [[概念/central-ar|central AR]]（2 源）
+- [[概念/双支架设计|双支架设计]]（2 源）
+- [[概念/mac-风险分层|MAC 风险分层]]（2 源）
+- [[概念/瓣叶开窗|瓣叶开窗]]（2 源）
+- [[概念/reverse-remodeling|Reverse Remodeling]]（2 源）
+- [[概念/stroke-volume-index|Stroke Volume Index]]（2 源）
+- [[概念/6-分钟步行试验|6 分钟步行试验]]（2 源）
+- [[概念/sapt|SAPT]]（2 源）
+- [[概念/bioptome-assisted-leaflet-snipping|Bioptome-assisted leaflet snipping]]（2 源）
+- [[概念/外科-mvr二尖瓣置换术|外科 MVR（二尖瓣置换术）]]（2 源）
+- [[概念/tmvir|TMViR]]（2 源）
+- [[概念/eptfe覆膜|ePTFE覆膜]]（2 源）
+- [[概念/瓣膜外心脏损害分期|瓣膜外心脏损害分期]]（2 源）
+- [[概念/分期介入策略|分期介入策略]]（2 源）
+- [[概念/3d-eroa|3D EROA]]（2 源）
+- [[概念/syntax-评分|Syntax 评分]]（2 源）
+- [[概念/主动脉-二尖瓣夹角aortomitral-angle|主动脉-二尖瓣夹角（aortomitral angle）]]（2 源）
+- [[概念/sf-12|SF-12]]（2 源）
+- [[概念/tavr-explant|TAVR explant]]（2 源）
+- [[概念/vta-lca|VTA-LCA]]（2 源）
+- [[概念/三尖瓣瓣中瓣置换|三尖瓣瓣中瓣置换]]（2 源）
+- [[概念/冠脉保护技术|冠脉保护技术]]（2 源）
+- [[概念/cardiohepatic-syndrome|Cardiohepatic Syndrome]]（2 源）
+- [[概念/右室功能评估|右室功能评估]]（2 源）
+- [[概念/性别差异|性别差异]]（2 源）
+- [[概念/vtavtc距离|VTA/VTC距离]]（2 源）
+- [[概念/tavr适应证扩展|TAVR适应证扩展]]（2 源）
+- [[概念/节律控制rhythm-control|节律控制（Rhythm Control）]]（2 源）
+- [[概念/瓣环破裂|瓣环破裂]]（2 源）
+- [[概念/预扩张|预扩张]]（2 源）
+- [[概念/avr+cabg|AVR+CABG]]（2 源）
+- [[概念/心室-动脉耦合|心室-动脉耦合]]（2 源）
+- [[概念/viviv-tavr|ViViV TAVR]]（2 源）
+- [[概念/压力恢复|压力恢复]]（2 源）
+- [[概念/经颈静脉-ttvr|经颈静脉 TTVR]]（2 源）
+- [[概念/假体瓣感染性心内膜炎|假体瓣感染性心内膜炎]]（2 源）
+- [[概念/主动脉瓣钙化评分avc|主动脉瓣钙化评分（AVC）]]（2 源）
+- [[概念/虚拟瓣膜模拟|虚拟瓣膜模拟]]（2 源）
+- [[概念/koch三角|Koch三角]]（2 源）
+- [[概念/反常低流低梯度重度as|反常低流低梯度重度AS]]（2 源）
+- [[概念/bav-主动脉病变|BAV 主动脉病变]]（2 源）
+- [[概念/meld|MELD]]（2 源）
+- [[概念/del-nido-心脏停搏液|del Nido 心脏停搏液]]（2 源）
+- [[概念/intermacs|INTERMACS]]（2 源）
+- [[概念/压力-容积环分析|压力-容积环分析]]（2 源）
+- [[概念/仿生thv设计|仿生THV设计]]（2 源）
+- [[概念/david-procedure|David Procedure]]（2 源）
+- [[概念/主动脉反流tavr|主动脉反流TAVR]]（2 源）
+- [[概念/卵圆孔未闭pfo|卵圆孔未闭（PFO）]]（2 源）
+- [[概念/ar-index|AR index]]（2 源）
+- [[概念/crt-p|CRT-P]]（2 源）
+- [[概念/coaptation-gap对合缺口|Coaptation gap（对合缺口）]]（2 源）
+- [[概念/slda单次夹闭且分离|SLDA（单次夹闭且分离）]]（2 源）
+- [[概念/ross-procedure|Ross procedure]]（2 源）
+- [[概念/mc3-tricuspid-ring|MC3 Tricuspid Ring]]（2 源）
+- [[概念/oversizing|oversizing]]（2 源）
+- [[概念/pasl方向约定|PASL方向约定]]（2 源）
+- [[概念/超声核心实验室ecl|超声核心实验室（ECL）]]（2 源）
+- [[概念/burned-out-ie|burned-out IE]]（2 源）
+- [[概念/laplace-定律|Laplace 定律]]（2 源）
+- [[概念/a-frame构型|A-Frame构型]]（2 源）
+- [[概念/ncc检测|NCC检测]]（2 源）
+- [[概念/患者特异性计算机仿真|患者特异性计算机仿真]]（2 源）
+- [[概念/vtc-lca|VTC-LCA]]（2 源）
+- [[概念/结构性心脏病shd|结构性心脏病（SHD）]]（2 源）
+- [[概念/ai-ecg-筛查|AI-ECG 筛查]]（2 源）
+- [[概念/lvesvi|LVESVi]]（2 源）
+- [[概念/机器人tee|机器人TEE]]（2 源）
+- [[概念/tavr后扩张post-dilation|TAVR后扩张（Post-Dilation）]]（2 源）
+- [[概念/valsalva-窦瘤破裂sova|Valsalva 窦瘤破裂（SOVA）]]（2 源）
+- [[概念/fxifxia抑制剂|FXI/FXIa抑制剂]]（2 源）
+- [[概念/buddy-wire-技术|buddy wire 技术]]（2 源）
+- [[概念/经腔静脉入路|经腔静脉入路]]（2 源）
+- [[概念/arctic|ARCTIC]]（2 源）
+- [[概念/endo-bentall|Endo-Bentall]]（2 源）
+- [[概念/ide研究器械豁免|IDE（研究器械豁免）]]（2 源）
+- [[概念/shap-变量重要性分析|SHAP 变量重要性分析]]（2 源）
+- [[概念/导线-jail|导线 jail]]（2 源）
+- [[概念/massive-tr|massive TR]]（2 源）
+- [[概念/经房间隔通路|经房间隔通路]]（2 源）
+- [[概念/主动脉瓣狭窄严重程度分级|主动脉瓣狭窄严重程度分级]]（2 源）
+- [[概念/栓塞保护装置|栓塞保护装置]]（2 源）
+- [[概念/crpnsp|CRP/NSP]]（2 源）
+- [[概念/器械成功varc-定义|器械成功（VARC 定义）]]（2 源）
+- [[概念/医源性房间隔缺损asd封堵|医源性房间隔缺损（ASD）封堵]]（2 源）
+- [[概念/肺静脉血流反向|肺静脉血流反向]]（2 源）
+- [[概念/残余二尖瓣反流|残余二尖瓣反流]]（2 源）
+- [[概念/tmviv|TMViV]]（2 源）
+- [[概念/cmr|CMR]]（2 源）
+- [[概念/stj窦管交界|STJ（窦管交界）]]（2 源）
+- [[概念/3d超声心动图3d-echo|3D超声心动图（3D Echo）]]（2 源）
+- [[概念/肝脏-ecv|肝脏 ECV]]（2 源）
+- [[概念/经导管多瓣膜干预|经导管多瓣膜干预]]（1 源）
+- [[概念/tspcu|TSPCU]]（1 源）
+- [[概念/pfo-sealing|PFO sealing]]（1 源）
+- [[概念/经房间隔再进入通路保留|经房间隔再进入通路保留]]（1 源）
+- [[概念/dock-drop|dock drop]]（1 源）
+- [[概念/guide辅助dock重新定位|guide辅助dock重新定位]]（1 源）
+- [[概念/低位腱索插入|低位腱索插入]]（1 源）
+- [[概念/剂量反应效应|剂量反应效应]]（1 源）
+- [[概念/slaao|sLAAO]]（1 源）
+- [[概念/残余左心耳|残余左心耳]]（1 源）
+- [[概念/protected-bvf|Protected BVF]]（1 源）
+- [[概念/外科取夹后二尖瓣修复|外科取夹后二尖瓣修复]]（1 源）
+- [[概念/physio-ii-环成形|Physio II 环成形]]（1 源）
+- [[概念/interclip-反流|interclip 反流]]（1 源）
+- [[概念/导线诱发三尖瓣反流|导线诱发三尖瓣反流]]（1 源）
+- [[概念/三尖瓣连合定位|三尖瓣连合定位]]（1 源）
+- [[概念/ttvr-中导线囚禁|TTVR 中导线囚禁]]（1 源）
+- [[概念/minoca|MINOCA]]（1 源）
+- [[概念/tavr-后抗栓策略|TAVR 后抗栓策略]]（1 源）
+- [[概念/瓣膜相关心源性栓塞|瓣膜相关心源性栓塞]]（1 源）
+- [[概念/腱索断裂|腱索断裂]]（1 源）
+- [[概念/ng-ratio|N/G ratio]]（1 源）
+- [[概念/升主动脉置换aar|升主动脉置换（AAR）]]（1 源）
+- [[概念/small-sov-low-stj表型|Small SOV-Low STJ表型]]（1 源）
+- [[概念/qol平台效应|QOL平台效应]]（1 源）
+- [[概念/pdl封堵规划5步法|PDL封堵规划5步法]]（1 源）
+- [[概念/vena-contracta测量|Vena Contracta测量]]（1 源）
+- [[概念/3mm双重阈值|3mm双重阈值]]（1 源）
+- [[概念/额定爆破压rbp|额定爆破压（RBP）]]（1 源）
+- [[概念/多病变mr|多病变MR]]（1 源）
+- [[概念/球囊测径|球囊测径]]（1 源）
+- [[概念/超尺寸选择原则|超尺寸选择原则]]（1 源）
+- [[概念/valve-in-valve-tmvr|Valve-in-Valve TMVR]]（1 源）
+- [[概念/串联梗阻|串联梗阻]]（1 源）
+- [[概念/专用3d软件neo-lvot评估|专用3D软件neo-LVOT评估]]（1 源）
+- [[概念/鱼精蛋白反应|鱼精蛋白反应]]（1 源）
+- [[概念/急性右室衰竭|急性右室衰竭]]（1 源）
+- [[概念/右室机械循环支持|右室机械循环支持]]（1 源）
+- [[概念/再次mteer|再次mTEER]]（1 源）
+- [[概念/无支架生物瓣viv-tavr|无支架生物瓣ViV TAVR]]（1 源）
+- [[概念/freestyle外科植入技术|Freestyle外科植入技术]]（1 源）
+- [[概念/可回收瓣膜平台|可回收瓣膜平台]]（1 源）
+- [[概念/左室快速起搏|左室快速起搏]]（1 源）
+- [[概念/自动ramp-up起搏|自动ramp-up起搏]]（1 源）
+- [[概念/tavr专用起搏系统|TAVR专用起搏系统]]（1 源）
+- [[概念/主动脉瓣复合体血栓|主动脉瓣复合体血栓]]（1 源）
+- [[概念/个体化oac策略|个体化OAC策略]]（1 源）
+- [[概念/心脏ct诊断血栓|心脏CT诊断血栓]]（1 源）
+- [[概念/valve-in-valve-in-valve|valve-in-valve-in-valve]]（1 源）
+- [[概念/valve-pop-out|valve pop-out]]（1 源）
+- [[概念/aroa|AROA]]（1 源）
+- [[概念/cleft|CLEFT]]（1 源）
+- [[概念/右心逆重构|右心逆重构]]（1 源）
+- [[概念/束硬化伪影|束硬化伪影]]（1 源）
+- [[概念/三维超声引导|三维超声引导]]（1 源）
+- [[概念/lm-view|LM View]]（1 源）
+- [[概念/coronary-risk-plane|coronary-risk plane]]（1 源）
+- [[概念/tav-in-tav风险分类|TAV-in-TAV风险分类]]（1 源）
+- [[概念/tvme|TVME]]（1 源）
+- [[概念/balloon-assisted-tracking|balloon-assisted tracking]]（1 源）
+- [[概念/球囊破裂|球囊破裂]]（1 源）
+- [[概念/封堵器取回与重定位|封堵器取回与重定位]]（1 源）
+- [[概念/肺动脉高压|肺动脉高压]]（1 源）
+- [[概念/partial-anterior-dehiscence|partial anterior dehiscence]]（1 源）
+- [[概念/扩展tr分级5级法|扩展TR分级5级法]]（1 源）
+- [[概念/coanda效应|Coanda效应]]（1 源）
+- [[概念/外科瓣破裂|外科瓣破裂]]（1 源）
+- [[概念/fabric-edge-leak|fabric edge leak]]（1 源）
+- [[概念/标准化-ct-漏报告|标准化 CT 漏报告]]（1 源）
+- [[概念/大口径血管闭合|大口径血管闭合]]（1 源）
+- [[概念/time-to-hemostasis|Time to Hemostasis]]（1 源）
+- [[概念/零造影-tavr|零造影 TAVR]]（1 源）
+- [[概念/后叶修复|后叶修复]]（1 源）
+- [[概念/m-teer-绿色解剖|M-TEER 绿色解剖]]（1 源）
+- [[概念/ace-adaptive-coaptation-element|ACE adaptive coaptation element]]（1 源）
+- [[概念/左室扩大筛选标准|左室扩大筛选标准]]（1 源）
+- [[概念/经皮机械抽吸|经皮机械抽吸]]（1 源）
+- [[概念/电灼辅助切蒂|电灼辅助切蒂]]（1 源）
+- [[概念/一站式治疗|一站式治疗]]（1 源）
+- [[概念/pascal-分类|PASCAL 分类]]（1 源）
+- [[概念/rope-评分|RoPE 评分]]（1 源）
+- [[概念/pfo-封堵|PFO 封堵]]（1 源）
+- [[概念/ilr|ILR]]（1 源）
+- [[概念/隐源性卒中|隐源性卒中]]（1 源）
+- [[概念/收缩末弹性ees|收缩末弹性（Ees）]]（1 源）
+- [[概念/有效动脉弹性ea|有效动脉弹性（Ea）]]（1 源）
+- [[概念/robins-i|ROBINS-I]]（1 源）
+- [[概念/cryomaze|Cryomaze]]（1 源）
+- [[概念/缩小成形环undersized-annuloplasty|缩小成形环（undersized annuloplasty）]]（1 源）
+- [[概念/卵圆窝穿刺高度|卵圆窝穿刺高度]]（1 源）
+- [[概念/经导管人工腱索修复|经导管人工腱索修复]]（1 源）
+- [[概念/leaflet-to-annulus-indexlai|Leaflet to Annulus Index（LAI）]]（1 源）
+- [[概念/tissue-to-gap-ratio|Tissue-to-Gap Ratio]]（1 源）
+- [[概念/对合储备coaptation-reserve|对合储备（Coaptation Reserve）]]（1 源）
+- [[概念/p2-脱垂连枷|P2 脱垂/连枷]]（1 源）
+- [[概念/ivc-中断伴奇静脉延续|IVC 中断伴奇静脉延续]]（1 源）
+- [[概念/颈内静脉替代入路ij-access|颈内静脉替代入路（IJ access）]]（1 源）
+- [[概念/操作人体工学挑战|操作人体工学挑战]]（1 源）
+- [[概念/冠状动脉瘘|冠状动脉瘘]]（1 源）
+- [[概念/冠脉窃血|冠脉窃血]]（1 源）
+- [[概念/经皮冠脉瘘封堵术|经皮冠脉瘘封堵术]]（1 源）
+- [[概念/rv功能储备|RV功能储备]]（1 源）
+- [[概念/pmax|Pmax]]（1 源）
+- [[概念/+dpdt-max|+dp/dt max]]（1 源）
+- [[概念/热稀释心输出量|热稀释心输出量]]（1 源）
+- [[概念/rv逆向重构|RV逆向重构]]（1 源）
+- [[概念/lv质量逆向重构|LV质量逆向重构]]（1 源）
+- [[概念/ap径|AP径]]（1 源）
+- [[概念/双孔二尖瓣|双孔二尖瓣]]（1 源）
+- [[概念/prehab|PREHAB]]（1 源）
+- [[概念/cied-lead管理|CIED lead管理]]（1 源）
+- [[概念/抗栓治疗平衡|抗栓治疗平衡]]（1 源）
+- [[概念/同轴释放|同轴释放]]（1 源）
+- [[概念/瓣叶tethering|瓣叶tethering]]（1 源）
+- [[概念/ct解剖筛查与尺寸规划|CT解剖筛查与尺寸规划]]（1 源）
+- [[概念/器械内皮化|器械内皮化]]（1 源）
+- [[概念/器械轴向不良off-axis|器械轴向不良（off-axis）]]（1 源）
+- [[概念/mustard-atrial-redirection手术|Mustard atrial redirection手术]]（1 源）
+- [[概念/d-大动脉转位d-tga|D-大动脉转位（D-TGA）]]（1 源）
+- [[概念/体静脉baffle穿刺|体静脉baffle穿刺]]（1 源）
+- [[概念/前向后夹合策略|前向后夹合策略]]（1 源）
+- [[概念/继发孔房间隔缺损asd|继发孔房间隔缺损（ASD）]]（1 源）
+- [[概念/高流量鼻导管氧疗hfnc|高流量鼻导管氧疗（HFNC）]]（1 源）
+- [[概念/左房直接血氧采样|左房直接血氧采样]]（1 源）
+- [[概念/afterload-mismatch|Afterload mismatch]]（1 源）
+- [[概念/中度继发性mrmoderate-smr|中度继发性MR（moderate sMR）]]（1 源）
+- [[概念/运动负荷下mr动态加重|运动负荷下MR动态加重]]（1 源）
+- [[概念/缺血性二尖瓣反流外科修复|缺血性二尖瓣反流外科修复]]（1 源）
+- [[概念/ero运动变化预测死亡|ERO运动变化预测死亡]]（1 源）
+- [[概念/bayesian-multiple-imputation|Bayesian Multiple Imputation]]（1 源）
+- [[概念/ttvr介入时机甜点区|TTVR介入时机甜点区]]（1 源）
+- [[概念/灰区决策|灰区决策]]（1 源）
+- [[概念/xplane双平面tee|xPlane双平面TEE]]（1 源）
+- [[概念/瓣周主动脉反流|瓣周主动脉反流]]（1 源）
+- [[概念/3d-tte右室容积评估|3D-TTE右室容积评估]]（1 源）
+- [[概念/ct右室分割|CT右室分割]]（1 源）
+- [[概念/右室容积低估|右室容积低估]]（1 源）
+- [[概念/rvef|RVEF]]（1 源）
+- [[概念/右室重构|右室重构]]（1 源）
+- [[概念/tavr-savr|TAVR-SAVR]]（1 源）
+- [[概念/savr-savr|SAVR-SAVR]]（1 源）
+- [[概念/failure-to-rescue|Failure to Rescue]]（1 源）
+- [[概念/生命周期瓣膜管理|生命周期瓣膜管理]]（1 源）
+- [[概念/心肾螺旋恶化|心肾螺旋恶化]]（1 源）
+- [[概念/subvalvular-spacersvs|Subvalvular Spacer（SVS）]]（1 源）
+- [[概念/首次人体研究fim|首次人体研究（FIM）]]（1 源）
+- [[概念/逐级血管扩张|逐级血管扩张]]（1 源）
+- [[概念/数字减影血管造影dsa|数字减影血管造影（DSA）]]（1 源）
+- [[概念/anterior-septala-s夹合策略|Anterior-Septal（A-S）夹合策略]]（1 源）
+- [[概念/经皮室间隔缺损封堵percutaneous-vsd-closure|经皮室间隔缺损封堵（Percutaneous VSD Closure）]]（1 源）
+- [[概念/心梗后室间隔破裂post-mi-vsr|心梗后室间隔破裂（Post-MI VSR）]]（1 源）
+- [[概念/神经保护策略neuroprotection|神经保护策略（Neuroprotection）]]（1 源）
+- [[概念/装置栓塞迁移device-embolization|装置栓塞/迁移（Device Embolization）]]（1 源）
+- [[概念/hybrid-or复合手术室|Hybrid OR（复合手术室）]]（1 源）
+- [[概念/逆行经动脉-snare-技术|逆行经动脉 Snare 技术]]（1 源）
+- [[概念/waasp全身栓塞保护|WAASP（全身栓塞保护）]]（1 源）
+- [[概念/左室搏出量lvsv|左室搏出量（LVSV）]]（1 源）
+- [[概念/心脏-cta心脏计算机断层扫描血管造影|心脏 CTA（心脏计算机断层扫描血管造影）]]（1 源）
+- [[概念/亚临床血栓subclinical-thrombosis|亚临床血栓（Subclinical Thrombosis）]]（1 源）
+- [[概念/胶原-crimp-wavelength|胶原 crimp wavelength]]（1 源）
+- [[概念/二次谐波发生显微shg|二次谐波发生显微（SHG）]]（1 源）
+- [[概念/弹性模量|弹性模量]]（1 源）
+- [[概念/胶原纤维募集|胶原纤维募集]]（1 源）
+- [[概念/心室性-smr-与心房性-smr|心室性 SMR 与心房性 SMR]]（1 源）
+- [[概念/m-teer-解剖适配性分层|M-TEER 解剖适配性分层]]（1 源）
+- [[概念/coapt-like-表型|COAPT-like 表型]]（1 源）
+- [[概念/atriogenic-hamstringing|atriogenic hamstringing]]（1 源）
+- [[概念/经导管二尖瓣腱索修复|经导管二尖瓣腱索修复]]（1 源）
+- [[概念/乳头肌锚定|乳头肌锚定]]（1 源）
+- [[概念/m-teer-局限性|M-TEER 局限性]]（1 源）
+- [[概念/rv-icd-lead-重新定位技术|RV ICD lead 重新定位技术]]（1 源）
+- [[概念/动脉导管未闭pda|动脉导管未闭（PDA）]]（1 源）
+- [[概念/eisenmenger-综合征|Eisenmenger 综合征]]（1 源）
+- [[概念/肺血管阻力pvr与-pvrsvr-比值|肺血管阻力（PVR）与 PVR/SVR 比值]]（1 源）
+- [[概念/超适应证器械使用|超适应证器械使用]]（1 源）
+- [[概念/序贯优化路径|序贯优化路径]]（1 源）
+- [[概念/lbbb|LBBB]]（1 源）
+- [[概念/瓣叶穿孔|瓣叶穿孔]]（1 源）
+- [[概念/人工瓣衰败|人工瓣衰败]]（1 源）
+- [[概念/pre-capillary-ph|pre-capillary PH]]（1 源）
+- [[概念/viv|ViV]]（1 源）
+- [[概念/ai-p12t|AI P1/2t]]（1 源）
+- [[概念/心室性继发性mr|心室性继发性MR]]（1 源）
+- [[概念/massive-drt|Massive DRT]]（1 源）
+- [[概念/真空血栓切除术|真空血栓切除术]]（1 源）
+- [[概念/rvlv-t2血池比值|RV/LV T2血池比值]]（1 源）
+- [[概念/isvo2|iSvO2]]（1 源）
+- [[概念/t2-mapping|T2 mapping]]（1 源）
+- [[概念/交叉治疗crossover|交叉治疗（crossover）]]（1 源）
+- [[概念/cied导线|CIED导线]]（1 源）
+- [[概念/leaflet-splay-area|leaflet splay area]]（1 源）
+- [[概念/组织内生tissue-ingrowth|组织内生（tissue ingrowth）]]（1 源）
+- [[概念/单瓣叶瓣缘增强|单瓣叶瓣缘增强]]（1 源）
+- [[概念/收缩期瓣叶对合|收缩期瓣叶对合]]（1 源）
+- [[概念/系统房室瓣|系统房室瓣]]（1 源）
+- [[概念/经颈静脉入路teer|经颈静脉入路TEER]]（1 源）
+- [[概念/孤立性毛细血管后肺动脉高压|孤立性毛细血管后肺动脉高压]]（1 源）
+- [[概念/atrial-switch心房调转|Atrial switch（心房调转）]]（1 源）
+- [[概念/ct+透视融合引导|CT+透视融合引导]]（1 源）
+- [[概念/冠状动脉瘘封堵|冠状动脉瘘封堵]]（1 源）
+- [[概念/成人先天性心脏病achd|成人先天性心脏病（ACHD）]]（1 源）
+- [[概念/vsd封堵器|VSD封堵器]]（1 源）
+- [[概念/专科中心照护referral-center-care|专科中心照护（referral center care）]]（1 源）
+- [[概念/dual-stent-configuration|dual-stent configuration]]（1 源）
+- [[概念/主动脉根部假性动脉瘤|主动脉根部假性动脉瘤]]（1 源）
+- [[概念/intra-valvular-ai|intra-valvular AI]]（1 源）
+- [[概念/embedded-geometry|embedded geometry]]（1 源）
+- [[概念/ct规划|CT规划]]（1 源）
+- [[概念/bicuspid-aortic-valve-tavr|bicuspid aortic valve TAVR]]（1 源）
+- [[概念/contact-pressure-index|contact pressure index]]（1 源）
+- [[概念/finite-element-analysis|finite element analysis]]（1 源）
+- [[概念/automated-tavr-planning|automated TAVR planning]]（1 源）
+- [[概念/stj钙化|STJ钙化]]（1 源）
+- [[概念/pvl机制处理|PVL机制处理]]（1 源）
+- [[概念/paradevice-tsp|paradevice TSP]]（1 源）
+- [[概念/transdevice-tsp|transdevice TSP]]（1 源）
+- [[概念/rf辅助房间隔穿刺|RF辅助房间隔穿刺]]（1 源）
+- [[概念/rvedv|RVEDV]]（1 源）
+- [[概念/tr-降低|TR 降低]]（1 源）
+- [[概念/腔静脉瓣|腔静脉瓣]]（1 源）
+- [[概念/剂量效应关系|剂量效应关系]]（1 源）
+- [[概念/leaflet-agnostic-approach|leaflet-agnostic approach]]（1 源）
+- [[概念/ct-sizing|CT sizing]]（1 源）
+- [[概念/tr-eroa|TR EROA]]（1 源）
+- [[概念/lv-假性动脉瘤|LV 假性动脉瘤]]（1 源）
+- [[概念/coil-embolization|coil embolization]]（1 源）
+- [[概念/ai-辅助术前规划|AI 辅助术前规划]]（1 源）
+- [[概念/crossover-设计|crossover 设计]]（1 源）
+- [[概念/幸存者偏倚|幸存者偏倚]]（1 源）
+- [[概念/非预设贝叶斯分析|非预设贝叶斯分析]]（1 源）
+- [[概念/节律控制优先策略|节律控制优先策略]]（1 源）
+- [[概念/af与mr双向协同|AF与MR双向协同]]（1 源）
+- [[概念/hfref中af消融获益|HFrEF中AF消融获益]]（1 源）
+- [[概念/二叶式主动脉瓣疾病bavd|二叶式主动脉瓣疾病（BAVD）]]（1 源）
+- [[概念/bicuspid-calcium-risk-score|Bicuspid Calcium Risk Score]]（1 源）
+- [[概念/相对均势原则relative-equipoise|相对均势原则（relative equipoise）]]（1 源）
+- [[概念/层级-win-ratio|层级 win ratio]]（1 源）
+- [[概念/2型心肾综合征crs-2|2型心肾综合征（CRS-2）]]（1 源）
+- [[概念/肝肾反向重塑|肝肾反向重塑]]（1 源）
+- [[概念/compassionate-use-注册研究|compassionate-use 注册研究]]（1 源）
+- [[概念/cta引导的laac术前规划|CTA引导的LAAC术前规划]]（1 源）
+- [[概念/laa收缩性动态风险|LAA收缩性动态风险]]（1 源）
+- [[概念/laac装置过度超尺寸|LAAC装置过度超尺寸]]（1 源）
+- [[概念/toolbox-approach|toolbox approach]]（1 源）
+- [[概念/腔静脉反流降低|腔静脉反流降低]]（1 源）
+- [[概念/tr真实世界适配性不足|TR真实世界适配性不足]]（1 源）
+- [[概念/flexnav|FlexNav]]（1 源）
+- [[概念/supra-annular设计|supra-annular设计]]（1 源）
+- [[概念/三尖瓣环解剖评估|三尖瓣环解剖评估]]（1 源）
+- [[概念/af-iad与af-ah亚型|AF-IAD与AF-AH亚型]]（1 源）
+- [[概念/球囊预扩张评估解剖响应|球囊预扩张评估解剖响应]]（1 源）
+- [[概念/术中即时改变方案|术中即时改变方案]]（1 源）
+- [[概念/rv功能障碍|RV功能障碍]]（1 源）
+- [[概念/真实世界注册研究|真实世界注册研究]]（1 源）
+- [[概念/经导管器械移除|经导管器械移除]]（1 源）
+- [[概念/三尖瓣反流tr终身管理|三尖瓣反流（TR）终身管理]]（1 源）
+- [[概念/限制性成形环修复|限制性成形环修复]]（1 源）
+- [[概念/同期三尖瓣成形|同期三尖瓣成形]]（1 源）
+- [[概念/主动脉周围血肿|主动脉周围血肿]]（1 源）
+- [[概念/球囊主动脉瓣扩张bav预扩|球囊主动脉瓣扩张（BAV）预扩]]（1 源）
+- [[概念/dpdt降低策略|dP/dt降低策略]]（1 源）
+- [[概念/试验-注册登记等效性|试验-注册登记等效性]]（1 源）
+- [[概念/瓣内自膨瓣intra-annular-sev|瓣内自膨瓣（intra-annular SEV）]]（1 源）
+- [[概念/瓣上自膨瓣supra-annular-sev|瓣上自膨瓣（supra-annular SEV）]]（1 源）
+- [[概念/ieoa有效开口面积指数|iEOA（有效开口面积指数）]]（1 源）
+- [[概念/predicate-device|predicate device]]（1 源）
+- [[概念/interventricular-septal-anchoring|interventricular septal anchoring]]（1 源）
+- [[概念/jacc-expert-consensus-定义|JACC Expert Consensus 定义]]（1 源）
+- [[概念/hamstrung-posterior-mitral-leaflet|hamstrung posterior mitral leaflet]]（1 源）
+- [[概念/coaptation-reserve|coaptation reserve]]（1 源）
+- [[概念/lavi|LAVi]]（1 源）
+- [[概念/definity-增强超声|Definity 增强超声]]（1 源）
+- [[概念/laa-thrombus|LAA thrombus]]（1 源）
+- [[概念/存活者偏倚|存活者偏倚]]（1 源）
+- [[概念/年龄分层分析|年龄分层分析]]（1 源）
+- [[概念/bavcon-分类|BAVCon 分类]]（1 源）
+- [[概念/hu-850-钙化体积|HU-850 钙化体积]]（1 源）
+- [[概念/indexed-eoa|Indexed EOA]]（1 源）
+- [[概念/原位-ttvrorthotopic-ttvr|原位 TTVR（orthotopic TTVR）]]（1 源）
+- [[概念/rv-反向重构|RV 反向重构]]（1 源）
+- [[概念/急性-rv-后负荷失配|急性 RV 后负荷失配]]（1 源）
+- [[概念/电外科隔瓣裂开electrosurgical-septal-leaflet-liberation|电外科隔瓣裂开（Electrosurgical Septal Leaflet Liberation）]]（1 源）
+- [[概念/teer-失败后-ttvr-策略|TEER 失败后 TTVR 策略]]（1 源）
+- [[概念/5%-葡萄糖冲洗|5% 葡萄糖冲洗]]（1 源）
+- [[概念/agilis-nxt|Agilis NxT]]（1 源）
+- [[概念/corloe-推荐体系|COR/LOE 推荐体系]]（1 源）
+- [[概念/经心包-laa-结扎|经心包 LAA 结扎]]（1 源）
+- [[概念/自适应对合adaptive-coaptation|自适应对合（Adaptive Coaptation）]]（1 源）
+- [[概念/三尖瓣反流tr分级|三尖瓣反流（TR）分级]]（1 源）
+- [[概念/rv-功能不全对-ttvr-结局的影响|RV 功能不全对 TTVR 结局的影响]]（1 源）
+- [[概念/thv-血栓经导管心脏瓣膜血栓|THV 血栓（经导管心脏瓣膜血栓）]]（1 源）
+- [[概念/正位-ttvr经导管三尖瓣置换|正位 TTVR（经导管三尖瓣置换）]]（1 源）
+- [[概念/抗凝强化策略|抗凝强化策略]]（1 源）
+- [[概念/后间隔连合ps-commissure导线定位|后间隔连合（PS commissure）导线定位]]（1 源）
+- [[概念/lead-ra-wall-contact|Lead-RA Wall Contact]]（1 源）
+- [[概念/slack-index导线冗余指数|Slack Index（导线冗余指数）]]（1 源）
+- [[概念/rv-导线尖端位置分类|RV 导线尖端位置分类]]（1 源）
+- [[概念/术前血流动力学模拟|术前血流动力学模拟]]（1 源）
+- [[概念/瓣叶-von-mises-应力|瓣叶 von Mises 应力]]（1 源）
+- [[概念/窦内血流淤滞|窦内血流淤滞]]（1 源）
+- [[概念/软件医疗器械samd|软件医疗器械（SaMD）]]（1 源）
+- [[概念/程序量与结局关系|程序量与结局关系]]（1 源）
+- [[概念/laac-操作者资质标准|LAAC 操作者资质标准]]（1 源）
+- [[概念/综合团队模式|综合团队模式]]（1 源）
+- [[概念/laac-并发症基准|LAAC 并发症基准]]（1 源）
+- [[概念/ai-scribe|AI Scribe]]（1 源）
+- [[概念/患者特异性-3d-模拟|患者特异性 3D 模拟]]（1 源）
+- [[概念/收入周期-ai|收入周期 AI]]（1 源）
+- [[概念/钙化诱导牵张分析|钙化诱导牵张分析]]（1 源）
+- [[概念/右颈内静脉入路right-ij|右颈内静脉入路（Right IJ）]]（1 源）
+- [[概念/递送系统同轴性|递送系统同轴性]]（1 源）
+- [[概念/pearls|PEARLS]]（1 源）
+- [[概念/有限元模型fem|有限元模型（FEM）]]（1 源）
+- [[概念/机械引导钙化模型|机械引导钙化模型]]（1 源）
+- [[概念/连合对齐方向|连合对齐方向]]（1 源）
+- [[概念/非对称瓣叶钙化|非对称瓣叶钙化]]（1 源）
+- [[概念/heart-valve-pulse-duplicator-system|Heart Valve Pulse Duplicator System]]（1 源）
+- [[概念/后间隔交界psc导线定位|后间隔交界（PSC）导线定位]]（1 源）
+- [[概念/收缩期-ct-导线位置评估|收缩期 CT 导线位置评估]]（1 源）
+- [[概念/中瓣叶导线位置|中瓣叶导线位置]]（1 源）
+- [[概念/发病率比irr|发病率比（IRR）]]（1 源）
+- [[概念/tr-加重定义|TR 加重定义]]（1 源）
+- [[概念/三尖瓣反流-spacer-疗法|三尖瓣反流 spacer 疗法]]（1 源）
+- [[概念/自居中效应|自居中效应]]（1 源）
+- [[概念/all-comer-device|All-comer device]]（1 源）
+- [[概念/barc-3a-出血|BARC 3a 出血]]（1 源）
+- [[概念/真实世界可推广性|真实世界可推广性]]（1 源）
+- [[概念/stuart-maxwell-检验|Stuart-Maxwell 检验]]（1 源）
+- [[概念/rv-导线管理|RV 导线管理]]（1 源）
+- [[概念/lead-engagement|Lead engagement]]（1 源）
+- [[概念/人工瓣-rocking|人工瓣 rocking]]（1 源）
+- [[概念/贡献利润|贡献利润]]（1 源）
+- [[概念/prior-authorization|Prior Authorization]]（1 源）
+- [[概念/拒付管理|拒付管理]]（1 源）
+- [[概念/asc|ASC]]（1 源）
+- [[概念/cpt-33340|CPT 33340]]（1 源）
+- [[概念/isth-出血标准|ISTH 出血标准]]（1 源）
+- [[概念/wrvu|wRVU]]（1 源）
+- [[概念/电子提供者通知epn|电子提供者通知（EPN）]]（1 源）
+- [[概念/超声报告内-nudge|超声报告内 nudge]]（1 源）
+- [[概念/分层-win-ratio|分层 win ratio]]（1 源）
+- [[概念/2025-ase-标准化指南|2025 ASE 标准化指南]]（1 源）
+- [[概念/opt-out-自动转诊|opt-out 自动转诊]]（1 源）
+- [[概念/残余-tr≤2-级|残余 TR≤2 级]]（1 源）
+- [[概念/冠脉阻塞风险分层|冠脉阻塞风险分层]]（1 源）
+- [[概念/radial-flow-gap|radial flow gap]]（1 源）
+- [[概念/叶瓣改良|叶瓣改良]]（1 源）
+- [[概念/ct-术前规划三尖瓣|CT 术前规划（三尖瓣）]]（1 源）
+- [[概念/有意乳头肌捕获技术|有意乳头肌捕获技术]]（1 源）
+- [[概念/右室衰竭术后|右室衰竭（术后）]]（1 源）
+- [[概念/器械相关溶血|器械相关溶血]]（1 源）
+- [[概念/机械瓣功能确认|机械瓣功能确认]]（1 源）
+- [[概念/pvl-封堵器械工具箱|PVL 封堵器械工具箱]]（1 源）
+- [[概念/ai-pocus-筛查|AI-POCUS 筛查]]（1 源）
+- [[概念/任务转移|任务转移]]（1 源）
+- [[概念/vhd-筛查可及性|VHD 筛查可及性]]（1 源）
+- [[概念/集群随机对照试验|集群随机对照试验]]（1 源）
+- [[概念/经导管三尖瓣修复|经导管三尖瓣修复]]（1 源）
+- [[概念/class-12a-管理改变|Class 1/2A 管理改变]]（1 源）
+- [[概念/远程筛查|远程筛查]]（1 源）
+- [[概念/target-trial-emulation|Target-Trial Emulation]]（1 源）
+- [[概念/pvl预测|PVL预测]]（1 源）
+- [[概念/全自动ct分析|全自动CT分析]]（1 源）
+- [[概念/瓣环下定位|瓣环下定位]]（1 源）
+- [[概念/体内ct-sizing|体内CT sizing]]（1 源）
+- [[概念/去除视差|去除视差]]（1 源）
+- [[概念/瓣膜性心脏病患病率|瓣膜性心脏病患病率]]（1 源）
+- [[概念/去中心化研究设计|去中心化研究设计]]（1 源）
+- [[概念/ase标准|ASE标准]]（1 源）
+- [[概念/全自动tavr-ct规划|全自动TAVR CT规划]]（1 源）
+- [[概念/瓣膜尺寸选择|瓣膜尺寸选择]]（1 源）
+- [[概念/冠脉高度测量|冠脉高度测量]]（1 源）
+- [[概念/右室重塑right-ventricular-reshaping|右室重塑（right ventricular reshaping）]]（1 源）
+- [[概念/功能性-tr-分期functional-tr-staging|功能性 TR 分期（functional TR staging）]]（1 源）
+- [[概念/para-xyphoid-入路|para-xyphoid 入路]]（1 源）
+- [[概念/functional-neoannulus|functional neoannulus]]（1 源）
+- [[概念/elasta-瓣叶改造|ELASTA 瓣叶改造]]（1 源）
+- [[概念/tv-arc-技术成功定义|TV-ARC 技术成功定义]]（1 源）
+- [[概念/repair-to-replacement-分期策略|repair-to-replacement 分期策略]]（1 源）
+- [[概念/3d-tee-通道评估|3D TEE 通道评估]]（1 源）
+- [[概念/avp-iiiamplatzer-vascular-plug-iii|AVP III（Amplatzer Vascular Plug III）]]（1 源）
+- [[概念/avp-iii-multiplug-策略|AVP III multiplug 策略]]（1 源）
+- [[概念/pld专用-pvl-封堵器|PLD（专用 PVL 封堵器）]]（1 源）
+- [[概念/2-年-landmark-分析|2 年 landmark 分析]]（1 源）
+- [[概念/takotsubo-综合征|Takotsubo 综合征]]（1 源）
+- [[概念/hs-troponin|hs-troponin]]（1 源）
+- [[概念/跨瓣反流|跨瓣反流]]（1 源）
+- [[概念/pressure-half-time|pressure half-time]]（1 源）
+- [[概念/tavr-protocol-cta|TAVR-protocol CTA]]（1 源）
+- [[概念/介入超声医师辐射暴露|介入超声医师辐射暴露]]（1 源）
+- [[概念/monte-carlo-模拟|Monte Carlo 模拟]]（1 源）
+- [[概念/全身加权剂量|全身加权剂量]]（1 源）
+- [[概念/air-kerma|Air Kerma]]（1 源）
+- [[概念/铅衣等效厚度|铅衣等效厚度]]（1 源）
+- [[概念/kaplan-meier-估计|Kaplan-Meier 估计]]（1 源）
+- [[概念/mini-tee|mini-TEE]]（1 源）
+- [[概念/perclose-prostyle|Perclose ProStyle]]（1 源）
+- [[概念/应激性心肌病|应激性心肌病]]（1 源）
+- [[概念/心尖球囊样室壁运动异常|心尖球囊样室壁运动异常]]（1 源）
+- [[概念/溶血性心衰|溶血性心衰]]（1 源）
+- [[概念/tavr锚定机制|TAVR锚定机制]]（1 源）
+- [[概念/跨二尖瓣压差预测|跨二尖瓣压差预测]]（1 源）
+- [[概念/4d心脏ct重建|4D心脏CT重建]]（1 源）
+- [[概念/teer取舍mr-vs-压差|TEER取舍（MR vs 压差）]]（1 源）
+- [[概念/去中心化临床试验dct|去中心化临床试验（DCT）]]（1 源）
+- [[概念/crossing-the-chasm|Crossing the Chasm]]（1 源）
+- [[概念/临床证据生态系统|临床证据生态系统]]（1 源）
+- [[概念/经导管机械抽吸pma|经导管机械抽吸（PMA）]]（1 源）
+- [[概念/栓塞保护策略|栓塞保护策略]]（1 源）
+- [[概念/ias-lupv轨道技术|IAS-LUPV轨道技术]]（1 源）
+- [[概念/球囊辅助跟踪|球囊辅助跟踪]]（1 源）
+- [[概念/二尖瓣生物瓣血栓|二尖瓣生物瓣血栓]]（1 源）
+- [[概念/完全远程随机对照试验|完全远程随机对照试验]]（1 源）
+- [[概念/数字化结局终点|数字化结局终点]]（1 源）
+- [[概念/aalen-johansen竞争风险估计|Aalen-Johansen竞争风险估计]]（1 源）
+- [[概念/commissural-leaflet-tear|Commissural leaflet tear]]（1 源）
+- [[概念/混合-plug-coil-封堵技术|混合 plug-coil 封堵技术]]（1 源）
+- [[概念/lvad-支持下经导管介入|LVAD 支持下经导管介入]]（1 源）
+- [[概念/桥接策略|桥接策略]]（1 源）
+- [[概念/早期瓣叶失败|早期瓣叶失败]]（1 源）
+- [[概念/flail-gap|flail gap]]（1 源）
+- [[概念/tgf-β-信号通路|TGF-β 信号通路]]（1 源）
+- [[概念/valve-sparing-aortic-root-reconstruction|valve-sparing aortic root reconstruction]]（1 源）
+- [[概念/discordant-gradingdg|discordant grading（DG）]]（1 源）
+- [[概念/低流量状态|低流量状态]]（1 源）
+- [[概念/经导管二尖瓣瓣叶增强|经导管二尖瓣瓣叶增强]]（1 源）
+- [[概念/电纺聚合物瓣体|电纺聚合物瓣体]]（1 源）
+- [[概念/neochord-tethers|neochord tethers]]（1 源）
+- [[概念/breakthrough-device-designation|Breakthrough Device Designation]]（1 源）
+- [[概念/补救-m-teerredo-teer|补救 M-TEER（redo TEER）]]（1 源）
+- [[概念/左房压-v-波|左房压 V 波]]（1 源）
+- [[概念/slda-风险因素|SLDA 风险因素]]（1 源）
+- [[概念/bridge-to-decision|bridge-to-decision]]（1 源）
+- [[概念/ct-spin|CT Spin]]（1 源）
+- [[概念/锁定失败|锁定失败]]（1 源）
+- [[概念/p2p3-subcommissure|P2/P3 subcommissure]]（1 源）
+- [[概念/竞争死亡|竞争死亡]]（1 源）
+- [[概念/机械savr|机械SAVR]]（1 源）
+- [[概念/主动脉瓣再干预|主动脉瓣再干预]]（1 源）
+- [[概念/后扩张策略|后扩张策略]]（1 源）
+- [[概念/自然语言处理nlp|自然语言处理（NLP）]]（1 源）
+- [[概念/机器人辅助经导管介入|机器人辅助经导管介入]]（1 源）
+- [[概念/ai辅助介入规划|AI辅助介入规划]]（1 源）
+- [[概念/镍钛诺nitinol|镍钛诺（Nitinol）]]（1 源）
+- [[概念/缘对缘修复teer可重复性问题|缘对缘修复（TEER）可重复性问题]]（1 源）
+- [[概念/半刚性d形成形环|半刚性D形成形环]]（1 源）
+- [[概念/低衰减增厚hat|低衰减增厚（HAT）]]（1 源）
+- [[概念/ecg门控心脏ct|ECG门控心脏CT]]（1 源）
+- [[概念/scaihrs共识|SCAI/HRS共识]]（1 源）
+- [[概念/fabric-leak|Fabric leak]]（1 源）
+- [[概念/动脉-动脉-rail-技术|动脉-动脉 rail 技术]]（1 源）
+- [[概念/经导管主动脉瓣置换-tavr|经导管主动脉瓣置换 (TAVR)]]（1 源）
+- [[概念/slda-补救升级路径|SLDA 补救升级路径]]（1 源）
+- [[概念/经房间隔辅助支撑|经房间隔辅助支撑]]（1 源）
+- [[概念/参与-患病率比-ppr|参与-患病率比 (PPR)]]（1 源）
+- [[概念/fu-ppr|FU-PPR]]（1 源）
+- [[概念/代表性衰减|代表性衰减]]（1 源）
+- [[概念/低入组人群|低入组人群]]（1 源）
+- [[概念/tavi-后感染性心内膜炎-ie|TAVI 后感染性心内膜炎 (IE)]]（1 源）
+- [[概念/早期-ie-与晚期-ie|早期 IE 与晚期 IE]]（1 源）
+- [[概念/p2y12-抑制剂|P2Y12 抑制剂]]（1 源）
+- [[概念/经导管主动脉瓣置换-tavitavr|经导管主动脉瓣置换 (TAVI/TAVR)]]（1 源）
+- [[概念/房侧固定-tmvr|房侧固定 TMVR]]（1 源）
+- [[概念/真实世界数据链接|真实世界数据链接]]（1 源）
+- [[概念/kaplan-meier-分析|Kaplan-Meier 分析]]（1 源）
+- [[概念/母-子-孙导管构型|母-子-孙导管构型]]（1 源）
+- [[概念/经桡动脉-pvl-封堵|经桡动脉 PVL 封堵]]（1 源）
+- [[概念/thv-连合对齐|THV 连合对齐]]（1 源）
+- [[概念/房间隔夹层|房间隔夹层]]（1 源）
+- [[概念/cta-延迟相|CTA 延迟相]]（1 源）
+- [[概念/右心衰竭|右心衰竭]]（1 源）
+- [[概念/功能性二尖瓣狭窄|功能性二尖瓣狭窄]]（1 源）
+- [[概念/暴雨样三尖瓣反流|暴雨样三尖瓣反流]]（1 源）
+- [[概念/lv-反向重构|LV 反向重构]]（1 源）
+- [[概念/neolvot-面积|neoLVOT 面积]]（1 源）
+- [[概念/evolut-框架后扩技术|Evolut 框架后扩技术]]（1 源）
+- [[概念/gripper-lines-断裂|gripper lines 断裂]]（1 源）
+- [[概念/腱索缠绕|腱索缠绕]]（1 源）
+- [[概念/经皮救援|经皮救援]]（1 源）
+- [[概念/亚临床血栓|亚临床血栓]]（1 源）
+- [[概念/plug-landing-zone|plug landing zone]]（1 源）
+- [[概念/chordal-flail|chordal flail]]（1 源）
+- [[概念/急性原发性-mr|急性原发性 MR]]（1 源）
+- [[概念/再次开胸手术|再次开胸手术]]（1 源）
+- [[概念/ra-pci|RA-PCI]]（1 源）
+- [[概念/tavi-first-策略|TAVI-first 策略]]（1 源）
+- [[概念/ra-first-策略|RA-first 策略]]（1 源）
+- [[概念/lvedv|LVEDV]]（1 源）
+- [[概念/sub-annular-ring|sub-annular ring]]（1 源）
+- [[概念/return-of-results|Return of Results]]（1 源）
+- [[概念/千刀万剐式退出|千刀万剐式退出]]（1 源）
+- [[概念/长期随访依从性|长期随访依从性]]（1 源）
+- [[概念/以关系为导向的研究专业人员|以关系为导向的研究专业人员]]（1 源）
+- [[概念/i-型二叶式主动脉瓣|I 型二叶式主动脉瓣]]（1 源）
+- [[概念/风险平面|风险平面]]（1 源）
+- [[概念/stuck-leaflet|stuck leaflet]]（1 源）
+- [[概念/under-straddled|under-straddled]]（1 源）
+- [[概念/pigtail-导管补救|pigtail 导管补救]]（1 源）
+- [[概念/gripper-机构失败|gripper 机构失败]]（1 源）
+- [[概念/分层知情同意|分层知情同意]]（1 源）
+- [[概念/失访偏倚|失访偏倚]]（1 源）
+- [[概念/fda-2023-知情同意指南|FDA 2023 知情同意指南]]（1 源）
+- [[概念/epro|ePRO]]（1 源）
+- [[概念/belmont-报告|Belmont 报告]]（1 源）
+- [[概念/急性失代偿性二尖瓣反流|急性失代偿性二尖瓣反流]]（1 源）
+- [[概念/smvr-vs-pmvr|SMVR vs PMVR]]（1 源）
+- [[概念/心梗后继发性-mr|心梗后继发性 MR]]（1 源）
+- [[概念/聚合物瓣叶材料|聚合物瓣叶材料]]（1 源）
+- [[概念/左房逆重构|左房逆重构]]（1 源）
+- [[概念/generalized-estimating-equations|generalized estimating equations]]（1 源）
+- [[概念/bev-in-bev|BEV in BEV]]（1 源）
+- [[概念/结构性瓣膜血流动力学|结构性瓣膜血流动力学]]（1 源）
+- [[概念/瓣膜终身管理|瓣膜终身管理]]（1 源）
+- [[概念/受试者疲劳|受试者疲劳]]（1 源）
+- [[概念/laa血栓排除|LAA血栓排除]]（1 源）
+- [[概念/tug-test|tug test]]（1 源）
+- [[概念/3d-toe引导|3D TOE引导]]（1 源）
+- [[概念/mother-in-child技术|Mother-in-child技术]]（1 源）
+- [[概念/夹子缠绕clip-entanglement|夹子缠绕（clip entanglement）]]（1 源）
+- [[概念/gripper-down操作|Gripper down操作]]（1 源）
+- [[概念/cga夹臂进入评估|CGA（夹臂进入评估）]]（1 源）
+- [[概念/瓣叶撕裂|瓣叶撕裂]]（1 源）
+- [[概念/双重封堵机制|双重封堵机制]]（1 源）
+- [[概念/laa完全封闭|LAA完全封闭]]（1 源）
+- [[概念/抗血小板出院策略|抗血小板出院策略]]（1 源）
+- [[概念/hemocoat涂层|HEMOCOAT涂层]]（1 源）
+- [[概念/laao术后抗栓路径|LAAO术后抗栓路径]]（1 源）
+- [[概念/laa-sizing三种方法|LAA Sizing（三种方法）]]（1 源）
+- [[概念/sandwich-technique|sandwich technique]]（1 源）
+- [[概念/ct-计算建模|CT 计算建模]]（1 源）
+- [[概念/台架疲劳试验|台架疲劳试验]]（1 源）
+- [[概念/one-valve-for-life|one valve for life]]（1 源）
+- [[概念/medicare-claims|Medicare claims]]（1 源）
+- [[概念/电子健康记录|电子健康记录]]（1 源）
+- [[概念/临床事件裁定|临床事件裁定]]（1 源）
+- [[概念/瓣膜相关死亡|瓣膜相关死亡]]（1 源）
+- [[概念/核心实验室|核心实验室]]（1 源）
+- [[概念/ai-用于临床事件裁定|AI 用于临床事件裁定]]（1 源）
+- [[概念/行政索赔数据|行政索赔数据]]（1 源）
+- [[概念/瓣叶裂解技术|瓣叶裂解技术]]（1 源）
+- [[概念/跨腔静脉瓣置入|跨腔静脉瓣置入]]（1 源）
+- [[概念/分期双瓣治疗策略|分期双瓣治疗策略]]（1 源）
+- [[概念/chagas-心肌病|Chagas 心肌病]]（1 源）
+- [[概念/echo-fluoro-fusion|echo-fluoro fusion]]（1 源）
+- [[概念/target-mode|Target mode]]（1 源）
+- [[概念/device-mode|Device mode]]（1 源）
+- [[概念/ai-辅助超声引导|AI 辅助超声引导]]（1 源）
+- [[概念/机器人二尖瓣手术|机器人二尖瓣手术]]（1 源）
+- [[概念/纤维包裹器械包裹|纤维包裹（器械包裹）]]（1 源）
+- [[概念/二尖瓣修复与置换的结局对比|二尖瓣修复与置换的结局对比]]（1 源）
+- [[概念/非劣效试验设计|非劣效试验设计]]（1 源）
+- [[概念/additive-laac-策略|additive LAAC 策略]]（1 源）
+- [[概念/极简化-laacconformclaas|极简化 LAAC（CONFORM/CLAAS）]]（1 源）
+- [[概念/左颈内静脉入路左-ijv-入路|左颈内静脉入路（左 IJV 入路）]]（1 源）
+- [[概念/septal-trajectory间隔侧轨迹|septal trajectory（间隔侧轨迹）]]（1 源）
+- [[概念/多瓣膜经导管综合策略|多瓣膜经导管综合策略]]（1 源）
+- [[概念/m-teer-失败机制分类|M-TEER 失败机制分类]]（1 源）
+- [[概念/redo-m-teer|redo M-TEER]]（1 源）
+- [[概念/slda单瓣叶器械附着诊断标准|SLDA（单瓣叶器械附着）诊断标准]]（1 源）
+- [[概念/腱索缠夹|腱索缠夹]]（1 源）
+- [[概念/off-guidance-post-dilation|off-guidance post-dilation]]（1 源）
+- [[概念/主动脉反流相关再干预|主动脉反流相关再干预]]（1 源）
+- [[概念/ai-引导-tee-切面识别|AI 引导 TEE 切面识别]]（1 源）
+- [[概念/结构超声心动图医师短缺|结构超声心动图医师短缺]]（1 源）
+- [[概念/存储视图再现性|存储视图再现性]]（1 源）
+- [[概念/经导管主动脉瓣反流治疗tavar|经导管主动脉瓣反流治疗（TAVAR）]]（1 源）
+- [[概念/高位释放策略|高位释放策略]]（1 源）
+- [[概念/右室收缩功能障碍|右室收缩功能障碍]]（1 源）
+- [[概念/持续性室速右室来源|持续性室速（右室来源）]]（1 源）
+- [[概念/皮下-icd|皮下 ICD]]（1 源）
+- [[概念/ivl-ptmv血管内碎石经皮二尖瓣成形术|IVL-PTMV（血管内碎石经皮二尖瓣成形术）]]（1 源）
+- [[概念/kissing-balloon-technique|Kissing balloon technique]]（1 源）
+- [[概念/同台多瓣膜介入|同台多瓣膜介入]]（1 源）
+- [[概念/hksj-random-effects-meta-analysis|HKSJ random-effects meta-analysis]]（1 源）
+- [[概念/clinically-relevant-non-major-bleeding|clinically relevant non-major bleeding]]（1 源）
+- [[概念/as进展预测ai模型|AS进展预测AI模型]]（1 源）
+- [[概念/主动脉瓣狭窄进展率|主动脉瓣狭窄进展率]]（1 源）
+- [[概念/超声心动图注册库|超声心动图注册库]]（1 源）
+- [[概念/个体化as随访范式|个体化AS随访范式]]（1 源）
+- [[概念/外部验证泛化性|外部验证泛化性]]（1 源）
+- [[概念/复发mr失败模式|复发MR失败模式]]（1 源）
+- [[概念/redo-teer|redo-TEER]]（1 源）
+- [[概念/alara|ALARA]]（1 源）
+- [[概念/背景校正|背景校正]]（1 源）
+- [[概念/ar严重度分级|AR严重度分级]]（1 源）
+- [[概念/cohens-kappa|Cohen's Kappa]]（1 源）
+- [[概念/ttvr瓣膜迁移|TTVR瓣膜迁移]]（1 源）
+- [[概念/起搏器导线余量评估|起搏器导线余量评估]]（1 源）
+- [[概念/secondary-flex|secondary flex]]（1 源）
+- [[概念/rv-pa-lead相互作用|RV-PA lead相互作用]]（1 源）
+- [[概念/dvvdesign-verification-and-validation|DVV（Design Verification and Validation）]]（1 源）
+- [[概念/awtaccelerated-wear-testing|AWT（Accelerated Wear Testing）]]（1 源）
+- [[概念/post-dilatation后扩张|post-dilatation（后扩张）]]（1 源）
+- [[概念/ai-辅助超声心动图采集|AI 辅助超声心动图采集]]（1 源）
+- [[概念/autoef|AutoEF]]（1 源）
+- [[概念/超声专业人力短缺|超声专业人力短缺]]（1 源）
+- [[概念/单纯原生主动脉反流-tavr|单纯原生主动脉反流 TAVR]]（1 源）
+- [[概念/重复-avr再干预|重复 AVR（再干预）]]（1 源）
+- [[概念/心室相互依赖|心室相互依赖]]（1 源）
+- [[概念/原发性二尖瓣反流pmr|原发性二尖瓣反流（PMR）]]（1 源）
+- [[概念/血流动力学瓣膜退化hvd分期|血流动力学瓣膜退化（HVD）分期]]（1 源）
+- [[概念/生物瓣耐久性冰山模型|生物瓣耐久性冰山模型]]（1 源）
+- [[概念/非结构性生物瓣膜退化|非结构性生物瓣膜退化]]（1 源）
+- [[概念/septal-pinning|septal pinning]]（1 源）
+- [[概念/annular-ovality|annular ovality]]（1 源）
+- [[概念/经颈内静脉入路-ttvr|经颈内静脉入路 TTVR]]（1 源）
+- [[概念/4d-ct-vendor-分析|4D CT vendor 分析]]（1 源）
+- [[概念/multivalve-transcatheter-intervention|multivalve transcatheter intervention]]（1 源）
+- [[概念/iatrogenic-mitral-stenosis|iatrogenic mitral stenosis]]（1 源）
+- [[概念/hemodynamic-profiling|hemodynamic profiling]]（1 源）
+- [[概念/pulmonary-vein-flow-pv-flow|pulmonary vein flow (PV flow)]]（1 源）
+- [[概念/生物瓣钙化加速|生物瓣钙化加速]]（1 源）
+- [[概念/三尖瓣形态分类|三尖瓣形态分类]]（1 源）
+- [[概念/rv-failure|RV failure]]（1 源）
+- [[概念/leadless-pacemaker|leadless pacemaker]]（1 源）
+- [[概念/不成比例-mr-disproportionate-mr|不成比例 MR (disproportionate MR)]]（1 源）
+- [[概念/失败-m-teer-后外科处理|失败 M-TEER 后外科处理]]（1 源）
+- [[概念/瓣环成形-annuloplasty|瓣环成形 (annuloplasty)]]（1 源）
+- [[概念/automation-bias|automation bias]]（1 源）
+- [[概念/human-first-sequential-ai-review|human-first sequential AI review]]（1 源）
+- [[概念/mr-六级分类|MR 六级分类]]（1 源）
+- [[概念/多切面-ai-超声模型|多切面 AI 超声模型]]（1 源）
+- [[概念/瓣膜病误诊|瓣膜病误诊]]（1 源）
+- [[概念/虚弱frailty|虚弱（frailty）]]（1 源）
+- [[概念/重度三尖瓣反流|重度三尖瓣反流]]（1 源）
+- [[概念/isth-大出血|ISTH 大出血]]（1 源）
+- [[概念/neo-lcc-瓣叶撕裂|neo-LCC 瓣叶撕裂]]（1 源）
+- [[概念/二级三尖瓣反流secondary-tr|二级三尖瓣反流（secondary TR）]]（1 源）
+- [[概念/心脏瓣膜团队hvt|心脏瓣膜团队（HVT）]]（1 源）
+- [[概念/as-分级与心脏损伤分期联合决策|AS 分级与心脏损伤分期联合决策]]（1 源）
+- [[概念/永久起搏器植入率|永久起搏器植入率]]（1 源）
+- [[概念/ct瓣环测量|CT瓣环测量]]（1 源）
+- [[概念/deflection与capture设计|Deflection与Capture设计]]（1 源）
+- [[概念/aortic-cantilever-spring|Aortic Cantilever Spring]]（1 源）
+- [[概念/残余漏|残余漏]]（1 源）
+- [[概念/原生主动脉反流tavi|原生主动脉反流TAVI]]（1 源）
+- [[概念/标准化均数差|标准化均数差]]（1 源）
+- [[概念/右室导线干扰|右室导线干扰]]（1 源）
+- [[概念/主动脉瓣狭窄监测|主动脉瓣狭窄监测]]（1 源）
+- [[概念/指南一致性监测|指南一致性监测]]（1 源）
+- [[概念/全弓覆盖|全弓覆盖]]（1 源）
+- [[概念/echo-prep|ECHO-PREP]]（1 源）
+- [[概念/monai-auto3dseg|MONAI Auto3DSeg]]（1 源）
+- [[概念/autonavigate|AutoNavigate]]（1 源）
+- [[概念/4d-fusion|4D Fusion]]（1 源）
+- [[概念/冠脉风险平面|冠脉风险平面]]（1 源）
+- [[概念/经装置-rf-穿刺|经装置 RF 穿刺]]（1 源）
+- [[概念/cribriform-多孔-asd-封堵器|Cribriform 多孔 ASD 封堵器]]（1 源）
+- [[概念/sfar鞘股动脉比|SFAR（鞘股动脉比）]]（1 源）
+- [[概念/aortopathy|Aortopathy]]（1 源）
+- [[概念/机构学习曲线|机构学习曲线]]（1 源）
+- [[概念/非入路主动脉损伤|非入路主动脉损伤]]（1 源）
+- [[概念/emb-诱导三尖瓣损伤|EMB 诱导三尖瓣损伤]]（1 源）
+- [[概念/ttvr-后-emb-活检通路保留|TTVR 后 EMB 活检通路保留]]（1 源）
+- [[概念/移植后三尖瓣反流|移植后三尖瓣反流]]（1 源）
+- [[概念/植入深度|植入深度]]（1 源）
+- [[概念/shared-decision-making|shared decision-making]]（1 源）
+- [[概念/cepd|CEPD]]（1 源）
+- [[概念/不一致性中度as|不一致性中度AS]]（1 源）
+- [[概念/瓣外心脏损害|瓣外心脏损害]]（1 源）
+- [[概念/混合中度主动脉瓣病|混合中度主动脉瓣病]]（1 源）
+- [[概念/cmr心肌纤维化|CMR心肌纤维化]]（1 源）
+- [[概念/viv-in-viv-tavr|ViV-in-ViV TAVR]]（1 源）
+- [[概念/经皮房间隔封堵|经皮房间隔封堵]]（1 源）
+- [[概念/分流介导低氧|分流介导低氧]]（1 源）
+- [[概念/peek|PEEK]]（1 源）
+- [[概念/nihss|NIHSS]]（1 源）
+- [[概念/traffic-light-criteria|Traffic Light criteria]]（1 源）
+- [[概念/teer-suitability分层|TEER suitability分层]]（1 源）
+- [[概念/尺寸重叠区|尺寸重叠区]]（1 源）
+- [[概念/主动脉瓣反流经导管治疗|主动脉瓣反流经导管治疗]]（1 源）
+- [[概念/医源性机械性三尖瓣反流|医源性机械性三尖瓣反流]]（1 源）
+- [[概念/心内膜心肌活检|心内膜心肌活检]]（1 源）
+- [[概念/放射诱发心脏病|放射诱发心脏病]]（1 源）
+- [[概念/器械栓塞经导管回收|器械栓塞经导管回收]]（1 源）
+- [[概念/医源性二尖瓣穿孔|医源性二尖瓣穿孔]]（1 源）
+- [[概念/无症状重度主动脉瓣狭窄早期干预|无症状重度主动脉瓣狭窄早期干预]]（1 源）
+- [[概念/acute-valve-syndrome|Acute Valve Syndrome]]（1 源）
+- [[概念/运动平板试验|运动平板试验]]（1 源）
+- [[概念/综合左室健康状态|综合左室健康状态]]（1 源）
+- [[概念/laa口不规则性指数|LAA口不规则性指数]]（1 源）
+- [[概念/左心耳电隔离|左心耳电隔离]]（1 源）
+- [[概念/适应性样本量设计|适应性样本量设计]]（1 源）
+- [[概念/ase性别特异阈值|ASE性别特异阈值]]（1 源）
+- [[概念/cied导线干扰|CIED导线干扰]]（1 源）
+- [[概念/rv导线松弛度|RV导线松弛度]]（1 源）
+- [[概念/外科左心耳排除|外科左心耳排除]]（1 源）
+- [[概念/左心耳残端血栓|左心耳残端血栓]]（1 源）
+- [[概念/ai预测建模|AI预测建模]]（1 源）
+- [[概念/aorta-hugger轨迹|aorta hugger轨迹]]（1 源）
+- [[概念/环成形环|环成形环]]（1 源）
+- [[概念/flail|flail]]（1 源）
+- [[概念/short-cut|Short Cut]]（1 源）
+- [[概念/pre-emptive-avr|pre-emptive AVR]]（1 源）
+- [[概念/等待观察|等待观察]]（1 源）
+- [[概念/iiaa推荐|IIa/A推荐]]（1 源）
+- [[概念/不可逆心脏损害|不可逆心脏损害]]（1 源）
+- [[概念/成本效益分析|成本效益分析]]（1 源）
+- [[概念/annuloplasty|annuloplasty]]（1 源）
+- [[概念/对合高度|对合高度]]（1 源）
+- [[概念/dreyfus技术|Dreyfus技术]]（1 源）
+- [[概念/纤维弹性缺陷|纤维弹性缺陷]]（1 源）
+- [[概念/医疗利用负担|医疗利用负担]]（1 源）
+- [[概念/治疗不足undertreated|治疗不足（undertreated）]]（1 源）
+- [[概念/laa-解剖变异|LAA 解剖变异]]（1 源）
+- [[概念/致残性卒中|致残性卒中]]（1 源）
+- [[概念/按方案分析per-protocol-analysis|按方案分析（per-protocol analysis）]]（1 源）
+- [[概念/个体患者数据荟萃分析ipd-meta-analysis|个体患者数据荟萃分析（IPD Meta-analysis）]]（1 源）
+- [[概念/tavr-后卒中|TAVR 后卒中]]（1 源）
+- [[概念/triguard3|TriGUARD3]]（1 源）
+- [[概念/ice-bailout-到常规策略的演进|ICE bailout 到常规策略的演进]]（1 源）
+- [[概念/ct-tavr-解剖评估|CT TAVR 解剖评估]]（1 源）
+- [[概念/as-终身管理lifetime-management|AS 终身管理（Lifetime Management）]]（1 源）
+- [[概念/feops-计算建模|FEops 计算建模]]（1 源）
+- [[概念/bilateral-basilica|bilateral BASILICA]]（1 源）
+- [[概念/upfront-coronary-protection|upfront coronary protection]]（1 源）
+- [[概念/selective-cusp-angiography|selective cusp angiography]]（1 源）
+- [[概念/neolvot阻塞|NeoLVOT阻塞]]（1 源）
+- [[概念/非最佳急性结果|非最佳急性结果]]（1 源）
+- [[概念/电外科electrosurgery|电外科（electrosurgery）]]（1 源）
+- [[概念/telltale-pachyderm导引导管|TELLTALE Pachyderm导引导管]]（1 源）
+- [[概念/左心耳消融laaa|左心耳消融（LAAA）]]（1 源）
+- [[概念/laa排空速度|LAA排空速度]]（1 源）
+- [[概念/close标准|CLOSE标准]]（1 源）
+- [[概念/aha-live-modules|AHA Live Modules]]（1 源）
+- [[概念/delayed-atrial-valve-migration|delayed atrial valve migration]]（1 源）
+- [[概念/atrioventricular-disruption|atrioventricular disruption]]（1 源）
+- [[概念/tissue-tvr|tissue TVR]]（1 源）
+- [[概念/tr-干预时机|TR 干预时机]]（1 源）
+- [[概念/右心衰终末器官损害|右心衰终末器官损害]]（1 源）
+- [[概念/三尖瓣环成形|三尖瓣环成形]]（1 源）
+- [[概念/esceacts-三尖瓣外科适应证|ESC/EACTS 三尖瓣外科适应证]]（1 源）
+- [[概念/concomitant-tricuspid-surgery|concomitant tricuspid surgery]]（1 源）
+- [[概念/三尖瓣手术与房颤|三尖瓣手术与房颤]]（1 源）
+- [[概念/balloon-septostomy|Balloon Septostomy]]（1 源）
+- [[概念/sgc|SGC]]（1 源）
+- [[概念/gripper-line-断开手法|Gripper Line 断开手法]]（1 源）
+- [[概念/心脏消融|心脏消融]]（1 源）
+- [[概念/心动过速性心肌病|心动过速性心肌病]]（1 源）
+- [[概念/rv-apical-access|RV Apical Access]]（1 源）
+- [[概念/push-and-pull-技术|Push and Pull 技术]]（1 源）
+- [[概念/trrvd-分期系统|TR/RVD 分期系统]]（1 源）
+- [[概念/去充血策略|去充血策略]]（1 源）
+- [[概念/肺高压分型|肺高压分型]]（1 源）
+- [[概念/cohort-c|Cohort C]]（1 源）
+- [[概念/pah-治疗算法|PAH 治疗算法]]（1 源）
+- [[概念/viv-tmvr|ViV TMVR]]（1 源）
+- [[概念/经心尖取回|经心尖取回]]（1 源）
+- [[概念/safari²-pigtail-wire|Safari² Pigtail Wire]]（1 源）
+- [[概念/tr疾病分期|TR疾病分期]]（1 源）
+- [[概念/监督生存树分群|监督生存树分群]]（1 源）
+- [[概念/三尖瓣疾病管理培训|三尖瓣疾病管理培训]]（1 源）
+- [[概念/经皮逆行经主动脉封堵|经皮逆行经主动脉封堵]]（1 源）
+- [[概念/急性升主动脉综合征|急性升主动脉综合征]]（1 源）
+- [[概念/台上支架改造|台上支架改造]]（1 源）
+- [[概念/穿透性主动脉溃疡pau|穿透性主动脉溃疡（PAU）]]（1 源）
+- [[概念/四维心内超声ice|四维心内超声（ICE）]]（1 源）
+- [[概念/完全内镜二尖瓣修复|完全内镜二尖瓣修复]]（1 源）
+- [[概念/zenker憩室|Zenker憩室]]（1 源）
+- [[概念/跨腔静脉异位三尖瓣置换技术版图|跨腔静脉异位三尖瓣置换技术版图]]（1 源）
+- [[概念/mvarc|MVARC]]（1 源）
+- [[概念/lasso-logistic-regression|LASSO logistic regression]]（1 源）
+- [[概念/瓣环-oversizing|瓣环 oversizing]]（1 源）
+- [[概念/高度-av-block|高度 AV block]]（1 源）
+- [[概念/瓣叶撕脱|瓣叶撕脱]]（1 源）
+- [[概念/caseous-二尖瓣环钙化|Caseous 二尖瓣环钙化]]（1 源）
+- [[概念/dock-递送技术|Dock 递送技术]]（1 源）
+- [[概念/eupass|EUPASS]]（1 源）
+- [[概念/困难逆行主动脉瓣跨瓣|困难逆行主动脉瓣跨瓣]]（1 源）
+- [[概念/bailout-策略|Bailout 策略]]（1 源）
+- [[概念/三维同轴对准|三维同轴对准]]（1 源）
+- [[概念/tavr-后-a-型主动脉夹层|TAVR 后 A 型主动脉夹层]]（1 源）
+- [[概念/经皮心脏结构并发症救援|经皮心脏结构并发症救援]]（1 源）
+- [[概念/ta-tmvr|TA-TMVR]]（1 源）
+- [[概念/心包袖套|心包袖套]]（1 源）
+- [[概念/tavi-第二通路|TAVI 第二通路]]（1 源）
+- [[概念/经桡动脉通路|经桡动脉通路]]（1 源）
+- [[概念/protamine-逆转肝素|Protamine 逆转肝素]]（1 源）
+- [[概念/冠脉风险节点分析|冠脉风险节点分析]]（1 源）
+- [[概念/四点固定|四点固定]]（1 源）
+- [[概念/无创伤锚定|无创伤锚定]]（1 源）
+- [[概念/3-cusp-视图|3-cusp 视图]]（1 源）
+- [[概念/resect-与-respect-策略|Resect 与 Respect 策略]]（1 源）
+- [[概念/hybrid-tmvr|Hybrid TMVR]]（1 源）
+- [[概念/电外科切割|电外科切割]]（1 源）
+- [[概念/嵌套套索系统|嵌套套索系统]]（1 源）
+- [[概念/滞留血管内异物|滞留血管内异物]]（1 源）
+- [[概念/主动脉夹层|主动脉夹层]]（1 源）
+- [[概念/瓣中瓣中瓣-tavrviv-in-viv-tavr|瓣中瓣中瓣 TAVR（VIV-in-VIV TAVR）]]（1 源）
+- [[概念/三瓣叶切开triple-leaflet-split|三瓣叶切开（Triple Leaflet Split）]]（1 源）
+- [[概念/node-5-释放策略|Node 5 释放策略]]（1 源）
+- [[概念/器械嵌顿与异物取出|器械嵌顿与异物取出]]（1 源）
+- [[概念/valve-care-pathwayvcp|Valve Care Pathway（VCP）]]（1 源）
+- [[概念/重度主动脉瓣狭窄severe-as筛查标准|重度主动脉瓣狭窄（Severe AS）筛查标准]]（1 源）
+- [[概念/90-天内-avr-质量指标|90 天内 AVR 质量指标]]（1 源）
+- [[概念/照护差异health-disparities|照护差异（Health Disparities）]]（1 源）
+- [[概念/改良序贯球囊扩张modified-sequential-ballooning|改良序贯球囊扩张（Modified Sequential Ballooning）]]（1 源）
+- [[概念/冠脉支架突出至主动脉protruding-coronary-stent|冠脉支架突出至主动脉（Protruding Coronary Stent）]]（1 源）
+- [[概念/tavr-冠脉阻塞风险|TAVR 冠脉阻塞风险]]（1 源）
+- [[概念/大二尖瓣瓣环large-mitral-annulus|大二尖瓣瓣环（Large Mitral Annulus）]]（1 源）
+- [[概念/瓣下沟固定机制|瓣下沟固定机制]]（1 源）
+- [[概念/technical-success|Technical Success]]（1 源）
+- [[概念/atraumatic-securement|Atraumatic Securement]]（1 源）
+- [[概念/medial-commissural-access|Medial Commissural Access]]（1 源）
+- [[概念/dock-三圈捕获|Dock 三圈捕获]]（1 源）
+- [[概念/pvl-guard|PVL Guard]]（1 源）
+- [[概念/lvot|LVOT]]（1 源）
+- [[概念/post-dilation|Post-Dilation]]（1 源）
+- [[概念/coronary-artery-obstruction|Coronary Artery Obstruction]]（1 源）
+- [[概念/左冠切线位评估|左冠切线位评估]]（1 源）
+- [[概念/drug-coated-balloon-angioplasty|Drug Coated Balloon Angioplasty]]（1 源）
+- [[概念/constrained-waist-design|Constrained Waist Design]]（1 源）
+- [[概念/机械互锁环和瓣膜|机械互锁环和瓣膜]]（1 源）
+- [[概念/suicide-left-ventricle|Suicide Left Ventricle]]（1 源）
+- [[概念/cardiac-tamponade|Cardiac Tamponade]]（1 源）
+- [[概念/cangrelor|Cangrelor]]（1 源）
+- [[概念/timely-diagnosis|Timely Diagnosis]]（1 源）
+- [[概念/timely-treatment|Timely Treatment]]（1 源）
+- [[概念/多模态检测|多模态检测]]（1 源）
+- [[概念/mdt-evaluation|MDT Evaluation]]（1 源）
+- [[概念/class-i-avr-指征|Class I AVR 指征]]（1 源）
+- [[概念/edge-to-edge-修复对线|Edge-to-edge 修复对线]]（1 源）
+- [[概念/rv-功能保护|RV 功能保护]]（1 源）
+- [[概念/heyde-综合征|Heyde 综合征]]（1 源）
+- [[概念/不良心脏事件|不良心脏事件]]（1 源）
+- [[概念/iso|ISO]]（1 源）
+- [[概念/distal-opening-technique|Distal opening technique]]（1 源）
+- [[概念/室间隔膜部瘤|室间隔膜部瘤]]（1 源）
+- [[概念/前叶连枷|前叶连枷]]（1 源）
+- [[概念/瓣环反向重塑|瓣环反向重塑]]（1 源）
+- [[概念/一致性中度-as|一致性中度 AS]]（1 源）
+- [[概念/中度主动脉瓣狭窄|中度主动脉瓣狭窄]]（1 源）
+- [[概念/不一致-as|不一致 AS]]（1 源）
+- [[概念/心衰事件|心衰事件]]（1 源）
+- [[概念/高危特征|高危特征]]（1 源）
+- [[概念/电外科瓣叶裂开|电外科瓣叶裂开]]（1 源）
+- [[概念/经导管-edge-to-edge-修复teer|经导管 edge-to-edge 修复（TEER）]]（1 源）
+- [[概念/mac-agatston-score|MAC Agatston score]]（1 源）
+- [[概念/新-mac-分级系统grade-1-4|新 MAC 分级系统（Grade 1-4）]]（1 源）
+- [[概念/18f-fluoride-pet|18F-fluoride PET]]（1 源）
+- [[概念/零对比剂-ccta|零对比剂 CCTA]]（1 源）
+- [[概念/低对比剂-ccta|低对比剂 CCTA]]（1 源）
+- [[概念/对比剂相关急性肾损伤aki|对比剂相关急性肾损伤（AKI）]]（1 源）
+- [[概念/肾保护策略tavr-ccta|肾保护策略（TAVR CCTA）]]（1 源）
+- [[概念/mac-钙化体积测量|MAC 钙化体积测量]]（1 源）
+- [[概念/左房高度与宽度测量la-sizing|左房高度与宽度测量（LA sizing）]]（1 源）
+- [[概念/衰弱frailty|衰弱（Frailty）]]（1 源）
+- [[概念/tavr-冠脉阻塞co|TAVR 冠脉阻塞（CO）]]（1 源）
+- [[概念/totally-endoscopic-mv-surgery|Totally Endoscopic MV Surgery]]（1 源）
+- [[概念/ring-annuloplasty|Ring Annuloplasty]]（1 源）
+- [[概念/dual-orifice-mitral-valve|Dual-Orifice Mitral Valve]]（1 源）
+- [[概念/beating-heart-endoscopic-mvr|Beating-heart Endoscopic MVR]]（1 源）
+- [[概念/vivir-tmvr|ViViR TMVR]]（1 源）
+- [[概念/hostile-septum|Hostile Septum]]（1 源）
+- [[概念/经房间隔穿刺策略|经房间隔穿刺策略]]（1 源）
+- [[概念/mdvc多学科心脏瓣膜中心|MDVC（多学科心脏瓣膜中心）]]（1 源）
+- [[概念/完全封堵率|完全封堵率]]（1 源）
+- [[概念/单件式顺应性框架|单件式顺应性框架]]（1 源）
+- [[概念/scorpion|SCORPION]]（1 源）
+- [[概念/neo-lvot-面积阈值|Neo-LVOT 面积阈值]]（1 源）
+- [[概念/结构性超声心动图|结构性超声心动图]]（1 源）
+- [[概念/tavi-for-native-ar|TAVI for native AR]]（1 源）
+- [[概念/lvesdi|LVESDi]]（1 源）
+- [[概念/多模态影像评估ar|多模态影像评估AR]]（1 源）
+- [[概念/bav与tav机制差异|BAV与TAV机制差异]]（1 源）
+- [[概念/pmc|PMC]]（1 源）
+- [[概念/spap|SPAP]]（1 源）
+- [[概念/苄星青霉素二级预防|苄星青霉素二级预防]]（1 源）
+- [[概念/alfieri-edge-to-edge-repair|Alfieri edge-to-edge repair]]（1 源）
+- [[概念/memo-3d成形环|Memo 3D成形环]]（1 源）
+- [[概念/浅着陆区设计|浅着陆区设计]]（1 源）
+- [[概念/bav狭窄bas|BAV狭窄（BAS）]]（1 源）
+- [[概念/钙化raphe|钙化raphe]]（1 源）
+- [[概念/bav-sizing方法|BAV sizing方法]]（1 源）
+- [[概念/savr-vs-tavr指征差距|SAVR vs TAVR指征差距]]（1 源）
+- [[概念/cox-proportional-hazard-models|Cox proportional hazard models]]（1 源）
+- [[概念/原发性-mr|原发性 MR]]（1 源）
+- [[概念/室间隔消融|室间隔消融]]（1 源）
+- [[概念/mld|MLD]]（1 源）
+- [[概念/经股-tavi|经股 TAVI]]（1 源）
+- [[概念/髂股动脉-ivus-表型|髂股动脉 IVUS 表型]]（1 源）
+- [[概念/心房固定-tmvr|心房固定 TMVR]]（1 源）
+- [[概念/savr-生物瓣衰败|SAVR 生物瓣衰败]]（1 源）
+- [[概念/sts-预计手术死亡率|STS 预计手术死亡率]]（1 源）
+- [[概念/成形环脱开|成形环脱开]]（1 源）
+- [[概念/evar|EVAR]]（1 源）
+- [[概念/damage-prevention-vs-damage-control|damage prevention vs damage control]]（1 源）
+- [[概念/bnpnt-probnp|BNP/NT-proBNP]]（1 源）
+- [[概念/vmax快速进展|Vmax快速进展]]（1 源）
+- [[概念/lvef下降作为早期损害标志|LVEF下降作为早期损害标志]]（1 源）
+- [[概念/bailout-teer|bailout TEER]]（1 源）
+- [[概念/肺静脉血流恢复|肺静脉血流恢复]]（1 源）
+- [[概念/脆弱frailty|脆弱（Frailty）]]（1 源）
+- [[概念/johns-hopkins-acg标准|Johns Hopkins ACG标准]]（1 源）
+- [[概念/脆弱风险预测模型|脆弱风险预测模型]]（1 源）
+- [[概念/多变量回归校正|多变量回归校正]]（1 源）
+- [[概念/假性动脉瘤经皮封堵|假性动脉瘤经皮封堵]]（1 源）
+- [[概念/逆行经主动脉入路|逆行经主动脉入路]]（1 源）
+- [[概念/顺行经房间隔入路|顺行经房间隔入路]]（1 源）
+- [[概念/off-label器械使用|off-label器械使用]]（1 源）
+- [[概念/解剖驱动技术选择|解剖驱动技术选择]]（1 源）
+- [[概念/心房化植入|心房化植入]]（1 源）
+- [[概念/kiban|KIBAN]]（1 源）
+- [[概念/延长外包裹|延长外包裹]]（1 源）
+- [[概念/外周cpb|外周CPB]]（1 源）
+- [[概念/电外科裂瓣|电外科裂瓣]]（1 源）
+- [[概念/动态lvot梯度|动态LVOT梯度]]（1 源）
+- [[概念/tavi年龄阈值|TAVI年龄阈值]]（1 源）
+- [[概念/tavr优化|TAVR优化]]（1 源）
+- [[概念/左心耳消除|左心耳消除]]（1 源）
+- [[概念/真空内陷|真空内陷]]（1 源）
+- [[概念/组织萎缩|组织萎缩]]（1 源）
+- [[概念/复杂-cadcomplex-cad|复杂 CAD（complex CAD）]]（1 源）
+- [[概念/心衰再住院hfrh|心衰再住院（HFRH）]]（1 源）
+- [[概念/ct-透视融合ct-fluoroscopy-fusion|CT-透视融合（CT-fluoroscopy fusion）]]（1 源）
+- [[概念/mviv-tmvr二尖瓣瓣中瓣-经导管二尖瓣置换|MViV / TMVR（二尖瓣瓣中瓣 / 经导管二尖瓣置换）]]（1 源）
+- [[概念/astato-xs-导丝|Astato XS 导丝]]（1 源）
+- [[概念/marfan-综合征|Marfan 综合征]]（1 源）
+- [[概念/frozen-elephant-trunk|frozen elephant trunk]]（1 源）
+- [[概念/急性主动脉综合征aas|急性主动脉综合征（AAS）]]（1 源）
+- [[概念/vts虚拟-thv-到室间隔距离|VTS（虚拟 THV 到室间隔距离）]]（1 源）
+- [[概念/echo-navigator超声导航|Echo navigator（超声导航）]]（1 源）
+- [[概念/valve-in-x|Valve-in-X]]（1 源）
+- [[概念/skirt-neo-lvot|skirt neo-LVOT]]（1 源）
+- [[概念/间隔改造|间隔改造]]（1 源）
+- [[概念/ct-based-procedural-planning|CT-based procedural planning]]（1 源）
+- [[概念/dedicated-tmvr|Dedicated TMVR]]（1 源）
+- [[概念/早期非致死并发症|早期非致死并发症]]（1 源）
+- [[概念/neo-lvot-预测|neo-LVOT 预测]]（1 源）
+- [[概念/3d-解剖打印|3D 解剖打印]]（1 源）
+- [[概念/混合性二尖瓣病变|混合性二尖瓣病变]]（1 源）
+- [[概念/negation-aware-nlp|negation-aware NLP]]（1 源）
+- [[概念/医疗器械不良事件报告mdr|医疗器械不良事件报告（MDR）]]（1 源）
+- [[概念/tmvr-栓塞|TMVR 栓塞]]（1 源）
+- [[概念/瓣膜过度扩张|瓣膜过度扩张]]（1 源）
+- [[概念/高出血风险|高出血风险]]（1 源）
+- [[概念/抗栓治疗策略|抗栓治疗策略]]（1 源）
+- [[概念/loe-a|LOE A]]（1 源）
+- [[概念/整合诊断框架|整合诊断框架]]（1 源）
+- [[概念/esc-良性循环|ESC 良性循环]]（1 源）
+- [[概念/窦管交界封闭|窦管交界封闭]]（1 源）
+- [[概念/viv-ttvr|ViV TTVR]]（1 源）
+- [[概念/tav-in-tav-最佳实践|TAV-in-TAV 最佳实践]]（1 源）
+- [[概念/oac|OAC]]（1 源）
+- [[概念/复合血栓结局|复合血栓结局]]（1 源）
+- [[概念/inverse-probability-weighting|inverse probability weighting]]（1 源）
+- [[概念/pvr|PVR]]（1 源）
+- [[概念/交界区脱垂|交界区脱垂]]（1 源）
+- [[概念/瓣环成形|瓣环成形]]（1 源）
+- [[概念/外科二尖瓣修复耐久性|外科二尖瓣修复耐久性]]（1 源）
+- [[概念/生物瓣退化|生物瓣退化]]（1 源）
+- [[概念/冠状静脉窦导线夹闭|冠状静脉窦导线夹闭]]（1 源）
+- [[概念/起搏器依赖性评估|起搏器依赖性评估]]（1 源）
+- [[概念/msct-paradox|MSCT paradox]]（1 源）
+- [[概念/strategy-agnostic-ct-planning|strategy agnostic CT planning]]（1 源）
+- [[概念/porcelain-aorta|porcelain aorta]]（1 源）
+- [[概念/fontan-björk-conduit|Fontan-Björk conduit]]（1 源）
+- [[概念/multimodality-imaging多模态影像|multimodality imaging（多模态影像）]]（1 源）
+- [[概念/sequential-stepwise-conduit-predilation|sequential stepwise conduit predilation]]（1 源）
+- [[概念/coronary-protection-strategy|coronary protection strategy]]（1 源）
+- [[概念/经皮三尖瓣置换ttvr|经皮三尖瓣置换（TTVR）]]（1 源）
+- [[概念/peripheral-artery-diseasepad|peripheral artery disease（PAD）]]（1 源）
+- [[概念/coda-主动脉阻断球囊|CODA 主动脉阻断球囊]]（1 源）
+- [[概念/混合型肺动脉高压|混合型肺动脉高压]]（1 源）
+- [[概念/ice-verisight-pro|ICE VeriSight Pro]]（1 源）
+- [[概念/massive-tr大量三尖瓣反流|massive TR（大量三尖瓣反流）]]（1 源）
+- [[概念/tavr-优先策略|TAVR 优先策略]]（1 源）
+- [[概念/钙化性二尖瓣狭窄calcific-ms|钙化性二尖瓣狭窄（calcific MS）]]（1 源）
+- [[概念/t-teer经导管二尖瓣缘对缘修复|T-TEER（经导管二尖瓣缘对缘修复）]]（1 源）
+- [[概念/lv-reverse-remodeling-lvmr|LV reverse remodeling (LVMR)]]（1 源）
+- [[概念/统计形态分析ssapls|统计形态分析（SSA/PLS）]]（1 源）
+- [[概念/totalsegmentator|TotalSegmentator]]（1 源）
+- [[概念/support-vector-regression-svr|support vector regression (SVR)]]（1 源）
+- [[概念/左室质量指数lvmi|左室质量指数（LVMI）]]（1 源）
+- [[概念/性别特异形态预测|性别特异形态预测]]（1 源）
+- [[概念/交界错位commissural-misalignment|交界错位（commissural misalignment）]]（1 源）
+- [[概念/3d-ct-模拟|3D CT 模拟]]（1 源）
+- [[概念/右室卸载|右室卸载]]（1 源）
+- [[概念/倾泻样三尖瓣反流|倾泻样三尖瓣反流]]（1 源）
+- [[概念/经股动脉-tavrtf-tavr|经股动脉 TAVR（TF TAVR）]]（1 源）
+- [[概念/患者偏好与共同决策|患者偏好与共同决策]]（1 源）
+- [[概念/肺动脉收缩压pasp|肺动脉收缩压（PASP）]]（1 源）
+- [[概念/中央-spacer-设计|中央 spacer 设计]]（1 源）
+- [[概念/sifar|SIFAR]]（1 源）
+- [[概念/ai-辅助血管通路评估|AI 辅助血管通路评估]]（1 源）
+- [[概念/av-结与三尖瓣前隔交界解剖关系|AV 结与三尖瓣前隔交界解剖关系]]（1 源）
+- [[概念/buddy-balloon-技术|Buddy balloon 技术]]（1 源）
+- [[概念/sondergaardwaterston-沟|Sondergaard/Waterston 沟]]（1 源）
+- [[概念/血管外释放瓣膜技术|血管外释放瓣膜技术]]（1 源）
+- [[概念/侵入性血流动力学分期|侵入性血流动力学分期]]（1 源）
+- [[概念/minimalist-approach|Minimalist approach]]（1 源）
+- [[概念/多层螺旋-ct-msct|多层螺旋 CT (MSCT)]]（1 源）
+- [[概念/3d-u-net|3D U-Net]]（1 源）
+- [[概念/主动脉根部-sizing|主动脉根部 sizing]]（1 源）
+- [[概念/三尖瓣-valve-in-ring-tvir|三尖瓣 Valve-in-Ring (TVIR)]]（1 源）
+- [[概念/回顾性心电门控-ct|回顾性心电门控 CT]]（1 源）
+- [[概念/neo-sinus-血流冲刷|Neo-Sinus 血流冲刷]]（1 源）
+- [[概念/双房间隔导引鞘技术|双房间隔导引鞘技术]]（1 源）
+- [[概念/dock-低位|Dock 低位]]（1 源）
+- [[概念/经导管缘对缘修复-teer|经导管缘对缘修复 (TEER)]]（1 源）
+- [[概念/分期经导管介入|分期经导管介入]]（1 源）
+- [[概念/右心辅助装置|右心辅助装置]]（1 源）
+- [[概念/合合缘间隙|合合缘间隙]]（1 源）
+- [[概念/heterotopic-ttvr|Heterotopic TTVR]]（1 源）
+- [[概念/瓣叶构型|瓣叶构型]]（1 源）
+- [[概念/orthotopic-ttvr|Orthotopic TTVR]]（1 源）
+- [[概念/联合m-teer与t-teer|联合M-TEER与T-TEER]]（1 源）
+- [[概念/照护路径瓶颈|照护路径瓶颈]]（1 源）
+- [[概念/ai超声提醒|AI超声提醒]]（1 源）
+- [[概念/去中心化work-up|去中心化work-up]]（1 源）
+- [[概念/time-to-tavr|time-to-TAVR]]（1 源）
+- [[概念/等待名单死亡率|等待名单死亡率]]（1 源）
+- [[概念/vtcvts|VTC/VTS]]（1 源）
+- [[概念/连合错位|连合错位]]（1 源）
+- [[概念/scai心源性休克分级|SCAI心源性休克分级]]（1 源）
+- [[概念/vav-ecmo构型|VAV ECMO构型]]（1 源）
+- [[概念/m-teer作为外科桥接|M-TEER作为外科桥接]]（1 源）
+- [[概念/impella与teer并用|Impella与TEER并用]]（1 源）
+- [[概念/supra-annular-self-expanding-valve|supra-annular self-expanding valve]]（1 源）
+- [[概念/robotic-midcab|robotic MIDCAB]]（1 源）
+- [[概念/混合外科-经导管策略|混合外科-经导管策略]]（1 源）
+- [[概念/ctoh|CTOH]]（1 源）
+- [[概念/tavr可及性不平等|TAVR可及性不平等]]（1 源）
+- [[概念/safety-net-population|safety-net population]]（1 源）
+- [[概念/cerebral-embolic-protection|cerebral embolic protection]]（1 源）
+- [[概念/原发性三尖瓣反流|原发性三尖瓣反流]]（1 源）
+- [[概念/解剖表型驱动治疗|解剖表型驱动治疗]]（1 源）
+- [[概念/二尖瓣瓣叶flail|二尖瓣瓣叶flail]]（1 源）
+- [[概念/急性二尖瓣反流|急性二尖瓣反流]]（1 源）
+- [[概念/mvhd|MVHD]]（1 源）
+- [[概念/全因死亡独立预测因素|全因死亡独立预测因素]]（1 源）
+- [[概念/多瓣膜病预后|多瓣膜病预后]]（1 源）
+- [[概念/nci-joinpoint回归|NCI Joinpoint回归]]（1 源）
+- [[概念/aamr|AAMR]]（1 源）
+- [[概念/tavr种族差异|TAVR种族差异]]（1 源）
+- [[概念/partner试验系列|PARTNER试验系列]]（1 源）
+- [[概念/生态学研究设计|生态学研究设计]]（1 源）
+- [[概念/急性乳头肌断裂|急性乳头肌断裂]]（1 源）
+- [[概念/心源性休克下m-teer|心源性休克下M-TEER]]（1 源）
+- [[概念/乳头肌断裂flail|乳头肌断裂flail]]（1 源）
+- [[概念/急诊阀膜团队快速流程|急诊阀膜团队快速流程]]（1 源）
+- [[概念/双侧瓣叶改造|双侧瓣叶改造]]（1 源）
+- [[概念/冠脉偏心角度|冠脉偏心角度]]（1 源）
+- [[概念/心室性继发性tr|心室性继发性TR]]（1 源）
+- [[概念/vstr疾病连续谱|vSTR疾病连续谱]]（1 源）
+- [[概念/rv收缩类型|RV收缩类型]]（1 源）
+- [[概念/心房性vs心室性ftr|心房性vs心室性FTR]]（1 源）
+- [[概念/bav|BAV]]（1 源）
+- [[概念/远程监测反应表型|远程监测反应表型]]（1 源）
+- [[概念/低警报应答者|低警报应答者]]（1 源）
+- [[概念/瓣膜病因心衰|瓣膜病因心衰]]（1 源）
+- [[概念/harrell-c-index|Harrell C-index]]（1 源）
+- [[概念/多变量-cox-模型|多变量 Cox 模型]]（1 源）
+- [[概念/脆弱性|脆弱性]]（1 源）
+- [[概念/pre-ide-临床参与|pre-IDE 临床参与]]（1 源）
+- [[概念/缘对缘修复策略|缘对缘修复策略]]（1 源）
+- [[概念/替代血管入路|替代血管入路]]（1 源）
+- [[概念/3d-bench-top-模型|3D bench-top 模型]]（1 源）
+- [[概念/3d-navigation|3D Navigation]]（1 源）
+- [[概念/彩色多普勒评估|彩色多普勒评估]]（1 源）
+- [[概念/ct-病例规划算法|CT 病例规划算法]]（1 源）
+- [[概念/二叶主动脉瓣-tavr-前瓣叶改造bav-leaflet-modification|二叶主动脉瓣 TAVR 前瓣叶改造（BAV Leaflet Modification）]]（1 源）
+- [[概念/医疗器械开发五阶段模型|医疗器械开发五阶段模型]]（1 源）
+- [[概念/translational-imaging转化影像|Translational Imaging（转化影像）]]（1 源）
+- [[概念/piv粒子图像测速|PIV（粒子图像测速）]]（1 源）
+- [[概念/非劣效贝叶斯分析|非劣效贝叶斯分析]]（1 源）
+- [[概念/急性继发性-mrfunctional-mr|急性继发性 MR（Functional MR）]]（1 源）
+- [[概念/心源性休克治疗算法|心源性休克治疗算法]]（1 源）
+- [[概念/心房肌病atrial-cardiomyopathy|心房肌病（Atrial Cardiomyopathy）]]（1 源）
+- [[概念/解剖驱动器械选择策略|解剖驱动器械选择策略]]（1 源）
+- [[概念/sglt2-抑制剂在-hfpef-中的应用|SGLT2 抑制剂在 HFpEF 中的应用]]（1 源）
+- [[概念/多瓣膜病序贯经导管介入|多瓣膜病序贯经导管介入]]（1 源）
+- [[概念/icd-10-pcs-编码识别手术|ICD-10-PCS 编码识别手术]]（1 源）
+- [[概念/院内死亡率|院内死亡率]]（1 源）
+- [[概念/比例性mr与不成比例性mr|比例性MR与不成比例性MR]]（1 源）
+- [[概念/左房功能性mr|左房功能性MR]]（1 源）
+- [[概念/房间隔造口|房间隔造口]]（1 源）
+- [[概念/冠心病合并主动脉瓣狭窄|冠心病合并主动脉瓣狭窄]]（1 源）
+- [[概念/冠脉血运重建时机|冠脉血运重建时机]]（1 源）
+- [[概念/ivus指导pci|IVUS指导PCI]]（1 源）
+- [[概念/先tavi后pci序贯策略|先TAVI后PCI序贯策略]]（1 源）
+- [[概念/cto-with-collaterals|CTO with collaterals]]（1 源）
+- [[概念/感染性心内膜炎赘生物减容|感染性心内膜炎赘生物减容]]（1 源）
+- [[概念/培养阴性感染性心内膜炎|培养阴性感染性心内膜炎]]（1 源）
+- [[概念/wtttr心肌淀粉样变|wtTTR心肌淀粉样变]]（1 源）
+- [[概念/大口径血管入路管理|大口径血管入路管理]]（1 源）
+- [[概念/远程介入手术|远程介入手术]]（1 源）
+- [[概念/操作者辐射暴露|操作者辐射暴露]]（1 源）
+- [[概念/atlas|ATLAS]]（1 源）
+- [[概念/teer-器械取出夹子管理|TEER 器械取出/夹子管理]]（1 源）
+- [[概念/lifetime-management终生管理|lifetime management（终生管理）]]（1 源）
+- [[概念/患者表型分层|患者表型分层]]（1 源）
+- [[概念/无效性futility|无效性（futility）]]（1 源）
+- [[概念/随机试验交叉crossover|随机试验交叉（crossover）]]（1 源）
+- [[概念/4d-flow-cmr-血流分析|4D flow CMR 血流分析]]（1 源）
+- [[概念/左室质量回缩lv-mass-regression|左室质量回缩（LV mass regression）]]（1 源）
+- [[概念/生理层流恢复|生理层流恢复]]（1 源）
+- [[概念/savv-teer|SAVV TEER]]（1 源）
+- [[概念/cctga先天矫正型大血管转位|ccTGA（先天矫正型大血管转位）]]（1 源）
+- [[概念/mustard-atrial-switch|Mustard atrial switch]]（1 源）
+- [[概念/非常规血管入路|非常规血管入路]]（1 源）
+- [[概念/系统性右心室衰竭|系统性右心室衰竭]]（1 源）
+- [[概念/二尖瓣瓣叶恢复|二尖瓣瓣叶恢复]]（1 源）
+- [[概念/钙化移位|钙化移位]]（1 源）
+- [[概念/瓣膜尺寸重叠区|瓣膜尺寸重叠区]]（1 源）
+- [[概念/冠脉保护策略|冠脉保护策略]]（1 源）
+- [[概念/开口左主干病变|开口左主干病变]]（1 源）
+- [[概念/连合定位|连合定位]]（1 源）
+- [[概念/机器人辅助经导管二尖瓣置换|机器人辅助经导管二尖瓣置换]]（1 源）
+- [[概念/受控展开|受控展开]]（1 源）
+- [[概念/同时释放多器械|同时释放多器械]]（1 源）
+- [[概念/感染性心内膜炎相关瓣周漏|感染性心内膜炎相关瓣周漏]]（1 源）
+- [[概念/完全血运重建|完全血运重建]]（1 源）
+- [[概念/内乳动脉桥|内乳动脉桥]]（1 源）
+- [[概念/不完全血运重建|不完全血运重建]]（1 源）
+- [[概念/pressure-volume-loop|pressure-volume loop]]（1 源）
+- [[概念/prsw|PRSW]]（1 源）
+- [[概念/pva|PVA]]（1 源）
+- [[概念/smvi|SMVI]]（1 源）
+- [[概念/多变量院内死亡风险模型|多变量院内死亡风险模型]]（1 源）
+- [[概念/闭环机器人导航|闭环机器人导航]]（1 源）
+- [[概念/学习曲线|学习曲线]]（1 源）
+- [[概念/瓣膜位置不良|瓣膜位置不良]]（1 源）
+- [[概念/瓣周漏补救策略|瓣周漏补救策略]]（1 源）
+- [[概念/类癌心脏病|类癌心脏病]]（1 源）
+- [[概念/non-inferiority-design|non-inferiority design]]（1 源）
+- [[概念/crossover|crossover]]（1 源）
+- [[概念/echo-invasive-gradient-discordance|echo-invasive gradient discordance]]（1 源）
+- [[概念/双-pigtail-导管技术|双 pigtail 导管技术]]（1 源）
+- [[概念/vena-contracta-gradient|vena contracta gradient]]（1 源）
+- [[概念/lifetime-planning|lifetime planning]]（1 源）
+- [[概念/prisma|PRISMA]]（1 源）
+- [[概念/firth-penalised-cox-regression|Firth-penalised Cox regression]]（1 源）
+- [[概念/locator-锚定机制|locator 锚定机制]]（1 源）
+- [[概念/holodiastolic-flow-reversal|holodiastolic flow reversal]]（1 源）
+- [[概念/经股动脉-tavr|经股动脉 TAVR]]（1 源）
+- [[概念/机器人辅助结构性心脏介入|机器人辅助结构性心脏介入]]（1 源）
+- [[概念/非径向力锚定|非径向力锚定]]（1 源）
+- [[概念/瓣中瓣-tavi|瓣中瓣 TAVI]]（1 源）
+- [[概念/经皮两步治疗策略|经皮两步治疗策略]]（1 源）
+- [[概念/瓣架扩张|瓣架扩张]]（1 源）
+- [[概念/tavi前常规pci|TAVI前常规PCI]]（1 源）
+- [[概念/tavi前ct冠状动脉评估|TAVI前CT冠状动脉评估]]（1 源）
+- [[概念/laac穿刺定位策略|LAAC穿刺定位策略]]（1 源）
+- [[概念/二尖瓣操作tsp高度要求|二尖瓣操作TSP高度要求]]（1 源）
+- [[概念/asd封堵器周围穿刺|ASD封堵器周围穿刺]]（1 源）
+- [[概念/clover技术|Clover技术]]（1 源）
+- [[概念/封堵器关闭夹子间隙|封堵器关闭夹子间隙]]（1 源）
+- [[概念/三尖瓣valve-in-valveviv|三尖瓣Valve-in-Valve（ViV）]]（1 源）
+- [[概念/重建ipd荟萃分析|重建IPD荟萃分析]]（1 源）
+- [[概念/三尖瓣修复环形成形|三尖瓣修复环形成形]]（1 源）
+- [[概念/mgeoa比值|MG/EOA比值]]（1 源）
+- [[概念/解剖-血流动力学不一致discordance|解剖-血流动力学不一致（discordance）]]（1 源）
+- [[概念/标准化人工腱索技术固定长度|标准化人工腱索技术（固定长度）]]（1 源）
+- [[概念/瓣环带成形band-annuloplasty|瓣环带成形（band annuloplasty）]]（1 源）
+- [[概念/后叶二尖瓣修复|后叶二尖瓣修复]]（1 源）
+- [[概念/经导管人工腱索技术|经导管人工腱索技术]]（1 源）
+- [[概念/extreme-undersizing|extreme undersizing]]（1 源）
+- [[概念/lv-on-wire-pacing|LV on-wire pacing]]（1 源）
+- [[概念/robotically-assisted-tmvr|robotically assisted TMVR]]（1 源）
+- [[概念/brain-+-eyes-+-hands|Brain + Eyes + Hands]]（1 源）
+- [[概念/closed-loop-control|closed loop control]]（1 源）
+- [[概念/system-enabled操作模式|system-enabled操作模式]]（1 源）
+- [[概念/fusion-imaging|fusion imaging]]（1 源）
+- [[概念/瓣周伪动脉瘤|瓣周伪动脉瘤]]（1 源）
+- [[概念/off-label-tavr-for-ar|off-label TAVR for AR]]（1 源）
+- [[概念/卵圆窝|卵圆窝]]（1 源）
+- [[概念/真房间隔与假房间隔|真房间隔与假房间隔]]（1 源）
+- [[概念/tenting-sign|tenting sign]]（1 源）
+- [[概念/穿刺点定制化|穿刺点定制化]]（1 源）
+- [[概念/ffrct|FFRCT]]（1 源）
+- [[概念/qfr|QFR]]（1 源）
+- [[概念/rfr|RFR]]（1 源）
+- [[概念/微血管阻力|微血管阻力]]（1 源）
+- [[概念/核素心肌灌注显像|核素心肌灌注显像]]（1 源）
+- [[概念/as对冠脉生理学的影响|AS对冠脉生理学的影响]]（1 源）
+- [[概念/tf-tavi|TF-TAVI]]（1 源）
+- [[概念/多支cad合并as的血运重建策略|多支CAD合并AS的血运重建策略]]（1 源）
+- [[概念/钙化积分|钙化积分]]（1 源）
+- [[概念/ai-augmented-teleoperation|AI augmented teleoperation]]（1 源）
+- [[概念/vll-location|VLL Location]]（1 源）
+- [[概念/supervised-control|supervised control]]（1 源）
+- [[概念/clip-pella|Clip-Pella]]（1 源）
+- [[概念/treat-healthy-to-healthy|treat healthy to healthy]]（1 源）
+- [[概念/心内膜炎相关-mteer-准备原则|心内膜炎相关 mTEER 准备原则]]（1 源）
+- [[概念/mcs-掩盖-mr-评估|MCS 掩盖 MR 评估]]（1 源）
+- [[概念/bav-tavr-尺寸策略|BAV TAVR 尺寸策略]]（1 源）
+- [[概念/raphe-钙化|raphe 钙化]]（1 源）
+- [[概念/ttvr-瓣叶血栓|TTVR 瓣叶血栓]]（1 源）
+- [[概念/ekos-超声辅助导管溶栓|EKOS 超声辅助导管溶栓]]（1 源）
+- [[概念/angiovac-thrombus-debulking|AngioVac thrombus debulking]]（1 源）
+- [[概念/ttvr-后抗凝策略|TTVR 后抗凝策略]]（1 源）
+- [[概念/ttvr-血栓监测|TTVR 血栓监测]]（1 源）
+- [[概念/微创二尖瓣手术mis|微创二尖瓣手术（MIS）]]（1 源）
+- [[概念/二尖瓣手术性别差异|二尖瓣手术性别差异]]（1 源）
+- [[概念/试验提前交叉|试验提前交叉]]（1 源）
+- [[概念/futility-阈值|futility 阈值]]（1 源）
+- [[概念/疾病修饰|疾病修饰]]（1 源）
+- [[概念/repair-first-replacement-second|repair first, replacement second]]（1 源）
+- [[概念/heterotopic-valve|heterotopic valve]]（1 源）
+- [[概念/个体化瓣膜-sizing|个体化瓣膜 sizing]]（1 源）
+- [[概念/resilia-tissue|RESILIA tissue]]（1 源）
+- [[概念/前负荷依赖|前负荷依赖]]（1 源）
+- [[概念/反向衰竭右心衰淤血表型|反向衰竭（右心衰淤血表型）]]（1 源）
+- [[概念/tvem经导管瓣膜栓塞迁移|TVEM（经导管瓣膜栓塞/迁移）]]（1 源）
+- [[概念/hrae血液相容性相关不良事件|HRAE（血液相容性相关不良事件）]]（1 源）
+- [[概念/dedicated-ar-tavr专用-ar-经导管瓣膜|dedicated AR TAVR（专用 AR 经导管瓣膜）]]（1 源）
+- [[概念/累积心脏损害stage-4b|累积心脏损害（Stage 4B）]]（1 源）
+- [[概念/肺高压概率评估|肺高压概率评估]]（1 源）
+- [[概念/冠状窦顶缺如|冠状窦顶缺如]]（1 源）
+- [[概念/全内镜心脏外科|全内镜心脏外科]]（1 源）
+- [[概念/eptfe-neochords人工腱索|ePTFE neochords（人工腱索）]]（1 源）
+- [[概念/持续左上腔静脉|持续左上腔静脉]]（1 源）
+- [[概念/mitral-leaflet-perforation|mitral leaflet perforation]]（1 源）
+- [[概念/valve-kinematics|valve kinematics]]（1 源）
+- [[概念/胸骨旁长轴切面|胸骨旁长轴切面]]（1 源）
+- [[概念/计算机视觉算法|计算机视觉算法]]（1 源）
+- [[概念/auc|AUC]]（1 源）
+- [[概念/非操作相关出血|非操作相关出血]]（1 源）
+- [[概念/随机效应模型meta分析|随机效应模型Meta分析]]（1 源）
+- [[概念/libman-sacks心内膜炎|Libman-Sacks心内膜炎]]（1 源）
+- [[概念/双重打击机制|双重打击机制]]（1 源）
+- [[概念/pwid相关心内膜炎|PWID相关心内膜炎]]（1 源）
+- [[概念/haart|HAART]]（1 源）
+- [[概念/植入港相关菌血症|植入港相关菌血症]]（1 源）
+- [[概念/ar-tavr|AR-TAVR]]（1 源）
+- [[概念/外展密封环|外展密封环]]（1 源）
+- [[概念/aipw|AIPW]]（1 源）
+- [[概念/adapt抗钙化处理|ADAPT抗钙化处理]]（1 源）
+- [[概念/3d-ice联合tee引导|3D ICE联合TEE引导]]（1 源）
+- [[概念/贝叶斯分析|贝叶斯分析]]（1 源）
+- [[概念/试验序贯分析tsa|试验序贯分析（TSA）]]（1 源）
+- [[概念/grade|GRADE]]（1 源）
+- [[概念/瓣膜综合征框架|瓣膜综合征框架]]（1 源）
+- [[概念/稳定瓣膜综合征svs|稳定瓣膜综合征（SVS）]]（1 源）
+- [[概念/利钠肽np|利钠肽（NP）]]（1 源）
+- [[概念/进展性瓣膜综合征pvs|进展性瓣膜综合征（PVS）]]（1 源）
+- [[概念/watchful-waiting|Watchful Waiting]]（1 源）
+- [[概念/orthodeoxia-platypnea-syndrome-pos|Orthodeoxia-Platypnea Syndrome (POS)]]（1 源）
+- [[概念/spinnaker-effect|Spinnaker Effect]]（1 源）
+- [[概念/经皮赘生物抽吸减容|经皮赘生物抽吸减容]]（1 源）
+- [[概念/静脉-静脉抽吸回路|静脉-静脉抽吸回路]]（1 源）
+- [[概念/脓毒性肺栓塞|脓毒性肺栓塞]]（1 源）
+- [[概念/右心感染性心内膜炎|右心感染性心内膜炎]]（1 源）
+- [[概念/主动脉瓣修复技术|主动脉瓣修复技术]]（1 源）
+- [[概念/tavi-for-ar|TAVI for AR]]（1 源）
+- [[概念/mazzola-框架|Mazzola 框架]]（1 源）
+- [[概念/rv-pa-uncoupling|RV-PA Uncoupling]]（1 源）
+- [[概念/semi-automated-inflation-device-sid|Semi-Automated Inflation Device (SID)]]（1 源）
+- [[概念/心包并发症|心包并发症]]（1 源）
+- [[概念/性别相关操作安全差异|性别相关操作安全差异]]（1 源）
+- [[概念/survey-weighted-multivariable-logistic-regression|Survey-Weighted Multivariable Logistic Regression]]（1 源）
+- [[概念/elective-only-sensitivity-analysis|Elective-Only Sensitivity Analysis]]（1 源）
+- [[概念/fibrocalcific-tissue-distribution-phenotype|fibrocalcific tissue distribution phenotype]]（1 源）
+- [[概念/polar-bullseye-projection|polar bullseye projection]]（1 源）
+- [[概念/nmf-consensus-clustering|NMF consensus clustering]]（1 源）
+- [[概念/periannular-calcific-phenotype|periannular-calcific phenotype]]（1 源）
+- [[概念/caseous-necrosis-of-the-papillary-muscle|caseous necrosis of the papillary muscle]]（1 源）
+- [[概念/multimodality-cardiac-imaging|multimodality cardiac imaging]]（1 源）
+- [[概念/bileaflet-mitral-valve-prolapse-mvp|bileaflet mitral valve prolapse (MVP)]]（1 源）
+- [[概念/single-sheath-workflow|single-sheath workflow]]（1 源）
+- [[概念/pre-teer-aspiration-risk-triage|pre-TEER aspiration risk triage]]（1 源）
+- [[概念/cmr-aortic-regurgitant-fraction-threshold|CMR aortic regurgitant fraction threshold]]（1 源）
+- [[概念/functional-cta-aroa-planimetry|functional CTA (AROA planimetry)]]（1 源）
+- [[概念/el-khoury-ar-classification|El Khoury AR classification]]（1 源）
+- [[概念/imaging-modality-specific-threshold|imaging modality-specific threshold]]（1 源）
+- [[概念/lead-extraction|lead extraction]]（1 源）
+- [[概念/ct-tricuspid-valve-sizing|CT tricuspid valve sizing]]（1 源）
+- [[概念/pascal-bailout技术|PASCAL bailout技术]]（1 源）
+- [[概念/accordion变形|Accordion变形]]（1 源）
+- [[概念/en-bloc取出|En bloc取出]]（1 源）
+- [[概念/全舒张期血流反转|全舒张期血流反转]]（1 源）
+- [[概念/三窦定位器|三窦定位器]]（1 源）
+- [[概念/周长来源直径|周长来源直径]]（1 源）
+- [[概念/ivus指导髂动脉斑块准备|IVUS指导髂动脉斑块准备]]（1 源）
+- [[概念/球囊辅助腋动脉穿刺bat|球囊辅助腋动脉穿刺（BAT）]]（1 源）
+- [[概念/tevar|TEVAR]]（1 源）
+- [[概念/轨道旋磨oa|轨道旋磨（OA）]]（1 源）
+- [[概念/远端桡动脉入路|远端桡动脉入路]]（1 源）
+- [[概念/cart技术|CART技术]]（1 源）
+- [[概念/伸缩导管系统|伸缩导管系统]]（1 源）
+- [[概念/同步释放多plug策略|同步释放多plug策略]]（1 源）
+- [[概念/无短缩设计|无短缩设计]]（1 源）
+- [[概念/反常栓塞|反常栓塞]]（1 源）
+- [[概念/炎症-氧化还原轴|炎症-氧化还原轴]]（1 源）
+- [[概念/凝块溶解时间clt|凝块溶解时间（CLT）]]（1 源）
+- [[概念/3-硝基酪氨酸3-nt|3-硝基酪氨酸（3-NT）]]（1 源）
+- [[概念/galectin-3|Galectin-3]]（1 源）
+- [[概念/il-18|IL-18]]（1 源）
+- [[概念/系统性促血栓表型|系统性促血栓表型]]（1 源）
+- [[概念/序贯肾单位阻滞|序贯肾单位阻滞]]（1 源）
+- [[概念/利尿剂抵抗|利尿剂抵抗]]（1 源）
+- [[概念/cpcph混合性毛细血管后肺高压|CpcPH（混合性毛细血管后肺高压）]]（1 源）
+- [[概念/videodensitometry|Videodensitometry]]（1 源）
+- [[概念/avp-4amplatzer-vascular-plug-4|AVP 4（Amplatzer Vascular Plug 4）]]（1 源）
+- [[概念/偏心指数|偏心指数]]（1 源）
+- [[概念/多模态pvl评估|多模态PVL评估]]（1 源）
+- [[概念/三叶瓣叶命名hahn命名体系|三叶瓣叶命名（Hahn命名体系）]]（1 源）
+- [[概念/3d-ice-mpr|3D ICE MPR]]（1 源）
+- [[概念/toolbox选瓣策略|Toolbox选瓣策略]]（1 源）
+- [[概念/经皮心肌切开术|经皮心肌切开术]]（1 源）
+- [[概念/ai模拟术前筛选|AI模拟术前筛选]]（1 源）
+- [[概念/升主动脉重构|升主动脉重构]]（1 源）
+- [[概念/tavr后主动脉随访风险分层|TAVR后主动脉随访风险分层]]（1 源）
+- [[概念/snare辅助tavr偏转技术|snare辅助TAVR偏转技术]]（1 源）
+- [[概念/隔外侧对合间隙|隔外侧对合间隙]]（1 源）
+- [[概念/经导管赘生物清除术vegetectomy|经导管赘生物清除术（Vegetectomy）]]（1 源）
+- [[概念/经导管肺动脉瓣中瓣置换viv-pvr|经导管肺动脉瓣中瓣置换（VIV PVR）]]（1 源）
+- [[概念/高位瓣膜栓塞|高位瓣膜栓塞]]（1 源）
+- [[概念/dimensionless-index|dimensionless index]]（1 源）
+- [[概念/竞争风险卒中预防vs出血|竞争风险（卒中预防vs出血）]]（1 源）
+- [[概念/pico框架|PICO框架]]（1 源）
+- [[概念/临床异质性|临床异质性]]（1 源）
+- [[概念/低钙化landing-zone|低钙化landing zone]]（1 源）
+- [[概念/snare辅助瓣膜稳定|snare辅助瓣膜稳定]]（1 源）
+- [[概念/球囊扩张瓣valve-in-valve救援|球囊扩张瓣valve-in-valve救援]]（1 源）
+- [[概念/连续血流血流动力学|连续血流血流动力学]]（1 源）
+- [[概念/tpvr|TPVR]]（1 源）
+- [[概念/valve-in-valve-tpvr|valve-in-valve TPVR]]（1 源）
+- [[概念/rv-pa-conduit|RV-PA conduit]]（1 源）
+- [[概念/redo-tpvr|redo-TPVR]]（1 源）
+- [[概念/valve-in-ring-ttvr|valve-in-ring TTVR]]（1 源）
+- [[概念/hvc-teer-suitability-framework|HVC TEER Suitability Framework]]（1 源）
+- [[概念/tavr-for-native-aortic-regurgitation|TAVR for native aortic regurgitation]]（1 源）
+- [[概念/facility-cost|facility cost]]（1 源）
+- [[概念/moderate-sedation|moderate sedation]]（1 源）
+- [[概念/delphi-consensus-method|Delphi consensus method]]（1 源）
+- [[概念/time-to-first-event-analysis|time-to-first-event analysis]]（1 源）
+- [[概念/hierarchical-composite-endpoint|hierarchical composite endpoint]]（1 源）
+- [[概念/瓣周漏后扩张|瓣周漏后扩张]]（1 源）
+- [[概念/鼻锥居中回撤|鼻锥居中回撤]]（1 源）
+- [[概念/经皮球囊肺动脉瓣成形术|经皮球囊肺动脉瓣成形术]]（1 源）
+- [[概念/先天性肺动脉瓣狭窄|先天性肺动脉瓣狭窄]]（1 源）
+- [[概念/amplatz-super-stiff-wire|Amplatz Super Stiff wire]]（1 源）
+- [[概念/球囊腰征|球囊腰征]]（1 源）
+- [[概念/round-robin研究|Round Robin研究]]（1 源）
+- [[概念/ecl协调化|ECL协调化]]（1 源）
+- [[概念/lesion-preparation|lesion preparation]]（1 源）
+- [[概念/bicaval-view|bicaval view]]（1 源）
+- [[概念/capsule-gap|capsule gap]]（1 源）
+- [[概念/超声引导微穿刺|超声引导微穿刺]]（1 源）
+- [[概念/plan-abc闭合策略|Plan A/B/C闭合策略]]（1 源）
+- [[概念/经股tavr血管并发症|经股TAVR血管并发症]]（1 源）
+- [[概念/ct入路规划|CT入路规划]]（1 源）
+- [[概念/腔内血管修复|腔内血管修复]]（1 源）
+- [[概念/unfractionated-heparin|unfractionated heparin]]（1 源）
+- [[概念/瓣膜迁移|瓣膜迁移]]（1 源）
+- [[概念/球囊辅助瓣膜重新定位|球囊辅助瓣膜重新定位]]（1 源）
+- [[概念/肺静脉狭窄|肺静脉狭窄]]（1 源）
+- [[概念/肺静脉再血管化|肺静脉再血管化]]（1 源）
+- [[概念/高功率短时程消融|高功率短时程消融]]（1 源）
+- [[概念/瓣周漏分级|瓣周漏分级]]（1 源）
+- [[概念/circumferential-extent|circumferential extent]]（1 源）
+- [[概念/inter-ecl-reproducibility|inter-ECL reproducibility]]（1 源）
+- [[概念/atrial-myopathy|atrial myopathy]]（1 源）
+- [[概念/腱索导航|腱索导航]]（1 源）
+- [[概念/stent-frame-under-expansion|stent frame under-expansion]]（1 源）
+- [[概念/metal-metal-interaction|metal-metal interaction]]（1 源）
+- [[概念/balloon-valvuloplasty-bav-pre-bav|balloon valvuloplasty (BAV / pre-BAV)]]（1 源）
+- [[概念/dock-系统|Dock 系统]]（1 源）
+- [[概念/sev-部署八步流程|SEV 部署八步流程]]（1 源）
+- [[概念/pre-dilatation-模拟-tavi|pre-dilatation 模拟 TAVI]]（1 源）
+- [[概念/二叶式主动脉瓣bav解剖|二叶式主动脉瓣（BAV）解剖]]（1 源）
+- [[概念/patient-tailored-minimalist-tavi|patient-tailored minimalist-TAVI]]（1 源）
+- [[概念/inter-core-lab-variability|inter-core lab variability]]（1 源）
+- [[概念/ava主动脉瓣口面积测量|AVA（主动脉瓣口面积）测量]]（1 源）
+- [[概念/tvt-超声协调tvt-echo-harmonization|TVT 超声协调（TVT echo harmonization）]]（1 源）
+- [[概念/vendor-qualification|vendor qualification]]（1 源）
+- [[概念/tawss时间平均壁面剪切力|TAWSS（时间平均壁面剪切力）]]（1 源）
+- [[概念/rrt相对停留时间|RRT（相对停留时间）]]（1 源）
+- [[概念/ecap内皮细胞激活潜能|ECAP（内皮细胞激活潜能）]]（1 源）
+- [[概念/经导管三尖瓣修复t-teer|经导管三尖瓣修复（T-TEER）]]（1 源）
+- [[概念/延迟左室迁移|延迟左室迁移]]（1 源）
+- [[概念/sievers-1-型-r-n-二叶瓣|Sievers 1 型 R-N 二叶瓣]]（1 源）
+- [[概念/dobutamine-challenge多巴酚丁胺激发试验|dobutamine challenge（多巴酚丁胺激发试验）]]（1 源）
+- [[概念/动态-lvot-梗阻|动态 LVOT 梗阻]]（1 源）
+- [[概念/传导阻滞|传导阻滞]]（1 源）
+- [[概念/egm-遥测|EGM 遥测]]（1 源）
+- [[概念/次日出院ndd|次日出院（NDD）]]（1 源）
+- [[概念/生理性起搏|生理性起搏]]（1 源）
+- [[概念/连续心包壁吸引|连续心包壁吸引]]（1 源）
+- [[概念/矛盾性低流量低梯度-as|矛盾性低流量低梯度 AS]]（1 源）
+- [[概念/左室穿孔|左室穿孔]]（1 源）
+- [[概念/重度左室肥厚lvh|重度左室肥厚（LVH）]]（1 源）
+- [[概念/预立医疗指示living-will|预立医疗指示（living will）]]（1 源）
+- [[概念/intelligent-tavr|Intelligent TAVR]]（1 源）
+- [[概念/clahe|CLAHE]]（1 源）
+- [[概念/2d-3d-多模态配准|2D-3D 多模态配准]]（1 源）
+- [[概念/differential-evolution|Differential Evolution]]（1 源）
+- [[概念/急性肾损伤aki|急性肾损伤（AKI）]]（1 源）
+- [[概念/lv-scar-plication|LV scar plication]]（1 源）
+- [[概念/左室收缩末容积esv|左室收缩末容积（ESV）]]（1 源）
+- [[概念/tavr-球囊破裂|TAVR 球囊破裂]]（1 源）
+- [[概念/套索取回snare-retrieval|套索取回（Snare Retrieval）]]（1 源）
+- [[概念/abc-算法|ABC 算法]]（1 源）
+- [[概念/主动脉根部破裂|主动脉根部破裂]]（1 源）
+- [[概念/环部过度扩张annular-oversizing|环部过度扩张（Annular Oversizing）]]（1 源）
+- [[概念/不良钙化模式adverse-calcium-pattern|不良钙化模式（Adverse Calcium Pattern）]]（1 源）
+- [[概念/间接二尖瓣环成形indirect-annuloplasty|间接二尖瓣环成形（Indirect Annuloplasty）]]（1 源）
+- [[概念/tavr-+-pci|TAVR + PCI]]（1 源）
+- [[概念/经导管封堵器用于mr|经导管封堵器用于MR]]（1 源）
+- [[概念/tav-in-tav-in-sav|TAV-in-TAV-in-SAV]]（1 源）
+- [[概念/亚急性thv移位|亚急性THV移位]]（1 源）
+- [[概念/tavi实时ai导航|TAVI实时AI导航]]（1 源）
+- [[概念/fda-510k-clearance|FDA 510(k) clearance]]（1 源）
+- [[概念/ai机器人tavi系统|AI机器人TAVI系统]]（1 源）
+- [[概念/混合方法研究|混合方法研究]]（1 源）
+- [[概念/apc|APC]]（1 源）
+- [[概念/圈套技术snare-technique|圈套技术（snare technique）]]（1 源）
+- [[概念/心肌内心室成形intramyocardial-ventriculoplasty|心肌内心室成形（intramyocardial ventriculoplasty）]]（1 源）
+- [[概念/经导管-mitral-cerclage-ventriculoplasty|经导管 mitral cerclage ventriculoplasty]]（1 源）
+- [[概念/心肌内导丝导航intramyocardial-guidewire-navigation|心肌内导丝导航（intramyocardial guidewire navigation）]]（1 源）
+- [[概念/jailed-lead-tract-相关瓣周漏|jailed lead tract 相关瓣周漏]]（1 源）
+- [[概念/non-leaflet-capture-设计|non-leaflet capture 设计]]（1 源）
+- [[概念/同期-pci-tavisimultaneous-pci-tavi|同期 PCI-TAVI（simultaneous PCI-TAVI）]]（1 源）
+- [[概念/pci-时机pci-timing|PCI 时机（PCI timing）]]（1 源）
+- [[概念/through-the-ring-m-teer|through-the-ring M-TEER]]（1 源）
+- [[概念/外科二尖瓣环开裂surgical-ring-dehiscence|外科二尖瓣环开裂（surgical ring dehiscence）]]（1 源）
+- [[概念/extra-annular-access环外通路|extra annular access（环外通路）]]（1 源）
+- [[概念/evolut-节点定位node-positioning|Evolut 节点定位（node positioning）]]（1 源）
+- [[概念/弹簧圈效应spring-coil-effect|弹簧圈效应（spring coil effect）]]（1 源）
+- [[概念/guideliner延伸导管|Guideliner（延伸导管）]]（1 源）
+- [[概念/peak-areal-stretch|peak areal stretch]]（1 源）
+- [[概念/生物学逆重构|生物学逆重构]]（1 源）
+- [[概念/anchor-peeking|anchor peeking]]（1 源）
+- [[概念/复合-ai-ecg|复合 AI-ECG]]（1 源）
+- [[概念/lvsd-模型|LVSD 模型]]（1 源）
+- [[概念/lvdd-模型|LVDD 模型]]（1 源）
+- [[概念/youden-阈值|Youden 阈值]]（1 源）
+- [[概念/原发-mr-与继发-mr|原发 MR 与继发 MR]]（1 源）
+- [[概念/reduced-order-model|Reduced Order Model]]（1 源）
+- [[概念/root-stretch|Root Stretch]]（1 源）
+- [[概念/physical-reverse-remodeling|Physical Reverse Remodeling]]（1 源）
+- [[概念/surgical-ventricular-reconstruction|Surgical Ventricular Reconstruction]]（1 源）
+- [[概念/biological-reverse-remodeling|Biological Reverse Remodeling]]（1 源）
+- [[概念/frame-fibrosis|Frame Fibrosis]]（1 源）
+- [[概念/photon-counting-detector-ct|Photon-Counting Detector CT]]（1 源）
+- [[概念/electrosurgical-leaflet-laceration|Electrosurgical Leaflet Laceration]]（1 源）
+- [[概念/kccq-12|KCCQ-12]]（1 源）
+- [[概念/tr|TR]]（1 源）
+- [[概念/多变量-cox-比例风险分析|多变量 Cox 比例风险分析]]（1 源）
+- [[概念/偏心率与变形指数-pdi|偏心率与变形指数 PDI]]（1 源）
+- [[概念/生物瓣失效模式|生物瓣失效模式]]（1 源）
+- [[概念/再干预紧急程度|再干预紧急程度]]（1 源）
+- [[概念/目标性能标准-opc|目标性能标准 OPC]]（1 源）
+- [[概念/注册研究内随机化|注册研究内随机化]]（1 源）
+- [[概念/患者偏好加权|患者偏好加权]]（1 源）
+- [[概念/ich|ICH]]（1 源）
+- [[概念/aml-电外科穿孔|AML 电外科穿孔]]（1 源）
+- [[概念/主动脉夹层腔内开窗fenestration|主动脉夹层腔内开窗（Fenestration）]]（1 源）
+- [[概念/电灼辅助开窗|电灼辅助开窗]]（1 源）
+- [[概念/i型主动脉夹层|I型主动脉夹层]]（1 源）
+- [[概念/真腔血栓性闭塞|真腔血栓性闭塞]]（1 源）
+- [[概念/cto导丝技术|CTO导丝技术]]（1 源）
+- [[概念/再灌注损伤|再灌注损伤]]（1 源）
+- [[概念/cephea第三代输送系统|Cephea第三代输送系统]]（1 源）
+- [[概念/球囊二尖瓣成形bmv|球囊二尖瓣成形（BMV）]]（1 源）
+- [[概念/ai术前规划cttee|AI术前规划（CT/TEE）]]（1 源）
+- [[概念/svrvesv容量性rvpac|SV/RVESV（容量性RVPAC）]]（1 源）
+- [[概念/lvot-sv左室流出道搏出量|LVOT SV（左室流出道搏出量）]]（1 源）
+- [[概念/30天landmark分析|30天Landmark分析]]（1 源）
+- [[概念/超ifu后扩post-dilation-beyond-ifu|超IFU后扩（Post-Dilation beyond IFU）]]（1 源）
+- [[概念/ifu说明书使用范围|IFU（说明书使用范围）]]（1 源）
+- [[概念/birbwr球囊比值指标|BIR/BWR（球囊比值指标）]]（1 源）
+- [[概念/冠脉风险区crz|冠脉风险区（CRZ）]]（1 源）
+- [[概念/laocra-frame-alignment-透视|LAO/CRA frame alignment 透视]]（1 源）
+- [[概念/器械脱落|器械脱落]]（1 源）
+- [[概念/复杂解剖m-teer|复杂解剖（M-TEER）]]（1 源）
+- [[概念/batman-swatt-技术|BATMAN-SWATT 技术]]（1 源）
+- [[概念/瓣中瓣-tmvr经导管二尖瓣置换生物瓣内|瓣中瓣 TMVR（经导管二尖瓣置换，生物瓣内）]]（1 源）
+- [[概念/球囊房间隔造口术|球囊房间隔造口术]]（1 源）
+- [[概念/体内电外科开窗in-vivo-electrosurgical-fenestration|体内电外科开窗（In-Vivo Electrosurgical Fenestration）]]（1 源）
+- [[概念/经导管主动脉根部腔内修复|经导管主动脉根部腔内修复]]（1 源）
+- [[概念/excimer-laser准分子激光|Excimer laser（准分子激光）]]（1 源）
+- [[概念/经心尖可调弯鞘trans-apical-steerable-sheath|经心尖可调弯鞘（Trans-Apical Steerable Sheath）]]（1 源）
+- [[概念/双支架对称设计|双支架对称设计]]（1 源）
+- [[概念/有利临床反应favorable-clinical-response|有利临床反应（Favorable Clinical Response）]]（1 源）
+- [[概念/nt-probnp-轨迹|NT-proBNP 轨迹]]（1 源）
+- [[概念/止血与血栓形成解耦|止血与血栓形成解耦]]（1 源）
+- [[概念/经腋动脉tavi|经腋动脉TAVI]]（1 源）
+- [[概念/双瓣膜经皮介入|双瓣膜经皮介入]]（1 源）
+- [[概念/瓣膜血流动力学耐久性|瓣膜血流动力学耐久性]]（1 源）
+- [[概念/节点测量node-analysis|节点测量（Node Analysis）]]（1 源）
+- [[概念/immortal-time-bias|immortal time bias]]（1 源）
+- [[概念/拥堵分型|拥堵分型]]（1 源）
+- [[概念/percentage-resizing|percentage resizing]]（1 源）
+- [[概念/firth-bias-reduced-logistic-regression|Firth bias-reduced logistic regression]]（1 源）
+- [[概念/二尖瓣成形环狭窄|二尖瓣成形环狭窄]]（1 源）
+- [[概念/锁骨下入路-tavi|锁骨下入路 TAVI]]（1 源）
+- [[概念/flip-n-flex-技术|flip-n-flex 技术]]（1 源）
+- [[概念/锁骨下动脉夹层|锁骨下动脉夹层]]（1 源）
+- [[概念/euroscore|EuroSCORE]]（1 源）
+- [[概念/二次球囊充盈复位|二次球囊充盈复位]]（1 源）
+- [[概念/左房固定式-tmvr|左房固定式 TMVR]]（1 源）
+- [[概念/二尖瓣反流|二尖瓣反流]]（1 源）
+- [[概念/overlap-weighting|Overlap Weighting]]（1 源）
+- [[概念/继发性三尖瓣反流|继发性三尖瓣反流]]（1 源）
+- [[概念/经导管主动脉瓣置换术|经导管主动脉瓣置换术]]（1 源）
+- [[概念/瓣叶钙化|瓣叶钙化]]（1 源）
+- [[概念/股深动脉入路|股深动脉入路]]（1 源）
+- [[概念/对侧顺行支架辅助闭合|对侧顺行支架辅助闭合]]（1 源）
+- [[概念/慢性完全闭塞|慢性完全闭塞]]（1 源）
+- [[概念/分期结构性心脏病策略|分期结构性心脏病策略]]（1 源）
+- [[概念/snaring|Snaring]]（1 源）
+- [[概念/外置瓣叶外科瓣|外置瓣叶外科瓣]]（1 源）
+- [[概念/瓣环逆重构|瓣环逆重构]]（1 源）
+- [[概念/平行钢丝技术|平行钢丝技术]]（1 源）
+- [[概念/chord-free-path无腱索路径|chord-free path（无腱索路径）]]（1 源）
+- [[概念/sesame-splay室间隔切割张开评估|SESAME splay（室间隔切割张开评估）]]（1 源）
+- [[概念/v-形切割构型|V 形切割构型]]（1 源）
+- [[概念/sts-tricuspid-score|STS Tricuspid score]]（1 源）
+- [[概念/孤立三尖瓣手术|孤立三尖瓣手术]]（1 源）
+- [[概念/neocarina新分叉重建|NeoCarina（新分叉重建）]]（1 源）
+- [[概念/混合腔内血管重建|混合腔内血管重建]]（1 源）
+- [[概念/tavr-重大血管并发症|TAVR 重大血管并发症]]（1 源）
+- [[概念/mvarc-成功定义|MVARC 成功定义]]（1 源）
+- [[概念/风湿性二尖瓣病变|风湿性二尖瓣病变]]（1 源）
+- [[概念/分阶段释放|分阶段释放]]（1 源）
+- [[概念/valve-to-aorta-distance|valve-to-aorta distance]]（1 源）
+- [[概念/in-vivo-ct-sizing|in-vivo CT sizing]]（1 源）
+- [[概念/short-in-tall-tav-in-tav|Short-in-Tall TAV-in-TAV]]（1 源）
+- [[概念/限制性立方样条分析|限制性立方样条分析]]（1 源）
+- [[概念/髂股动脉迂曲|髂股动脉迂曲]]（1 源）
+- [[概念/paving-and-cracking|paving and cracking]]（1 源）
+- [[概念/经腋入路|经腋入路]]（1 源）
+- [[概念/hostile-score|HOSTILE score]]（1 源）
+- [[概念/干式闭合|干式闭合]]（1 源）
+- [[概念/心脏反向重构|心脏反向重构]]（1 源）
+- [[概念/器械血栓|器械血栓]]（1 源）
+- [[概念/ra-v-波|RA V 波]]（1 源）
+- [[概念/rv-重构|RV 重构]]（1 源）
+- [[概念/rv-dpdt|RV dp/dt]]（1 源）
+- [[概念/非比例风险|非比例风险]]（1 源）
+- [[概念/fitting-index|Fitting Index]]（1 源）
+- [[概念/redo-savr|redo SAVR]]（1 源）
+- [[概念/非比例风险函数|非比例风险函数]]（1 源）
+- [[概念/心包积液|心包积液]]（1 源）
+- [[概念/thv-迟发迁移|THV 迟发迁移]]（1 源）
+- [[概念/间隔减容术|间隔减容术]]（1 源）
+- [[概念/二尖瓣-valve-in-valve|二尖瓣 valve-in-valve]]（1 源）
+- [[概念/tavr-in-tavr-in-savr|TAVR-in-TAVR-in-SAVR]]（1 源）
+- [[概念/瓣内ice引导|瓣内ICE引导]]（1 源）
+- [[概念/vka治疗|VKA治疗]]（1 源）
+- [[概念/4d-ct瓣叶血栓评估|4D-CT瓣叶血栓评估]]（1 源）
+- [[概念/tr定量评估|TR定量评估]]（1 源）
+- [[概念/3d-planimetry|3D planimetry]]（1 源）
+- [[概念/多瓣膜病分期介入|多瓣膜病分期介入]]（1 源）
+- [[概念/havb|HAVB]]（1 源）
+- [[概念/传导系统起搏|传导系统起搏]]（1 源）
+- [[概念/jailed-lead|jailed lead]]（1 源）
+- [[概念/batman-like技术|BATMAN-like技术]]（1 源）
+- [[概念/tavi后急性ar|TAVI后急性AR]]（1 源）
+- [[概念/舒张压等压征|舒张压等压征]]（1 源）
+- [[概念/pigtail导管瓣叶松动术|pigtail导管瓣叶松动术]]（1 源）
+- [[概念/人工瓣叶不动|人工瓣叶不动]]（1 源）
+- [[概念/valve-in-valve-implantation|valve-in-valve implantation]]（1 源）
+- [[概念/early-clinical-evaluation|Early Clinical Evaluation]]（1 源）
+- [[概念/thv-deformation|THV deformation]]（1 源）
+- [[概念/neosinus-volume-index|neosinus volume index]]（1 源）
+- [[概念/deformation-index|deformation index]]（1 源）
+- [[概念/预防性永久起搏器|预防性永久起搏器]]（1 源）
+- [[概念/hgavb|HGAVB]]（1 源）
+- [[概念/风险分层|风险分层]]（1 源）
+- [[概念/医生改良器械|医生改良器械]]（1 源）
+- [[概念/jena-瓣|JENA 瓣]]（1 源）
+- [[概念/pvl-skirt|PVL skirt]]（1 源）
+- [[概念/围手术期导线管理|围手术期导线管理]]（1 源）
+- [[概念/无导线心脏起搏器|无导线心脏起搏器]]（1 源）
+- [[概念/3d-planimetry-eroa|3D planimetry EROA]]（1 源）
+- [[概念/hfmref|HFmrEF]]（1 源）
+- [[概念/血流动力学显影效应|血流动力学显影效应]]（1 源）
+- [[概念/速度比di|速度比（DI）]]（1 源）
+- [[概念/ham|HAM]]（1 源）
+- [[概念/thvt|THVT]]（1 源）
+- [[概念/继发性mr分级esc新标准|继发性MR分级（ESC新标准）]]（1 源）
+- [[概念/急性手术成功|急性手术成功]]（1 源）
+- [[概念/心衰住院|心衰住院]]（1 源）
+- [[概念/pmr起搏器恢复|PMR（起搏器恢复）]]（1 源）
+- [[概念/多变量-logistic-回归|多变量 logistic 回归]]（1 源）
+- [[概念/等容舒张isovolumic-relaxation|等容舒张（Isovolumic Relaxation）]]（1 源）
+- [[概念/swpva能量效率|SW/PVA（能量效率）]]（1 源）
+- [[概念/conductance-catheter|Conductance catheter]]（1 源）
+- [[概念/causative-tr-vs-incidental-tr|Causative TR vs Incidental TR]]（1 源）
+- [[概念/efs-cookbookplaybook-&-toolkit|EFS Cookbook（Playbook & Toolkit）]]（1 源）
+- [[概念/efs-explorer|EFS Explorer]]（1 源）
+- [[概念/血栓组织化进展|血栓组织化进展]]（1 源）
+- [[概念/18f-gp1|18F-GP1]]（1 源）
+- [[概念/生物瓣退变病理进展|生物瓣退变（病理进展）]]（1 源）
+- [[概念/晚期糖基化终产物age|晚期糖基化终产物（AGE）]]（1 源）
+- [[概念/混合性二尖瓣反流|混合性二尖瓣反流]]（1 源）
+- [[概念/ncc-植入深度|NCC 植入深度]]（1 源）
+- [[概念/膜状室间隔长度|膜状室间隔长度]]（1 源）
+- [[概念/多变量二元-logistic-回归|多变量二元 Logistic 回归]]（1 源）
+- [[概念/心脏移植桥接|心脏移植桥接]]（1 源）
+- [[概念/ar-专用-tavi-器械|AR 专用 TAVI 器械]]（1 源）
+- [[概念/lvad-降速策略|LVAD 降速策略]]（1 源）
+- [[概念/激光鞘导线拔除|激光鞘导线拔除]]（1 源）
+- [[概念/a-类-vs-b-类器械分类|A 类 vs B 类器械分类]]（1 源）
+- [[概念/medicare-覆盖|Medicare 覆盖]]（1 源）
+- [[概念/mou-协作框架|MOU 协作框架]]（1 源）
+- [[概念/多瓣膜病治疗决策|多瓣膜病治疗决策]]（1 源）
+- [[概念/组织模拟模型|组织模拟模型]]（1 源）
+- [[概念/avr|AVR]]（1 源）
+- [[概念/保留主动脉瓣手术|保留主动脉瓣手术]]（1 源）
+- [[概念/off-label-tavr用于纯ar|off-label TAVR用于纯AR]]（1 源）
+- [[概念/房间隔穿刺规划|房间隔穿刺规划]]（1 源）
+- [[概念/s-icd|S-ICD]]（1 源）
+- [[概念/连合区导线放置|连合区导线放置]]（1 源）
+- [[概念/3d-tte导线定位|3D TTE导线定位]]（1 源）
+- [[概念/关键性试验pivotal-trial|关键性试验（Pivotal Trial）]]（1 源）
+- [[概念/fmea失效模式与影响分析|FMEA（失效模式与影响分析）]]（1 源）
+- [[概念/uade未预期不良器械效应|UADE（未预期不良器械效应）]]（1 源）
+- [[概念/可扩展性scalability|可扩展性（Scalability）]]（1 源）
+- [[概念/dsmb数据安全监查委员会|DSMB（数据安全监查委员会）]]（1 源）
+- [[概念/m-teer-解剖复杂性分层|M-TEER 解剖复杂性分层]]（1 源）
+- [[概念/2d-ice-引导-laac|2D ICE 引导 LAAC]]（1 源）
+- [[概念/ice-tee-角度对应|ICE-TEE 角度对应]]（1 源）
+- [[概念/基于规则的-nlp-分类|基于规则的 NLP 分类]]（1 源）
+- [[概念/传导障碍起搏器植入|传导障碍/起搏器植入]]（1 源）
+- [[概念/normalized-circulationnc|Normalized Circulation（NC）]]（1 源）
+- [[概念/halt-ct-影像鉴别诊断|HALT CT 影像鉴别诊断]]（1 源）
+- [[概念/neo-sinus|neo-sinus]]（1 源）
+- [[概念/单导引双瓣-teer-策略|单导引双瓣 TEER 策略]]（1 源）
+- [[概念/ivl-ba-basilica|IVL BA-BASILICA]]（1 源）
+- [[概念/经食管超声心动图|经食管超声心动图]]（1 源）
+- [[概念/有创血流动力学评估|有创血流动力学评估]]（1 源）
+- [[概念/ms-drg|MS-DRG]]（1 源）
+- [[概念/房颤消融|房颤消融]]（1 源）
+- [[概念/替代入路|替代入路]]（1 源）
+- [[概念/髂动脉夹层|髂动脉夹层]]（1 源）
+- [[概念/逆向心室重构|逆向心室重构]]（1 源）
+- [[概念/缩流宽度|缩流宽度]]（1 源）
+- [[概念/乳头肌移位|乳头肌移位]]（1 源）
+- [[概念/室间隔移位|室间隔移位]]（1 源）
+- [[概念/目的治疗-lvad|目的治疗 LVAD]]（1 源）
+- [[概念/血流动力学相互依赖|血流动力学相互依赖]]（1 源）
+- [[概念/室间依赖|室间依赖]]（1 源）
+- [[概念/mvarc-出血|MVARC 出血]]（1 源）
+- [[概念/tavr-后迟发性传导异常|TAVR 后迟发性传导异常]]（1 源）
+- [[概念/主动脉瓣反流|主动脉瓣反流]]（1 源）
+- [[概念/心脏-ct-瓣环测量|心脏 CT 瓣环测量]]（1 源）
+- [[概念/lvef-负荷依赖性|LVEF 负荷依赖性]]（1 源）
+- [[概念/fmr-与-dmr|FMR 与 DMR]]（1 源）
+- [[概念/leaflet-excursion|Leaflet Excursion]]（1 源）
+- [[概念/lv-strain|LV Strain]]（1 源）
+- [[概念/ancova|ANCOVA]]（1 源）
+- [[概念/跨瓣流率|跨瓣流率]]（1 源）
+- [[概念/t-teer-术中成像流程算法|T-TEER 术中成像流程算法]]（1 源）
+- [[概念/over-riding-aorta|Over-riding Aorta]]（1 源）
+- [[概念/leaflet-bounce|Leaflet Bounce]]（1 源）
+- [[概念/septal-trap|Septal Trap]]（1 源）
+- [[概念/bio-bentall|Bio-Bentall]]（1 源）
+- [[概念/flail-leaflet|Flail Leaflet]]（1 源）
+- [[概念/closing-volume-jets|Closing Volume Jets]]（1 源）
+- [[概念/rv-lead-extraction|RV Lead Extraction]]（1 源）
+- [[概念/二尖瓣脱垂|二尖瓣脱垂]]（1 源）
+- [[概念/mida-q-mortality-risk-score|MIDA-Q Mortality Risk Score]]（1 源）
+- [[概念/clinical-valve-thrombosis|Clinical Valve Thrombosis]]（1 源）
+- [[概念/halt-分级|HALT 分级]]（1 源）
+- [[概念/口服抗凝治疗|口服抗凝治疗]]（1 源）
+- [[概念/瓣架扩张不足|瓣架扩张不足]]（1 源）
+- [[概念/连合柱高度法|连合柱高度法]]（1 源）
+- [[概念/true-dilatation-球囊|True Dilatation 球囊]]（1 源）
+- [[概念/pinwheeling-index|Pinwheeling Index]]（1 源）
+- [[概念/起搏导线复位|起搏导线复位]]（1 源）
+- [[概念/三尖瓣反流定量|三尖瓣反流定量]]（1 源）
+- [[概念/经皮二尖瓣球囊成形|经皮二尖瓣球囊成形]]（1 源）
+- [[概念/lars|LARS]]（1 源）
+- [[概念/多腔室心肌形变成像|多腔室心肌形变成像]]（1 源）
+- [[概念/halt-score|HALT score]]（1 源）
+- [[概念/交界不对合|交界不对合]]（1 源）
+- [[概念/偏心展开|偏心展开]]（1 源）
+- [[概念/valve-fracture|valve fracture]]（1 源）
+- [[概念/astato-wire|Astato wire]]（1 源）
+- [[概念/非缺血性扩张型心肌病|非缺血性扩张型心肌病]]（1 源）
+- [[概念/正性肌力药依赖|正性肌力药依赖]]（1 源）
+- [[概念/cathedral|CATHEDRAL]]（1 源）
+- [[概念/leaflet-tethering|Leaflet tethering]]（1 源）
+- [[概念/leaflet-to-annulus-index|Leaflet-to-annulus index]]（1 源）
+- [[概念/tr-heart-team|TR Heart team]]（1 源）
+- [[概念/macms|MAC/MS]]（1 源）
+- [[概念/pbmv|PBMV]]（1 源）
+- [[概念/facspap|FAC/SPAP]]（1 源）
+- [[概念/rv-表型分层|RV 表型分层]]（1 源）
+- [[概念/瓣叶新生内膜形成|瓣叶新生内膜形成]]（1 源）
+- [[概念/血流动力学性瓣膜退化|血流动力学性瓣膜退化]]（1 源）
+- [[概念/supra-aortic-banding|Supra-aortic banding]]（1 源）
+- [[概念/胶原沉积|胶原沉积]]（1 源）
+- [[概念/炎症细胞浸润|炎症细胞浸润]]（1 源）
+- [[概念/绵羊-tavi-临床前模型|绵羊 TAVI 临床前模型]]（1 源）
+- [[概念/导管消融|导管消融]]（1 源）
+- [[概念/瓣膜尺寸偏小|瓣膜尺寸偏小]]（1 源）
+- [[概念/redo-tavi-可行性|redo TAVI 可行性]]（1 源）
+- [[概念/根部扩大术|根部扩大术]]（1 源）
+- [[概念/室间隔缺损|室间隔缺损]]（1 源）
+- [[概念/gerbode-缺损|Gerbode 缺损]]（1 源）
+- [[概念/围手术期超声心动图|围手术期超声心动图]]（1 源）
+- [[概念/经导管主动脉瓣反流治疗|经导管主动脉瓣反流治疗]]（1 源）
+- [[概念/经导管三尖瓣环成形术|经导管三尖瓣环成形术]]（1 源）
+- [[概念/疗效丧失|疗效丧失]]（1 源）
+- [[概念/rca-穿孔|RCA 穿孔]]（1 源）
+- [[概念/navitor-tav|Navitor TAV]]（1 源）
+- [[概念/multiflex-sheath|MultiFlex Sheath]]（1 源）
+- [[概念/拉拽测试|拉拽测试]]（1 源）
+- [[概念/瓣环血肿|瓣环血肿]]（1 源）
+- [[概念/二尖瓣球囊成形术|二尖瓣球囊成形术]]（1 源）
+- [[概念/纯主动脉瓣关闭不全artavr|纯主动脉瓣关闭不全（AR）TAVR]]（1 源）
+- [[概念/瓣叶定位器锚定|瓣叶定位器锚定]]（1 源）
+- [[概念/心室性功能性二尖瓣反流|心室性功能性二尖瓣反流]]（1 源）
+- [[概念/血流动力学指导的心衰管理|血流动力学指导的心衰管理]]（1 源）
+- [[概念/fisher-精确检验|Fisher 精确检验]]（1 源）
+- [[概念/预扩张与后扩张策略|预扩张与后扩张策略]]（1 源）
+- [[概念/瓣膜植入深度|瓣膜植入深度]]（1 源）
+- [[概念/经皮球囊二尖瓣交界分离术pbmc|经皮球囊二尖瓣交界分离术（PBMC）]]（1 源）
+- [[概念/固定性重度肺动脉高压|固定性重度肺动脉高压]]（1 源）
+- [[概念/风湿性二尖瓣狭窄|风湿性二尖瓣狭窄]]（1 源）
+- [[概念/tavr-后急性二尖瓣反流|TAVR 后急性二尖瓣反流]]（1 源）
+- [[概念/异常乳头肌插入|异常乳头肌插入]]（1 源）
+- [[概念/主动脉-二尖瓣幕|主动脉-二尖瓣幕]]（1 源）
+- [[概念/亚临床瓣叶血栓slt|亚临床瓣叶血栓（SLT）]]（1 源）
+- [[概念/redo-tavr-冠脉阻塞风险|redo-TAVR 冠脉阻塞风险]]（1 源）
+- [[概念/出院前-tte经胸超声心动图|出院前 TTE（经胸超声心动图）]]（1 源）
+- [[概念/残余-mr-分级一致性|残余 MR 分级一致性]]（1 源）
+- [[概念/瓣叶保持臂leaflet-capture-arms|瓣叶保持臂（Leaflet Capture Arms）]]（1 源）
+- [[概念/干组织瓣叶技术|干组织瓣叶技术]]（1 源）
+- [[概念/device-success器械成功|device success（器械成功）]]（1 源）
+- [[概念/二尖瓣叶穿孔经皮封堵|二尖瓣叶穿孔经皮封堵]]（1 源）
+- [[概念/agilis-可调弯鞘|Agilis 可调弯鞘]]（1 源）
+- [[概念/tavr-尺寸选择|TAVR 尺寸选择]]（1 源）
+- [[概念/导丝位置确认|导丝位置确认]]（1 源）
+- [[概念/y-incision-aae|Y-incision AAE]]（1 源）
+- [[概念/治疗无益futility|治疗无益（Futility）]]（1 源）
+- [[概念/经导管二尖瓣缘对缘修复|经导管二尖瓣缘对缘修复]]（1 源）
+- [[概念/二尖瓣跨瓣压差|二尖瓣跨瓣压差]]（1 源）
+- [[概念/cox-生存模型|Cox 生存模型]]（1 源）
+- [[概念/瓣膜再干预|瓣膜再干预]]（1 源）
+- [[概念/瓣环接触|瓣环接触]]（1 源）
+- [[概念/术中瓣膜尺寸调整|术中瓣膜尺寸调整]]（1 源）
+- [[概念/交界对齐|交界对齐]]（1 源）
+- [[概念/独立瓣叶捕获|独立瓣叶捕获]]（1 源）
+- [[概念/升主动脉tevar|升主动脉TEVAR]]（1 源）
+- [[概念/冠脉分支保护|冠脉分支保护]]（1 源）
+- [[概念/突破性器械认定|突破性器械认定]]（1 源）
+- [[概念/2017-ase-tr定量流程|2017 ASE TR定量流程]]（1 源）
+- [[概念/心室功能性tr|心室功能性TR]]（1 源）
+- [[概念/ttvr治疗窗口|TTVR治疗窗口]]（1 源）
+- [[概念/加速时间射血时间|加速时间/射血时间]]（1 源）
+- [[概念/everest标准|EVEREST标准]]（1 源）
+- [[概念/帐篷高度|帐篷高度]]（1 源）
+- [[概念/eurotr疾病分期|EuroTR疾病分期]]（1 源）
+- [[概念/lvot-oversizing|LVOT oversizing]]（1 源）
+- [[概念/主动脉反流分数|主动脉反流分数]]（1 源）
+- [[概念/环破裂|环破裂]]（1 源）
+- [[概念/snare辅助过瓣|snare辅助过瓣]]（1 源）
+- [[概念/smvr|SMVr]]（1 源）
+- [[概念/prisma-2020|PRISMA 2020]]（1 源）
+- [[概念/慢性完全封堵|慢性完全封堵]]（1 源）
+- [[概念/经导管瓣膜欠扩张|经导管瓣膜欠扩张]]（1 源）
+- [[概念/支架内再狭窄|支架内再狭窄]]（1 源）
+- [[概念/vena-contractavc|vena contracta（VC）]]（1 源）
+- [[概念/ava主动脉瓣口面积|AVA（主动脉瓣口面积）]]（1 源）
+- [[概念/3d-mpr-瓣环测量|3D MPR 瓣环测量]]（1 源）
+- [[概念/肝静脉收缩期反流|肝静脉收缩期反流]]（1 源）
+- [[概念/rv-纵向应变|RV 纵向应变]]（1 源）
+- [[概念/yang-主动脉根部扩大术|Yang 主动脉根部扩大术]]（1 源）
+- [[概念/封堵器经导管闭合假性动脉瘤|封堵器经导管闭合假性动脉瘤]]（1 源）
+- [[概念/双向彩色多普勒|双向彩色多普勒]]（1 源）
+- [[概念/cta-解剖反流口面积|CTA 解剖反流口面积]]（1 源）
+- [[概念/ct-3d-rvef|CT 3D-RVEF]]（1 源）
+- [[概念/lead-leaflet-impingement|lead-leaflet impingement]]（1 源）
+- [[概念/ivc-ta-高度|IVC-TA 高度]]（1 源）
+- [[概念/g-a-l-i-o-框架|G-A-L-I-O 框架]]（1 源）
+- [[概念/定量-doppler-tr-评估|定量 Doppler TR 评估]]（1 源）
+- [[概念/导线操作制造可处理-gap|导线操作制造可处理 gap]]（1 源）
+- [[概念/经腔静脉-tavr|经腔静脉 TAVR]]（1 源）
+- [[概念/封堵器脱位|封堵器脱位]]（1 源）
+- [[概念/主动脉-腔静脉瘘|主动脉-腔静脉瘘]]（1 源）
+- [[概念/经腔静脉通路压力梯度|经腔静脉通路压力梯度]]（1 源）
+- [[概念/type-1-closure|Type 1 closure]]（1 源）
+- [[概念/无症状重度主动脉瓣狭窄-tavr|无症状重度主动脉瓣狭窄 TAVR]]（1 源）
+- [[概念/持续质量改进流程|持续质量改进流程]]（1 源）
+- [[概念/tavr-operator-量要求|TAVR operator 量要求]]（1 源）
+- [[概念/球囊主动脉瓣成形|球囊主动脉瓣成形]]（1 源）
+- [[概念/经腔通路|经腔通路]]（1 源）
+- [[概念/静脉汇效应|静脉汇效应]]（1 源）
+- [[概念/中腔梯度|中腔梯度]]（1 源）
+- [[概念/能量损失分析|能量损失分析]]（1 源）
+- [[概念/无径向力锚定|无径向力锚定]]（1 源）
+- [[概念/装置时间|装置时间]]（1 源）
+- [[概念/cec-裁定复合终点|CEC 裁定复合终点]]（1 源）
+- [[概念/fda-breakthrough-device-designation|FDA Breakthrough Device Designation]]（1 源）
+- [[概念/massivetorrential-tr|Massive/Torrential TR]]（1 源）
+- [[概念/dicrotic-ar-index|Dicrotic AR index]]（1 源）
+- [[概念/无线血流动力学监测|无线血流动力学监测]]（1 源）
+- [[概念/xenfi|XenFi]]（1 源）
+- [[概念/物理智能physical-intelligence|物理智能（Physical Intelligence）]]（1 源）
+- [[概念/二尖瓣-teerm-teer|二尖瓣 TEER（M-TEER）]]（1 源）
+- [[概念/夹间脱垂|夹间脱垂]]（1 源）
+- [[概念/左房压lap|左房压（LAP）]]（1 源）
+- [[概念/混合夹策略|混合夹策略]]（1 源）
+- [[概念/pull-push-pull-push-技术|Pull-Push-Pull-Push 技术]]（1 源）
+- [[概念/器械缠绕并发症|器械缠绕并发症]]（1 源）
+- [[概念/alignment-check对齐检查|alignment check（对齐检查）]]（1 源）
+- [[概念/经导管左室重建|经导管左室重建]]（1 源）
+- [[概念/心尖反常运动dyskinesis|心尖反常运动（dyskinesis）]]（1 源）
+- [[概念/right-device-right-patient|Right Device-Right Patient]]（1 源）
+- [[概念/峰值-vo2|峰值 VO2]]（1 源）
+- [[概念/腔静脉反流cr|腔静脉反流（CR）]]（1 源）
+- [[概念/肝腔静脉反流hepatocaval-reflux|肝腔静脉反流（HepatoCaval Reflux）]]（1 源）
+- [[概念/双腔静脉瓣策略|双腔静脉瓣策略]]（1 源）
+
+## 来源（862）
+- [[来源/001-prosthetic-valve-endocarditis-following-surgical|外科主动脉瓣置换术后人工瓣膜心内膜炎]]
+- [[来源/002-case-resolution|mTEER后复发性二尖瓣反流：病例结论]]
+- [[来源/003-a-novel-platform-technology-for-pfo-sealing-pre|PFO密封新平台技术：临床前与早期首次人体结果]]
+- [[来源/004-tmvr-after-teer-challenges-in-dock-stability-and|TEER后TMVR：Dock稳定性挑战与术中救援]]
+- [[来源/005-beyond-hard-clinical-endpoints-is-quality-of-lif|超越硬临床终点：TTVI后生活质量改善是否足够？]]
+- [[来源/006-a-surgical-mis-step-remnant-laa-broad-base-15mm|外科误步：CABG后外科左心耳闭合残余左心耳]]
+- [[来源/007-case-presentation-elasta-clip-followed-by-tmvr|ELASTA-Clip 后 TMVR 病例：mTEER 后复发 MR]]
+- [[来源/008-bioprosthetic-valve-fracture-or-modification-in|小号外科瓣 ViV 中生物瓣断裂或改形的长期结局影响]]
+- [[来源/009-case-resolution|病例结局：手术取夹后二尖瓣修复]]
+- [[来源/010-a-simple-solution-for-cied-related-tricuspid-reg|CIED 导线相关三尖瓣反流的简单解决方案：Trajectory Guide]]
+- [[来源/011-recurrent-minoca-after-temporary-dapt-interrupti|TAVR 后短暂停用 DAPT 后的复发性 MINOCA]]
+- [[来源/012-management-of-severe-paravalvular-leak-during-sa|Sapien M3 TMVR 术中严重瓣周漏的 Amplatzer 血管塞处理]]
+- [[来源/013-feasibility-of-valve-in-valve-tavr-after-biopros|生物瓣 SAVR 合并升主动脉置换后 ViV-TAVR 的可行性]]
+- [[来源/014-characterizing-clinical-success-after-ttvi-balan|TTVI 后临床成功的界定：平衡风险与获益取舍]]
+- [[来源/015-image-guidance-for-treatment-decisions-and-plann|PDL 封堵治疗决策与规划的影像引导]]
+- [[来源/016-the-kardiapsi-bav-system-precise-high-pressure-b|KardiaPSI BAV 系统：用于 TAVR 的精确高压球囊扩张]]
+- [[来源/017-case-presentation-surgical-clip-removal-followed|外科夹闭器移除后行二尖瓣修复病例]]
+- [[来源/018-case-presentation-2-tavr-valve-pvl-closure-using|使用 Tootsie Roll 技术关闭 TAVR 瓣周漏病例]]
+- [[来源/019-unexpected-neo-lvot-obstruction-after-valve-in-v|Unexpected Neo-LVOT Obstruction After Valve-in-Valve TMVR Despite Reassuring Pre-Procedural Neo-LVOT Assessment]]
+- [[来源/020-protamine-reaction-induced-acute-right-ventricul|Protamine Reaction-induced Acute Right Ventricular Failure after TAVR, treated with RP Impella]]
+- [[来源/021-case-resolution|Recurrent MR post mTEER: Case Resolution and Reintervention Strategies]]
+- [[来源/022-transcathter-aortic-valve-in-valve-replacement-f|Valve-in-Valve TAVR for Failed Freestyle Stentless Bioprosthesis: The Michigan Experience]]
+- [[来源/023-left-ventricle-pacing-algorithm-during-tavr-solo|Left Ventricular Pacing Algorithm During TAVR (SoloPace): Program Update]]
+- [[来源/024-thrombus-in-the-shadow-of-the-valve-a-case-of-po|Thrombus in the Shadow of the Valve: A Case of Post-TAVR Thrombus]]
+- [[来源/025-transcatheter-mitral-valve-in-valve-in-valve-imp|退化生物二尖瓣的经导管二尖瓣中瓣中瓣植入：术中瓣膜栓塞病例]]
+- [[来源/026-advanced-imaging-ct-cmr-after-ttvi-assessing-res|TTVI后高级影像（CT/CMR）：评估残余TR、右室重构及更多]]
+- [[来源/027-ct-assessment-of-device-related-thrombosis-is-th|器械相关血栓的CT评估：这是DRT还是正常内皮化？]]
+- [[来源/028-case-presentation-redo-m-teer|病例报告：再次M-TEER（含redo TAVR实际内容）]]
+- [[来源/029-case-resolution|病例解决（LAMPOON与AVP II封堵）]]
+- [[来源/030-real-time-fluoroscopic-assessment-of-left-main-o|Redo-TAVR左主干阻塞风险的实时透视评估]]
+- [[来源/031-early-outcomes-of-transcatheter-vacuum-assisted|经导管真空辅助左心和主动脉弓肿块清除的早期结局]]
+- [[来源/032-management-of-balloon-rupture-during-valve-in-va|瓣中瓣中瓣TMVR中球囊破裂的处理]]
+- [[来源/033-when-tavr-fails-valve-in-valve-using-the-unicorn|TAVR失败后：Evolut R退化重度主动脉反流，采用UNICORN技术和SAPIEN 3 Ultra Resilia行瓣中瓣]]
+- [[来源/034-case-presentation-1-challenging-mitral-paravalvu|病例1：使用AVP关闭复杂二尖瓣瓣周漏]]
+- [[来源/035-case-presentation|病例呈现：外科二尖瓣修复失败的瓣中环病例]]
+- [[来源/036-echocardiographic-assessment-of-residual-tr-afte|TTVI后残余三尖瓣反流的超声评估：挑战与陷阱]]
+- [[来源/037-impact-of-true-id-and-valve-fracture-on-gradient|True ID 与瓣膜破裂对 Myval 瓣中瓣 TAVI 后梯度的影响]]
+- [[来源/038-why-is-there-still-contrast-in-this-appendage-ct|为什么这个左心耳里还有对比剂？LAAO 后 CT 评估]]
+- [[来源/039-novel-vascular-closure-device-for-large-bore-vas|用于结构性心脏介入大口径血管闭合的新型装置 xDot]]
+- [[来源/040-acute-aortic-valve-syndrome-my-personal-checklis|急性主动脉瓣综合征：我的个人清单]]
+- [[来源/041-minimizing-complications-of-transcatheter-mitral|减少经导管二尖瓣置换并发症：我的个人清单]]
+- [[来源/042-posterior-leaflet-restoration-for-secondary-mr-p|继发性 MR 后叶修复（Polares）：临床经验和长期结果]]
+- [[来源/043-case-resolution|病例结局]]
+- [[来源/044-percutaneous-electrocautery-assisted-mechanical|经皮电灼辅助机械抽吸右房转移性生殖细胞肿瘤]]
+- [[来源/045-interventional-perspective|介入视角：继发性 MR 合并 TR 的分期与同期治疗]]
+- [[来源/046-ttvi-conundrum-does-every-patient-need-to-get-to|TTVI 难题：每位患者都必须把残余三尖瓣反流降到轻度吗？]]
+- [[来源/047-concomitant-patent-foramen-ovale-and-paroxysmal|合并卵圆孔未闭和阵发性房颤的栓塞性卒中患者：最佳策略是什么？]]
+- [[来源/048-case-resolution|病例解析：二叶式主动脉瓣合并重度主动脉反流行 TAVR]]
+- [[来源/049-impact-of-residual-tricuspid-regurgitation-after|经导管三尖瓣治疗后残余三尖瓣反流对右、左心室力学的影响]]
+- [[来源/050-transcatheter-aortic-valve-replacement-in-failed|失败经导管瓣膜与失败外科生物瓣中的经导管主动脉瓣置换：系统综述和 Meta 分析]]
+- [[来源/051-surgical-perspective|外科视角：重度继发性 MR 和 TR 的分期还是同期治疗]]
+- [[来源/052-case-presentation|病例展示：重度继发性 MR 和 TR]]
+- [[来源/053-transseptal-transcatheter-mitral-valve-chordal-r|经房间隔经导管二尖瓣腱索修复：CardioMech 瓣膜修复系统]]
+- [[来源/054-transcatheter-tricuspid-valve-repair-via-alterna|IVC 中断并奇静脉回流患者经替代入路行经导管三尖瓣修复]]
+- [[来源/055-percutaneous-closure-of-a-hemodynamically-signif|使用 AVP4 经皮封堵血流动力学显著冠状动脉瘘]]
+- [[来源/056-acute-hemodynamic-profiling-and-right-ventricula|急性血流动力学描记与TTVR中右心室功能储备]]
+- [[来源/057-left-ventricular-remodeling-after-redo-transcath|redo-TAVR后左心室重构：首次人体CT分析]]
+- [[来源/058-the-transcatheter-mitral-amend-annuloplasty-syst|经导管二尖瓣AMEND环成形系统：技术更新与早期临床结果]]
+- [[来源/059-case-resolution|病例结局：中度继发性MR的灰区处理]]
+- [[来源/060-ttvr-my-5-procedural-tips-tricks|TTVR：我的5条操作技巧与要点]]
+- [[来源/061-live-pre-recorded-case-presentation-2-transcathe|失败 TEER 后经导管三尖瓣置换（EVOQUE）预录实况病例 2]]
+- [[来源/062-my-patient-s-laao-device-shifted-and-needs-to-be|LAAO 封堵器移位并需取出：最佳处理路径是什么？]]
+- [[来源/063-don-t-be-baffled-tricuspid-transcatheter-valve-e|别被 Baffle 难住：Mustard 术后 D-TGA 患者的经导管三尖瓣缘对缘修复]]
+- [[来源/064-refractory-hypoxemic-respiratory-failure-from-a|正常肺血流动力学下迟发继发孔 ASD 导致难治性低氧性呼吸衰竭]]
+- [[来源/065-interventional-perspective|介入视角：优化 GDMT 后仍持续中重度继发性 MR 的心衰患者]]
+- [[来源/066-heart-failure-perspective|中度继发性二尖瓣反流：心衰视角]]
+- [[来源/067-case-presentation|主动脉反流病例汇报]]
+- [[来源/068-ttvr-update-on-the-clinical-evidence|TTVR：临床证据更新]]
+- [[来源/069-case-presentation|中度继发性二尖瓣反流灰区病例汇报]]
+- [[来源/070-case-resolution|TEE引导TAV-in-SAV治疗重度主动脉反流病例结局]]
+- [[来源/071-comparison-of-right-ventricular-volumes-by-three|3D超声与CT在晚期三尖瓣反流中测量右心室容积的比较]]
+- [[来源/072-the-legacy-of-the-first-valve-procedure-outcomes|首次瓣膜术式的遗产：既往TAVR与既往SAVR后redo SAVR结局比较]]
+- [[来源/073-transcatheter-mitral-valve-repair-using-a-sub-an|Transcatheter Mitral Valve Repair Using a Sub-Annular Spacer (Mitria): Early Clinical Results]]
+- [[来源/074-transjugular-transcatheter-edge-to-edge-tricuspi|Transjugular Transcatheter Edge-to-Edge Tricuspid Valve Repair in a Post-Heart Transplant Patient With Limited Venous Access]]
+- [[来源/075-the-perfect-storm-technical-success-and-clinical|The Perfect Storm: Technical Success and Clinical Reality in Post-MI VSD Closure]]
+- [[来源/076-my-patient-s-laao-device-embolized-what-s-the-tr|我的患者 LAAO 装置栓塞了。按位置处理的算法：左房、左室、主动脉]]
+- [[来源/077-case-resolution|重度继发性二尖瓣反流首次心衰住院：继续优化 GDMT 还是介入？病例结局]]
+- [[来源/078-predictors-of-hypoattenuatted-leaflet-thickening|经导管三尖瓣置换后低衰减瓣叶增厚的预测因素：心脏 CT 分析]]
+- [[来源/079-bovine-vs-porcine-pericardium-microstructure-mec|牛心包 vs 猪心包：微结构、力学反应和耐久性启示]]
+- [[来源/080-interventional-perspective|重度继发性二尖瓣反流首次心衰住院：介入视角]]
+- [[来源/081-the-transcatheter-mitral-neochord-nexus-system-p|经导管二尖瓣 NeoChord NeXuS 系统：退行性二尖瓣反流中的手术可行性和早期结果]]
+- [[来源/082-tricuspid-teer-for-severe-tr-right-heart-failure|LVAD 后重度 TR 与右心衰的三尖瓣 TEER：突破边界]]
+- [[来源/083-transcatheter-closure-of-a-large-adult-patent-du|合并重度肺高压和双心衰的成人巨大动脉导管未闭经导管封堵：Amplatzer Muscular VSD Occluder 的超适应证应用]]
+- [[来源/084-heart-failure-perspective|心力衰竭视角：首次心衰住院后的重度继发性 MR，是继续优化 GDMT 还是介入？]]
+- [[来源/085-t-teer-my-5-procedural-tips-tricks|T-TEER：我的 5 个手术技巧]]
+- [[来源/086-case-presentation|重度继发性二尖瓣反流首次心衰住院：继续优化GDMT还是介入？病例展示]]
+- [[来源/087-case-presentation|TEE引导TAV-in-SAV治疗重度主动脉瓣反流]]
+- [[来源/088-case-resolution|病例解决：左主干阻塞，不能只看冠脉高度]]
+- [[来源/089-secondary-mr-esc-guideline-updates-and-why-they|继发性二尖瓣反流：ESC指南更新及其意义]]
+- [[来源/090-what-do-i-do-for-massive-device-related-thrombus|左心耳封堵器巨大器械相关血栓：药物与非药物处理]]
+- [[来源/091-right-ventricle-to-left-ventricle-t2-blood-pool|Right Ventricle to Left Ventricle T2 Blood Pool Ratio Analysis by CMR: a Novel Marker of Prognosis for Tricuspid Regurgitation Patients]]
+- [[来源/092-t-teer-update-on-the-clinical-evidence|T-TEER Update on the Clinical Evidence]]
+- [[来源/093-leaflet-modification-for-redo-tavr-impact-of-val|Leaflet modification for Redo-TAVR: Impact of Valve Type, Expansion & Failure Mode - A bench study]]
+- [[来源/094-the-transcatheter-carlen-leaflet-enhancement-sys|First-in-Human Experience with the CARLEN System: Early Outcomes with Available 1-Year Follow-up]]
+- [[来源/095-transcatheter-edge-to-edge-repair-of-the-systemi|Transcatheter Edge-to-Edge Repair of the Systemic AV Valve in Atrial Switch TGA]]
+- [[来源/096-adult-congenital-intervention-skills-helpful-in|What I have Learned from Working With Pediatric Congenital Heart Disease Interventionalists]]
+- [[来源/097-case-resolution|病例解决 (Case Resolution) — Atrial Secondary Mitral Regurgitation]]
+- [[来源/098-successful-treatment-of-recurrent-tricuspid-regu|使用新型经导管三尖瓣置换装置成功治疗复发性三尖瓣反流]]
+- [[来源/099-tavi-in-tavi-for-treatment-of-severe-aortic-insu|TAVI-in-TAVI治疗重度主动脉瓣反流和主动脉假性动脉瘤]]
+- [[来源/100-ai-based-planning-and-prediction-models-in-bicus|AI规划与预测模型在二叶瓣TAVR中的应用]]
+- [[来源/101-case-presentation|左主干阻塞：冠脉高度之外的风险 (Left Main Obstruction Beyond Coronary Height)]]
+- [[来源/102-how-to-navigate-across-an-asd-occluder-to-perfor|如何跨越房间隔缺损封堵器完成左心耳封堵 (How to navigate across an ASD occluder to perform LAAC)]]
+- [[来源/103-physiological-ongoing-rv-remodeling-with-vdyne-t|VDyne 经导管三尖瓣置换 1 年：持续生理性右室重构]]
+- [[来源/104-effect-of-a-horizontal-aorta-on-procedural-and-c|水平主动脉对当代 TAVR 程序和临床结局的影响]]
+- [[来源/105-assessing-health-status-benefits-of-ttvi-when-a|安慰剂对照试验不可行时如何评估 TTVI 健康状态获益]]
+- [[来源/106-complex-transcatheter-aortic-valve-interventions|复杂经导管主动脉瓣干预：什么时候外科手术是更好的选择？]]
+- [[来源/107-first-use-of-laplace-ttvr-system-to-eliminate-ma|Laplace TTVR 系统首次用于 SLDA 且瓣叶完整性不足患者以消除大量三尖瓣反流]]
+- [[来源/108-transcarotid-valve-in-valve-tavr-and-percutaneou|经颈动脉瓣中瓣 TAVR 联合经皮左室假性动脉瘤封堵]]
+- [[来源/109-the-challenges-of-crossover-lessons-learned-from|Crossover 的挑战：TRILUMINATE 与三尖瓣 TEER 设备带来的经验]]
+- [[来源/110-prioritizing-rhythm-control-before-valve-interve|瓣膜干预前优先进行节律控制]]
+- [[来源/111-considerations-for-new-bavd-clinical-trials-navi|新二叶式主动脉瓣疾病临床试验设计考量：NAVIGATE 与 BELIEVERS]]
+- [[来源/112-impact-of-transcatheter-tricuspid-valve-replacem|真实世界人群中经导管三尖瓣置换对肝功能和肾功能的影响]]
+- [[来源/113-strategy-to-close-an-laa-that-is-adjacent-to-the|邻近肺动脉的左心耳封堵策略]]
+- [[来源/114-transcatheter-caval-valve-trials-case-study-tric|经导管腔静脉瓣试验案例：TricValve]]
+- [[来源/115-aortic-valve-in-valve-tavr-using-23mm-navitor-vi|Aortic Valve-in-Valve TAVR using 23mm Navitor Vision in 23mm failed Magna Ease and Kinked 28mm Valsalva graft of VSRR]]
+- [[来源/116-multimodality-imaging-with-the-medtronic-ttvr-pl|Multimodality Imaging with the Medtronic TTVR Platform: TEE and 3D-ICE to Guide Procedural Success]]
+- [[来源/117-m-teer-patient-selection-and-outcomes|Atrial Functional Mitral Regurgitation; M-TEER; Patient selection and Outcomes]]
+- [[来源/118-challenging-case-2-self-expanding-valve|Challenging Case #2: Self-Expanding Valve (The Image That Changed The Plan: Valve Selection in Bicuspid AS)]]
+- [[来源/119-single-center-experience-with-transcatheter-tric|Single-Center Experience with Transcatheter Tricuspid Valve Replacement Using the EVOQUE System]]
+- [[来源/120-clinical-outcomes-and-hemodynamic-performance-of|Self-Expanding vs. Balloon-Expandable Valves in TAVI: Clinical Outcomes and Hemodynamic Performance, A Systematic Review and Meta-Analysis]]
+- [[来源/121-transcatheter-tricuspid-valve-replacement-with-v|经 TriClip 修复后采用 VDyne 系统行经导管三尖瓣置换]]
+- [[来源/122-surgical-mitral-repair-indications-and-outcomes|外科二尖瓣修复：适应证与结局——心房功能性二尖瓣反流]]
+- [[来源/123-navigating-difficult-anatomy-shallow-appendages|复杂解剖导航：浅左心耳与宽基底]]
+- [[来源/124-challenging-case-1-balloon-expandable-valve|挑战病例1：球囊扩张瓣——二叶式主动脉瓣TAVR]]
+- [[来源/125-the-ttvr-track-record-30-day-real-world-validati|TTVR的商业化记录：STS/ACC TVT Registry 30天真实世界验证]]
+- [[来源/126-comparison-of-transcatheter-valve-platforms-in-p|小主动脉瓣环患者经导管瓣膜平台比较]]
+- [[来源/127-avoiding-basilica-in-redo-tavr-when-conventional|Redo TAVR 中避免 BASILICA：传统 CT 风险经计算建模重新分层]]
+- [[来源/128-new-ttvr-device-trials-case-study-the-jenscare-l|新型 TTVR 器械试验案例：Jenscare LuX-TTVR 系统]]
+- [[来源/129-decoding-atrial-smr-imaging-based-phenotypes-and|解码心房性继发性二尖瓣反流：基于影像的表型与治疗含义]]
+- [[来源/130-laac-approach-for-persistent-thrombus-in-laa|LAA 持续血栓患者的 LAAC 处理策略]]
+- [[来源/131-age-stratified-symptomatic-outcomes-following-tr|EVOQUE 系统经导管三尖瓣置换后症状结局的年龄分层分析]]
+- [[来源/132-ct-determination-of-tavr-risk-vs-benefit-in-bicu|CT 判定二叶式主动脉瓣 TAVR 风险与获益]]
+- [[来源/133-breaking-the-compromise-better-hemodynamics-with|Breaking the Compromise: Better Hemodynamics Without Excess Risk in Self-Expanding vs. Balloon-Expandable TAVR for Extra-Small Aortic Annuli]]
+- [[来源/134-case-presentation|病例展示：房性继发性二尖瓣反流]]
+- [[来源/135-t-varc-2-guidelines-new-tricuspid-therapies|T-VARC-2 指南与新型三尖瓣疗法]]
+- [[来源/136-pros-and-cons-of-orthotopic-and-hetertopic-ttvr|原位与异位 TTVR 的优缺点：它们会竞争还是共存？]]
+- [[来源/137-how-do-i-prepare-for-aortic-valve-in-valve-proce|How Do I Prepare for Aortic Valve in Valve Procedures]]
+- [[来源/138-electrosurgical-septal-leaflet-liberation-and-tt|Electrosurgical Septal Leaflet Liberation and TTVR for Failed Postero-Septal Tricuspid TEER]]
+- [[来源/139-will-champion-af-broaden-the-scope-of-laac-progr|CHAMPION-AF 会拓宽 LAAC 项目的范围吗？]]
+- [[来源/140-adaptive-coaptation-using-the-croivalve-duo-syst|使用 CROIVALVE Duo 系统自适应对合经皮治疗三尖瓣反流：技术和项目更新]]
+- [[来源/141-valve-thrombosis-after-ttvr-the-triplace-registr|TTVR 后瓣膜血栓：TRIPLACE 注册研究]]
+- [[来源/142-determinants-of-posterior-septal-commissure-lead|后间隔连合导线定位的决定因素：降低 CIED 相关三尖瓣反流]]
+- [[来源/143-pre-procedural-hemodynamic-simulation-to-support|术前血流动力学模拟支持瓣膜治疗决策]]
+- [[来源/144-how-to-manage-local-competition-for-laac|如何管理 LAAC 的本地竞争]]
+- [[来源/145-ai-facilitated-operational-pathways-improving-ef|AI 促进的运营路径：提高效率并降低成本]]
+- [[来源/146-when-the-groins-fail-right-internal-jugular-evoq|腹股沟入路失败时：经右颈内静脉 EVOQUE 三尖瓣置换]]
+- [[来源/147-severe-mitral-paravalvular-leak-closure-using-th|采用新型Tootsie Roll技术封堵重度二尖瓣瓣周漏]]
+- [[来源/148-developing-a-high-functioning-heart-valve-team-a|打造高效心脏瓣膜团队：以患者为中心的方法]]
+- [[来源/149-elliptical-aortic-root-geometry-modulates-leafle|椭圆形主动脉根部几何调节经导管主动脉瓣叶运动与钙化模式：一项计算机模拟研究]]
+- [[来源/150-posterior-septal-commissural-lead-positioning-to|后间隔交界导线定位以减少 CIED 相关三尖瓣反流]]
+- [[来源/151-a-novel-percutaneously-implanted-spacer-to-treat|治疗三尖瓣反流的新型经皮植入间隔器：技术描述及早期临床结果（Pivot Extend）]]
+- [[来源/152-thirty-day-outcomes-after-t-teer-with-the-tricli|TriClip 系统 T-TEER 后 30 天结局：TVT Registry 早期真实世界经验]]
+- [[来源/153-step-by-step-rv-lead-management-in-ttvr|TTVR 中右室导线管理分步策略]]
+- [[来源/154-complex-paravalvular-leak-closure-in-a-rocking-m|摇摆二尖瓣生物瓣中的复杂瓣周漏封堵]]
+- [[来源/155-dollars-and-cents-maximizing-reimbursement-for-l|美元与账本：最大化 LAAC/LAAO 手术报销]]
+- [[来源/156-will-option-limit-laac-expansion-to-ambulatory-s|OPTION 会限制 LAAC 向日间手术中心扩展吗？]]
+- [[来源/157-echo-alert-tools-to-reduce-undertreatment|用超声提醒工具减少治疗不足]]
+- [[来源/158-outcomes-of-tricuspid-transcatheter-edge-to-edge|合并或不合并 CIED 的三尖瓣经导管缘对缘修复结局：系统综述和荟萃分析]]
+- [[来源/159-ai-driven-pre-procedural-modeling-reduces-leafle|AI 驱动术前建模降低瓣中瓣和 redo TAVR 中的叶瓣改良率]]
+- [[来源/160-flail-to-fix-challenging-transcatheter-tricuspid|从瓣叶脱垂到修复：急性乳头肌断裂背景下的挑战性经导管三尖瓣置换]]
+- [[来源/161-expect-the-unexpected|意外总会出现]]
+- [[来源/162-point-of-care-echo-and-access-to-care|床旁超声与医疗可及性]]
+- [[来源/163-the-adapttr-leaflet-enhancement-system-versa-tec|The AdaptTR Transcatheter Tricuspid Repair System (VERSA): Technology Description and Early Human Experience]]
+- [[来源/164-treatment-pathways-and-outcomes-in-triscend-inel|Treatment Pathways and Outcomes in TRISCEND-Ineligible Patients: A Multicenter Registry]]
+- [[来源/165-how-to-step-by-step-live-case-in-a-box-and-simul|How To: Step-by-Step Live Case in a Box and Simulator Demo — TAV-in-TAV Deep Dive (Failed Evolut Rx Sapien)]]
+- [[来源/166-ai-based-ecg-screening-tools|AI-Based ECG Screening Tools]]
+- [[来源/167-sodium-glucose-cotransporter-2-inhibitors-and-cl|SGLT2 Inhibitors and Clinical Outcomes After Tricuspid Transcatheter Edge-to-Edge Repair]]
+- [[来源/168-valvematrix-aorticautomated-aortic-valve-care-fr|ValveMatrix AORTIC Automated Aortic Valve Care: From Diagnosis to Treatment and Follow-Up]]
+- [[来源/169-transcatheter-closure-of-a-complex-left-ventricu|使用单个封堵器经导管关闭复杂左室假性动脉瘤：与机械二尖瓣和主动脉瓣置换患者二尖瓣瓣周漏相通]]
+- [[来源/170-rapid-ventricular-pacing-to-optimize-ttvr-device|快速心室起搏优化 EVOQUE TTVR 装置定位]]
+- [[来源/171-balancing-quality-and-efficiency-selecting-the-o|质量与效率的平衡：选择最佳影像模式]]
+- [[来源/172-ct-analysis|CT 分析（Redo-TAV iCoach）]]
+- [[来源/173-the-epidemiologic-landscape-of-valvular-heart-di|瓣膜性心脏病的流行病学图景：对诊断与治疗的启示]]
+- [[来源/174-artificial-intelligence-based-software-for-fully|基于人工智能的软件用于全自动TAVR规划：真实世界队列中主动脉根部和髂股血管测量的外部验证]]
+- [[来源/175-beyond-the-annulus-treating-tr-by-reshaping-the|超越瓣环：通过重塑右心室治疗 TR（Approxima）]]
+- [[来源/176-transcatheter-tricuspid-valve-replacmement-after|T-TEER 失败后经导管三尖瓣置换：REDEMPTION 登记研究]]
+- [[来源/177-launching-a-new-laac-program-from-dust-to-dollar|启动新的左心耳封堵项目：从尘土到美元]]
+- [[来源/178-a-primer-on-mitral-pvl-closure-assessment-planni|二尖瓣瓣周漏封堵入门：评估、规划和工具]]
+- [[来源/179-my-personal-guide-to-derisking-evoque-cases|我个人降低 EVOQUE 病例风险的指南]]
+- [[来源/180-tavr-for-asymptomatic-severe-as-updated-results|无症状重度主动脉瓣狭窄的 TAVR：EARLY TAVR 试验最新随访]]
+- [[来源/181-asymptomatic-takotsubo-syndrome-following-mitral|二尖瓣经导管缘对缘修复后无症状 Takotsubo 综合征：一种罕见操作并发症]]
+- [[来源/182-combined-transcatheter-paravalvular-leak-closure|联合经导管瓣周漏封堵和瓣中瓣 TAVR 治疗 TAVR 后严重反流]]
+- [[来源/183-occupational-radiation-protection-at-the-head-of|结构性心脏病介入床头职业辐射防护：使用新型可调移动屏障]]
+- [[来源/184-6-year-outcomes-from-the-evolut-tavr-low-risk-bi|Evolut TAVR 低危二叶式主动脉瓣研究的 6 年结局]]
+- [[来源/185-live-pre-recorded-case-presentation-how-mini-tee|现场预录病例展示：Mini TEE 引导如何改变我的实践]]
+- [[来源/186-stress-cardiomyopathy-after-mitraclip|MitraClip 后应激性心肌病]]
+- [[来源/187-when-anchoring-fails-valve-in-valve-rescue-for-s|When Anchoring Fails: Valve-in-Valve Rescue for Severe Paravalvular Leak After TAVR]]
+- [[来源/188-mitralvalveai-from-a-standard-cardiac-ct-patient|MitralValveAi: From a Standard Cardiac CT Patient-Specific Mitral Valve Digital Twin]]
+- [[来源/189-new-approaches-for-patient-follow-ups-challenges|New Approaches for Patient Follow-ups: Challenges in Taking Health Care to Patients]]
+- [[来源/190-transcatheter-removal-of-large-mitral-valve-thro|Transcatheter Removal of Large Mitral Valve Thrombus]]
+- [[来源/191-new-approaches-for-patient-follow-ups-visitless|New Approaches for Patient Follow-ups: Visit-less Follow-up]]
+- [[来源/192-8-year-durability-and-reintervention-with-the-ev|Eight-Year Durability and Reintervention after TAVR with Self Expanding Supra Annular Valve: Data from a Prospective Single-Center Registry]]
+- [[来源/193-a-novel-first-in-human-hybrid-plug-coil-techniqu|首个人体经房间隔混合 plug-coil 技术处理 LVAD 支持患者生物主动脉瓣难治性瓣周反流]]
+- [[来源/194-transcatheter-mitral-valve-edge-to-edge-repair-a|Loeys-Dietz 综合征早期瓣叶失败中 mTEER 作为桥接策略]]
+- [[来源/195-impact-of-discordant-grading-of-aortic-stenosis|AS 分级不一致和流量状态对中度 AS 合并 LVEF 降低患者结局的影响]]
+- [[来源/196-imaging-post-procedural-complications-the-basics|术后并发症影像：器械相关血栓与围器械漏基础]]
+- [[来源/197-transcatheter-mitral-leaflet-augmentation-using|经导管二尖瓣瓣叶增强使用 CoApt Valve：恢复瓣叶对合的新策略]]
+- [[来源/198-acute-single-leaflet-device-attachment-after-m-t|M-TEER 后急性单瓣叶器械附着]]
+- [[来源/199-the-use-of-multi-modality-imaging-for-percutaneo|The Use of Multi-Modality Imaging for Percutaneous Closure of Two Separate Paravalvular Leaks Post TAVR]]
+- [[来源/200-interclip-mitral-regurgitation-management|Interclip Mitral Regurgitation Management]]
+- [[来源/201-aortic-bioprosthetic-durability-in-patients-lt-6|Aortic Bioprosthetic Durability in Patients <65 Years: Promise versus Reality]]
+- [[来源/202-outcomes-of-tavr-with-the-evolut-platform-result|Outcomes of TAVR with the Evolut Platform: Results from the VA-CART Program]]
+- [[来源/203-the-future-of-transcatheter-mitral-annuloplasty|The Future of Transcatheter Mitral Annuloplasty: Robotics and AI]]
+- [[来源/204-after-the-procedure-is-done-the-optimal-follow-u|After the LAAO Procedure is Done: The Optimal Follow-Up Imaging Plan (Including Variations)]]
+- [[来源/205-successful-transcatheter-closure-of-severe-parav|自膨 TAVR 后重度瓣周漏的经导管封堵：动脉-动脉 rail 技术经双侧股动脉递送 Amplatzer Duct Occluder II]]
+- [[来源/206-bailout-management-of-single-leaflet-device-atta|PASCAL mTEER 中单叶装置附着的补救处理]]
+- [[来源/207-m-teer-in-severe-mr-and-acute-decompensated-hear|重度二尖瓣反流与急性失代偿心衰中的 M-TEER]]
+- [[来源/208-how-should-we-address-long-term-follow-up-in-und|如何处理低入组患者的长期随访：心血管器械试验中的代表性问题]]
+- [[来源/209-infective-endocarditis-following-tavi-insights-f|TAVI 后感染性心内膜炎：FRANCE-TAVI 注册研究启示]]
+- [[来源/210-treatment-of-patients-with-narrow-left-ventricul|使用房侧固定 TMVR 治疗左室流出道狭窄患者：AltaValve 的早期临床经验]]
+- [[来源/211-minimizing-data-loss-in-long-term-patient-follow|Minimizing Data Loss in Long Term Patient Follow-Up: Vital Status Check and Real World Data Linkage]]
+- [[来源/212-seven-year-tavr-outcomes-in-low-risk-patients-tr|Seven-Year TAVR Outcomes in Low-Risk Patients Treated with Balloon-Expandable Valves in the United States]]
+- [[来源/213-using-the-evolut-fx-cells-to-improve-success-of|Using the Evolut FX+ Cells to Improve Success of Evolut Paravalvular Leak Closure]]
+- [[来源/214-interatrial-septal-dissection-and-hematoma-durin|Inter-atrial Septal Dissection and Hematoma During Transcatheter Mitral Valve Repair]]
+- [[来源/215-tee-and-cta-case-examples-for-laac-pre-procedura|TEE and CTA Case Examples for LAAC Pre-Procedural Planning]]
+- [[来源/216-severe-mr-and-torrential-tr-with-progressive-sho|Severe MR with Torrential TR Progressive Shock]]
+- [[来源/217-absence-of-neolvot-obstruction-in-patients-at-30|Absence of NeoLVOT obstruction in patients at 30 days and 1 year follow-up after HighLife Clarity TMVR]]
+- [[来源/218-treatment-of-pure-aortic-regurgitation-with-a-de|Treatment of Pure Aortic Regurgitation With a Dedicated THV vs. Surgery – First Results of the Pan-European EROICA-Study]]
+- [[来源/219-how-to-step-by-step-case-in-a-box-and-simulator|基底至瓣尖 LAMPOON：逐步病例盒与模拟演示]]
+- [[来源/220-tav-in-tav-in-tav-for-failed-low-valve-implantat|TAV-in-TAV-in-TAV for Low-Implanted TAVR with Severe Paravalvular Leak]]
+- [[来源/221-caught-in-the-act-utilizing-a-snare-for-salvage|Caught in the Act: Utilizing a Snare for Salvage of Broken Gripper Lines]]
+- [[来源/222-7-year-valve-durability-in-the-partner-3-trial|Seven-year Durability Outcomes from the PARTNER 3 Trial: Insights into Bioprosthetic Valve Dysfunction, Failure, and Reintervention]]
+- [[来源/223-cardiac-cta-for-laac-planning-a-growing-trend-ra|用于 LAAC 术前规划的心脏 CTA：增长趋势、理由和用途]]
+- [[来源/224-acute-primary-mr-with-cardiogenic-shock-flail-ch|急性原发性二尖瓣反流合并心源性休克]]
+- [[来源/225-timing-and-outcomes-of-transcatheter-aortic-valv|TAVI 与旋磨时序及结局：ROTAVI 注册研究]]
+- [[来源/226-left-ventricular-reverse-remodeling-following-tr|HighLife 系统经导管二尖瓣置换后的左心室逆向重构：一年分析]]
+- [[来源/227-meeting-patients-needs-what-patients-are-telling|满足患者需求：患者在告诉我们什么]]
+- [[来源/228-tav-in-tav-in-tav-a-complex-case-of-recurrent-pa|TAV-in-TAV-in-TAV：复发性瓣周漏经连续经导管干预处理的一例复杂病例]]
+- [[来源/229-bailout-of-entrapped-mitraclip-using-a-second-tr|通过第二次房间隔穿刺通路操控器械，解救嵌顿的 MitraClip]]
+- [[来源/230-minimizing-data-loss-in-long-term-patient-follow|最小化长期患者随访中的数据丢失：构建与退出研究和失访相关的分层知情同意]]
+- [[来源/231-the-spectrum-and-treatment-algorithms-for-acute|急性失代偿性二尖瓣疾病的谱系与治疗算法]]
+- [[来源/232-remodeling-and-right-ventricular-pulmonary-arter|二尖瓣聚合物瓣置换后的重构与右心室-肺动脉耦联]]
+- [[来源/233-contemporary-short-term-hemodynamic-and-clinical|SAPIEN 3 Ultra Resilia 用于 redo TAVR 的短期血流动力学与临床结局]]
+- [[来源/234-setting-the-stage-the-clinical-imperative-for-un|理解长期结局的临床必要性]]
+- [[来源/235-tee-for-laac-planning-a-critical-need-or-just-ni|LAAC规划中的TEE：关键需要还是锦上添花？]]
+- [[来源/236-a-primer-on-aortic-pvl-closure-assessment-planni|主动脉瓣周漏封堵入门：评估、规划与器械]]
+- [[来源/237-minimizing-complications-of-mteer-my-personal-ch|减少mTEER并发症：我的个人清单]]
+- [[来源/238-device-characteristics-clinical-data-updates-and|Amulet LAAC：器械特征、临床数据更新与技术技巧]]
+- [[来源/239-live-pre-recorded-case-presentation-amulet-laac|预录病例演示：AMULET LAAC分步操作]]
+- [[来源/240-device-characteristics-clinical-data-updates-and|WATCHMAN更新：器械、数据与技巧]]
+- [[来源/241-device-sizing-considerations-for-laac-using-curr|使用当前可及器械进行左心耳封堵尺寸选择的考虑：技巧与要点]]
+- [[来源/242-what-does-the-fda-need-to-know|FDA 需要知道什么：心脏瓣膜长期随访考虑]]
+- [[来源/243-novel-methods-to-address-long-term-follow-up|解决长期随访的新方法]]
+- [[来源/244-challenges-with-clinical-and-imaging-endpoints|长期随访：临床与影像终点的挑战]]
+- [[来源/245-complex-transcatheter-tricuspid-valve-replacemen|TriClip 修复失败后在 VA-ECMO 支持下完成复杂经导管三尖瓣置换]]
+- [[来源/246-staged-mitraclip-and-trillium-cross-caval-valve|不可手术 Chagas 心肌病双瓣功能衰竭的分期 MitraClip 与 Trillium 跨腔静脉瓣治疗]]
+- [[来源/247-ai-assisted-echo-guidance-for-structural-heart-p|AI 辅助结构性心脏介入超声引导（DeviceGuide）：临床经验与未来展望]]
+- [[来源/248-making-the-case-for-surgical-treatment|为外科治疗建立依据（失败 M-TEER 后的外科处理）]]
+- [[来源/249-what-s-next-new-laac-trials-in-the-pipeline-cata|下一步：管线中的新 LAAC 试验（CATALYST、SIMPLAAFY、LAAOS-4 等）]]
+- [[来源/250-successful-ttvr-with-evoque-valve-following-ttee|两处 SLDA 的 tTEER 后成功使用 Evoque 行 TTVR]]
+- [[来源/251-simultaneous-tmvr-ttvr-and-pvl-closure-a-percuta|同时 TMVR、TTVR 与 PVL 封堵：替代再次手术的经皮方案]]
+- [[来源/252-making-the-case-for-catheter-based-intervention|支持基于导管介入治疗的理由（失败 M-TEER 后的 redo M-TEER 与外科路径）]]
+- [[来源/253-outcomes-from-self-expanding-tavr-low-risk-patie|Outcomes from Self-Expanding TAVR: Low Risk Patients]]
+- [[来源/254-robotically-assisted-tee-technology-update-and-e|Robotically Assisted TEE: Technology Update and Early Clinical Experience]]
+- [[来源/255-transfemoral-j-valve-system-for-chronic-aortic-r|30-Day Post-Market Outcomes of the Transfemoral J-Valve System for Chronic Aortic Regurgitation: Results From 789 Patients]]
+- [[来源/256-outcomes-from-balloon-expandable-tavr-low-and-in|Outcomes from Balloon-Expandable TAVR: Low and Intermediate Risk Patients]]
+- [[来源/257-successful-ttvi-in-a-patient-with-rv-systolic-dy|Successful TTVI in a Patient with RV Systolic Dysfunction and an Unexpected Later Complication]]
+- [[来源/258-double-trouble-one-session-simultaneous-tavr-and|Double Trouble, One Session: Simultaneous TAVR and PTMV with Kissing Balloon IVL for Heavy MAC]]
+- [[来源/259-keynote-lecture-left-atrial-appendage-closure-fo|左心耳封堵用于非瓣膜性房颤卒中预防：随机试验荟萃分析]]
+- [[来源/260-83869-a-novel-echocardiography-based-ai-model-fo|基于超声心动图的AI模型预测主动脉瓣狭窄进展]]
+- [[来源/261-recurrent-mr-after-m-teer-how-failure-modes-guid|M-TEER后复发性二尖瓣反流：失败模式如何指导治疗选择]]
+- [[来源/262-software-comparison-of-reproducibility-and-class|基于CMR相位对比成像评估主动脉反流的软件重复性和分级比较]]
+- [[来源/263-early-clinical-improvement-after-transcatheter-t|经导管三尖瓣置换与修复后的早期临床改善比较]]
+- [[来源/264-ttvr-complications-caused-and-salvaged-by-pacema|起搏器导线导致并挽救的TTVR并发症]]
+- [[来源/265-valve-engineering-standards-and-testing-methods|瓣膜工程标准与测试方法：2026年是否需要新范式？]]
+- [[来源/266-expanding-access-to-care-ai-enabled-echo-acquisi|扩大医疗可及性：由非超声医师进行的AI辅助超声心动图采集]]
+- [[来源/267-comparative-outcomes-of-transcatheter-versus-sur|单纯原生主动脉反流中经导管与外科主动脉瓣置换结局比较：全国倾向匹配分析]]
+- [[来源/268-mitral-regurgitation-following-transcatheter-tri|经导管三尖瓣介入后的二尖瓣反流]]
+- [[来源/269-champion-af-2-sub-studies-and-controversies|CHAMPION AF 2：亚研究与争议]]
+- [[来源/270-defining-the-problem-imaging-insights|定义问题：影像学洞察]]
+- [[来源/271-edge-of-embolization-snare-mediated-sapien-3-sep|栓塞边缘：Snare 介导的 Sapien 3 隔侧固定抢救移位 EVOQUE 瓣膜]]
+- [[来源/272-a-heart-rebuilt-three-valve-transcatheter-interv|重建之心：晚期恶性肿瘤和进展性心衰患者的三瓣经导管介入]]
+- [[来源/273-optimizing-procedural-m-teer-outcomes-balancing|优化 M-TEER 术中结果：平衡残余 MR 与瓣膜压差]]
+- [[来源/274-lessons-from-surgical-bioprosthetic-valve-failur|外科生物瓣失效带来的经验教训]]
+- [[来源/275-minimizing-complications-of-evoque-my-personal-c|减少 EVOQUE 并发症：我的个人清单]]
+- [[来源/276-lifetime-management-considerations-in-m-teer-wha|M-TEER 全生命周期管理考量：我们从外科手术学到了什么]]
+- [[来源/277-ai-enabled-echocardiography-for-structural-heart|结构性心脏病介入中的 AI 超声心动图：最新进展与未来展望]]
+- [[来源/278-prevalence-and-impact-of-frailty-on-outcomes-aft|美国经导管三尖瓣缘对缘修复后虚弱的患病率与结局影响]]
+- [[来源/279-champion-af-1-main-results-and-impact-on-practic|CHAMPION AF 1：主要结果及其对临床实践的影响]]
+- [[来源/280-case-presentation-tavr-bioprosthetic-valve-failu|病例展示：TAVR 生物瓣衰败（重度主动脉反流）]]
+- [[来源/281-decision-making-in-multivalve-disease-what-i-hav|多瓣膜病决策：多年经验教会我的事]]
+- [[来源/282-the-bottom-line|底线！]]
+- [[来源/283-trilogy-transcatheter-aortic-valve-implantation|Freestyle 移植物左冠瓣叶脱垂中的 Trilogy 经导管主动脉瓣植入]]
+- [[来源/284-point-guard-cerebral-embolic-protection-transver|Point-Guard 脑栓塞保护装置]]
+- [[来源/285-laac-procedure-and-device-related-complications|LAAC 操作及装置相关并发症：发生频率与临床意义]]
+- [[来源/286-jenavalve-trilogy-transcatheter-aortic-valve-imp|JenaValve Trilogy经导管主动脉瓣植入治疗原生主动脉反流：亚洲真实世界经验及与ALIGN-AR关键试验比较]]
+- [[来源/287-paravalvular-leak-and-clinical-outcomes-after-ev|EVOQUE经导管三尖瓣置换后瓣周漏与临床结局：真实世界单中心分析]]
+- [[来源/288-optimal-surveillance-in-moderate-severe-as-pathw|中重度和重度主动脉瓣狭窄的最佳监测：路径与工具]]
+- [[来源/289-emblok-embolic-protection-device-innovative-card|Emblok栓塞保护装置：全身栓塞保护]]
+- [[来源/290-personalized-mitral-intervention-from-advanced-i|个体化二尖瓣介入：从高级影像到 AI 预测工具]]
+- [[来源/291-no-room-for-seconds-when-lifetime-management-dem|没有第二次空间：当全生命周期管理需要外科取出]]
+- [[来源/292-trans-asd-device-puncture-and-deployment-of-a-se|经 ASD 封堵器穿刺并部署第二枚 ASD 封堵器]]
+- [[来源/293-vascular-complications-in-transcatheter-aortic-v|主动脉瓣反流 TAVR 的血管并发症]]
+- [[来源/294-transcatheter-tricuspid-valve-replacement-with-e|原位心脏移植受者使用 EVOQUE 行经导管三尖瓣置换：病例系列]]
+- [[来源/295-antithrombotic-treatment-after-lacc-current-stat|LAAC 后抗栓治疗：现状与新趋势]]
+- [[来源/296-emboliner-total-body-embolic-protection-system-e|Emboliner全身栓塞保护系统]]
+- [[来源/297-optimal-decision-making-in-moderate-as-nuances-a|中度主动脉瓣狭窄的最佳决策：细节与表型]]
+- [[来源/298-navigating-lifetime-management-a-case-of-valve-i|终生管理中的选择：瓣中瓣中瓣TAVR病例]]
+- [[来源/299-successful-treatment-of-refractory-hypoxemia-due|单枚封堵器治疗医源性房间隔缺损合并PFO导致的顽固低氧]]
+- [[来源/300-captis-full-body-embolic-protection-system-filte|CAPTIS全身栓塞保护系统]]
+- [[来源/301-in-2026-do-the-traffic-light-criteria-for-m-teer|到 2026 年，M-TEER 的红黄绿灯标准仍然适用吗？]]
+- [[来源/302-hemodynamic-performance-of-the-jenavalve-trilogy|ALIGN-AR 试验中 JenaValve Trilogy 系统的血流动力学表现]]
+- [[来源/303-transcatheter-tricuspid-valve-replacement-for-ia|医源性机械性三尖瓣反流的经导管三尖瓣置换：多中心病例系列]]
+- [[来源/304-triple-transcatheter-aortic-valve-replacement-va|放射性心脏病复发生物瓣衰败的第三次经导管主动脉瓣置换（TAV in TAV in TAV）]]
+- [[来源/305-putting-embolized-laao-device-in-a-basket|把栓塞的 LAAO 器械装进篮中]]
+- [[来源/306-secondary-analyses-from-early-tavr-what-have-we|早期 TAVR 二次分析：我们学到了什么？]]
+- [[来源/307-procedural-steps-made-simple-trans-septal-access|操作步骤简化：经房间隔入路、装置尺寸与选择，以及如何避免错误]]
+- [[来源/308-protembo-complete-cerebral-embolic-protection-sy|ProtEmbo完整脑栓塞保护系统]]
+- [[来源/309-lv-reverse-remodeling-after-tavr-in-native-ar-an|原生主动脉反流TAVR后左室逆重构：ALIGN-AR试验与继续入组登记分析]]
+- [[来源/310-single-center-experience-with-transcatheter-tric|合并心脏电子植入装置患者中EVOQUE经导管三尖瓣置换单中心经验]]
+- [[来源/311-how-to-step-by-step-case-in-a-box-and-simulator|逐步操作（盒中病例）和模拟器演示：BASILICA]]
+- [[来源/312-when-the-clip-is-a-snip-left-atrial-appendage-th|夹闭变剪口：不完全AtriClip后左心耳血栓，Watchman FLX治疗]]
+- [[来源/313-lifetime-management-of-aortic-disease-assisted-b|AI 预测建模辅助主动脉疾病终身管理]]
+- [[来源/314-stay-the-course-clinical-surveillance-is-a-viabl|坚持随访：临床监测是可行替代方案]]
+- [[来源/315-interventionalist-s-perspective-my-favorite-and|介入医师视角：原发性二尖瓣反流我最喜欢和最具挑战的解剖]]
+- [[来源/316-lecture-overview-of-indications|TAVR冠脉阻塞风险与瓣叶改良适应证概览]]
+- [[来源/317-pre-emptive-avr-is-preferred|预防性AVR更优先]]
+- [[来源/318-surgeon-s-perspective-my-ideal-and-most-challeng|外科医生视角：二尖瓣修复理想与最具挑战的解剖]]
+- [[来源/319-healthcare-utilization-costs-and-clinical-outcom|Medicare 主动脉反流患者的医疗利用、费用和临床结局]]
+- [[来源/320-planning-the-laac-procedure-ct-tee-or-nothing|LAAC 术前规划：CT、TEE 还是什么都不做？]]
+- [[来源/321-featured-lecture-cerebral-protection-in-structur|结构性心脏介入中的脑保护：调和科学证据与临床需求]]
+- [[来源/322-success-and-safety-of-transcatheter-tricuspid-va|ICE 单独引导经导管三尖瓣置换的成功率与安全性]]
+- [[来源/323-case-presentation-asymptomatic-severe-as|病例展示：无症状重度主动脉瓣狭窄]]
+- [[来源/324-decision-making-in-lifetime-management-of-aortic|主动脉瓣狭窄终身管理中的决策：基于数据和经验的个人入门]]
+- [[来源/325-minimizing-complications-of-laa-closure-my-perso|最小化左心耳封堵并发症：我的个人清单]]
+- [[来源/326-the-bottom-line|底线！]]
+- [[来源/327-tempering-the-enthusiasm-perspectives-on-failed|给热情降温：电外科失败的视角]]
+- [[来源/328-tavr-with-the-jenavalve-trilogy-system-in-patien|连续流LVAD患者使用JenaValve Trilogy系统行TAVR：JENA-VAD NOW注册研究]]
+- [[来源/329-case-4-don-t-forget-chimney-snorkel-stenting|病例4：别忘了Chimney/Snorkel支架！]]
+- [[来源/330-case-3-mechanical-leaflet-modification-shortcut|病例3：机械瓣叶改良（SHORTCUT）]]
+- [[来源/331-six-month-outcomes-of-mitral-valve-lithotripsy-u|SMARTCRACK球囊二尖瓣碎石治疗钙化性二尖瓣狭窄的6个月结局（SMART-MAC）]]
+- [[来源/332-case-2-electro-surgery-modifications-cleve-unico|病例2：电外科瓣叶改良（CLEVE / UNICORN）]]
+- [[来源/333-m-teer-vs-valve-in-ring-in-patients-with-failed|失败外科二尖瓣修复患者中M-TEER与瓣中环治疗的比较（REDO-MR注册研究）]]
+- [[来源/334-case-1-electro-surgery-basics-basilica-and-tell|病例1：电外科基础（BASILICA与TELLTALE）]]
+- [[来源/335-pulsed-field-ablation-of-the-laa-prior-to-laa-cl|左心耳封堵前进行左心耳脉冲场消融以减少器械周围漏（STUN-AF）]]
+- [[来源/336-case-1-watchman-ice-guidance-live-case-in-a-box|病例1：经ICE/TIE指导Amulet左心耳封堵（Live Case-in-a-Box）]]
+- [[来源/337-making-the-case-for-aggressive-leaflet-modificat|积极瓣叶改良以预防 TAVR 相关冠脉阻塞]]
+- [[来源/338-closing|闭幕]]
+- [[来源/339-keynote-lecture-knowledge-practice-and-research|主题演讲：三尖瓣介入的知识、实践与研究缺口]]
+- [[来源/340-transcatheter-mitral-valve-replacement-in-mac-co|MAC 中经导管二尖瓣置换并发房室连接破裂、瓣膜移位和瓣周漏]]
+- [[来源/341-case-discussion-3-identifying-the-cohort-c-patie|病例讨论 3：识别 Cohort C 患者——重度 TR 手术时机]]
+- [[来源/342-surgical-treatment-isolated-and-concomitant-surg|TR 的外科治疗：孤立性和同期手术]]
+- [[来源/343-transcatheter-retrieval-of-a-damaged-mitraclip-a|损坏 MitraClip 的经导管取回：分步 Bailout 方法]]
+- [[来源/344-case-discussion-2-atrial-secondary-tr|病例讨论 2：房性继发性三尖瓣反流]]
+- [[来源/345-right-ventricular-apical-access-to-treat-a-malpo|右室心尖通路治疗位置不良的 Evoque]]
+- [[来源/346-ttvi-indications-options-outcomes-best-practice|经导管三尖瓣介入：适应证、选择、结局与最佳实践]]
+- [[来源/347-hf-management|三尖瓣病心衰管理]]
+- [[来源/348-transapical-retrieval-of-an-embolized-valve-duri|TMVR 过程中栓塞瓣膜的经心尖专用取回篮取回]]
+- [[来源/355-scope-of-the-problem-and-clinical-recognition|问题规模与临床识别]]
+- [[来源/356-intro|三尖瓣疾病管理培训导言]]
+- [[来源/357-percutaneous-retrograde-transaortic-closure-of-a|TAVR后医源性左室假性动脉瘤的经皮逆行经主动脉封堵]]
+- [[来源/358-acute-ascending-aortic-syndrome-and-severe-aorti|急性升主动脉综合征合并重度主动脉瓣狭窄，经颈动脉入路腔内治疗]]
+- [[来源/359-first-in-human-totally-endoscopic-mitral-valve-r|首例人体四维心内超声引导的完全内镜二尖瓣修复]]
+- [[来源/360-heterotopic-ttvr-in-patients-with-severe-tricusp|重度三尖瓣反流患者的异位TTVR：Trillium EFS 6个月结果]]
+- [[来源/361-dedicated-tmvr-devices-in-mac-what-do-the-data-s|MAC 中专用 TMVR 器械：数据告诉我们什么]]
+- [[来源/362-new-permanent-pacemaker-implantation-after-tavr|单纯主动脉反流 TAVR 后新发永久起搏器植入]]
+- [[来源/363-leaflet-avulsion-following-leaflet-splitting-dur|瓣中瓣 TAVR 瓣叶切开后发生瓣叶撕脱]]
+- [[来源/364-transcatheter-mitral-valve-replacement-in-a-larg|巨大二尖瓣肿块中的经导管二尖瓣置换]]
+- [[来源/365-cross-caval-valve-replacement-with-the-tricvalve|使用 TricValve 系统的跨腔静脉瓣膜置换]]
+- [[来源/366-feasibility-and-safety-of-ebu-catheter-assisted|EBU 导管辅助重度主动脉瓣狭窄主动脉瓣跨瓣的可行性与安全性]]
+- [[来源/367-triple-threat-triple-fix-percutaneous-rescue-of|三重威胁、三重修复：TAVR 后 A 型主动脉夹层、冠脉灌注不良和 LVOT 假性动脉瘤的经皮救援]]
+- [[来源/368-surgical-sapien-in-mac-indications-and-outcomes|外科 SAPIEN-in-MAC：适应证与结局]]
+- [[来源/369-a-randomized-trial-comparing-femoral-or-radial-s|SAFER-TAVI：TAVR 中股动脉或桡动脉作为第二通路的随机试验]]
+- [[来源/370-lava-ecmo-assisted-tavr-in-tavr|LAVA-ECMO 辅助 TAVR-in-TAVR]]
+- [[来源/371-revalve-solutions-beyond-the-limits-of-teer-and|ReValve Solutions：超越 TEER 与 TMVR 局限]]
+- [[来源/372-topaz-ttvr-efs-update|Topaz TTVR：早期可行性研究更新]]
+- [[来源/373-long-term-outcomes-of-cusp-overlap-versus-three|TAVI 中 Cusp-overlap 与 Three-cusp 视图的长期结局]]
+- [[来源/374-surgical-management-of-mac-challenges-and-outcom|二尖瓣环钙化的外科管理：挑战与结局]]
+- [[来源/375-collecting-endotrash-electrosurgical-resection-o|收集 Endotrash：滞留支架球囊的电外科切除]]
+- [[来源/376-transcatheter-mitral-valve-replacement-in-a-high|高危重度退行性二尖瓣反流患者的经导管二尖瓣置换]]
+- [[来源/377-feasibility-and-challenges-of-the-unicorn-techni|原生主动脉瓣中 UNICORN 技术的可行性与挑战]]
+- [[来源/378-laplace-ttvr-system-6-months-efs-results|Laplace TTVR 系统 6 个月早期可行性研究结果]]
+- [[来源/385-five-year-risk-of-infective-endocarditis-followi|Five-Year Risk of Infective Endocarditis Following Transcatheter Versus Surgical Aortic Valve Replacement]]
+- [[来源/386-valve-in-valve-in-valve-tavr-triple-leaflet-spli|Valve-in-Valve-in-Valve TAVR: Triple Leaflet Split with an Unexpected Twist]]
+- [[来源/387-a-prospective-multicenter-study-of-an-ehr-facili|DETECT AS II: A Prospective Multicenter Study of an EHR-Facilitated Valve Care Pathway for Severe Aortic Stenosis]]
+- [[来源/388-successul-tavr-using-modified-sequential-balloon|Successful TAVR Using Modified Sequential Ballooning in a Patient With a Protruding Coronary Stent to Aorta]]
+- [[来源/389-transcatheter-transseptal-mitral-valve-saturn-im|Transcatheter Transseptal Saturn Mitral Valve Implantation in Large Mitral Annulus Anatomy]]
+- [[来源/390-transcatheter-sapien-in-mac-indications-and-outc|Transcatheter SAPIEN-in-MAC: Indications and Outcomes]]
+- [[来源/391-vdyne-ttvr-system-30-day-outcomes-of-the-vista-u|VDyne TTVR 系统：VISTA-US 早期可行性研究 30 天结局]]
+- [[来源/392-how-to-step-by-step-case-in-a-box-and-simulator|逐步操作（Case-in-a-Box）与模拟器培训：Sapien M3 TMVR]]
+- [[来源/393-successful-pci-and-tavr-for-high-coronary-artery|左主干支架突出患者高冠脉阻塞风险下成功 PCI 与 TAVR]]
+- [[来源/394-implantation-of-saturn-tmvr-system|SATURN TMVR 系统植入]]
+- [[来源/395-when-basilica-is-not-enough-suicide-left-ventric|BASILICA 不足时：TAVR 中的 Suicide LV、左主干阻塞和支架血栓]]
+- [[来源/396-measuring-quality-in-the-evaluation-surveillance|主动脉瓣狭窄评估、监测与治疗质量测量：AHA Target: AS 倡议首次大规模报告]]
+- [[来源/397-m-teer-in-mac-difficult-but-possible-case-select|MAC 中的 M-TEER：困难但可行，病例选择与操作考虑]]
+- [[来源/398-trisol-ttvr-system-early-feasibility-study-updat|Trisol TTVR 系统：早期可行性研究更新]]
+- [[来源/399-clinical-outcomes-of-tavr-patients-on-dapt-vs-sa|既往或新发胃肠道出血 TAVR 患者 DAPT 与 SAPT 的临床结局]]
+- [[来源/400-a-challenging-case-of-severe-aortic-stenosis-and|重度主动脉瓣狭窄合并室间隔膜部瘤的挑战性病例]]
+- [[来源/401-is-anterior-leaflet-flail-a-counterindication-to|前叶连枷是否是 TMVR 的禁忌证？]]
+- [[来源/402-baseline-clinical-and-echocardiographic-characte|PROGRESS 试验中度主动脉瓣狭窄患者的基线临床和超声特征]]
+- [[来源/403-bioptome-assisted-leaflet-snipping-to-facilitate|活检钳辅助瓣叶剪切以促进既往三尖瓣夹和外科 Alfieri 缝线患者的经导管三尖瓣置换]]
+- [[来源/404-redefining-mac-emerging-grading-systems-and-impl|重新定义 MAC：新兴分级系统及其治疗意义]]
+- [[来源/405-impact-of-cardiac-computed-tomography-angiograph|心脏 CTA 对 CKD 患者 TAVR 评估后结局的影响]]
+- [[来源/406-live-pre-recorded-case-presentation-1-new-tmvr-a|现场预录病例1：新型经导管二尖瓣置换（AltaValve），Montefiore Hospital，纽约]]
+- [[来源/407-featured-lecture-association-of-frailty-with-ear|衰弱与孤立三尖瓣手术后早期和远期临床结局的关联]]
+- [[来源/408-my-practical-guide-to-tavr-with-obvious-or-poten|处理明确或潜在冠脉问题的 TAVR 实用指南]]
+- [[来源/409-state-of-the-art-endoscopic-mitral-surgery-an-ov|State of the Art Endoscopic Mitral Surgery: An Overview]]
+- [[来源/410-transseptal-valve-in-valve-in-ring-tmvr-in-a-hos|Transseptal ViViR TMVR in a Hostile Septum with Prior ASO]]
+- [[来源/411-next-generation-watchman-laac-system-watchman-el|Next-Generation Watchman LAAC System: Watchman Elite]]
+- [[来源/412-prevent-first-a-decision-framework-for-lvot-prot|Prevent First: A Decision Framework for LVOT Protection in TMVR]]
+- [[来源/413-case-4-sld-of-teer|Case 4: SLD of TEER（TEER 后单叶装置脱落）]]
+- [[来源/414-case-resolutions|Case Resolutions（AltaValve TMVR 病例结果）]]
+- [[来源/415-guidelines-recommendation|指南推荐：2025 ESC/EACTS 主动脉瓣指南是否答对了？]]
+- [[来源/416-long-term-clinical-and-echocardiographic-outcome|经皮二尖瓣交界分离术治疗重度风湿性二尖瓣狭窄的长期临床和超声结局]]
+- [[来源/417-lava-ecmo-supported-valve-in-valve-tavr-as-a-bri|LAVA ECMO支持下瓣中瓣TAVR桥接至计划性TAVR取出和外科主动脉重建]]
+- [[来源/418-a-challenging-case-of-transcatheter-mitral-valve|二尖瓣环内经导管二尖瓣置换疑难病例：当Alfieri修复挡在路上]]
+- [[来源/419-conformable-tension-free-laac-system-conformal|顺应性无张力左心耳封堵系统（Conformal）更新]]
+- [[来源/420-guideline-recommendation|指南推荐：二叶式主动脉瓣狭窄的TAVR]]
+- [[来源/421-staging-classification-of-primary-mitral-regurgi|基于心脏损害范围的原发性二尖瓣反流分期分类]]
+- [[来源/422-acute-lvot-obstruction-after-tmvr-how-to-rescue|TMVR 后急性 LVOT 梗阻：如何救援]]
+- [[来源/423-facilitated-intravascular-ultrasound-guided-femo|IVUS 引导的股动脉入路辅助 TAVI：FIVUS-TAVI 注册研究]]
+- [[来源/424-lifetime-management-of-patient-with-atrial-fixat|心房固定 TMVR 患者的全生命周期管理]]
+- [[来源/425-staged-impella-supported-pci-bridging-to-valve-i|分期 Impella 支持 PCI 桥接至瓣中瓣 TAVR：极高危八旬患者病例]]
+- [[来源/426-case-3-unexpected-lvoto-after-tmvr|病例 3：TMVR 后意外 LVOTO（二尖瓣瓣环内瓣术后意外并发症）]]
+- [[来源/427-case-presentation|病例呈现：复杂二尖瓣介入]]
+- [[来源/428-guideline-recommendation|指南推荐：无症状重度主动脉瓣狭窄的TAVR]]
+- [[来源/429-impact-of-procedural-experience-of-a-next-genera|下一代左心耳封堵器械的术者经验影响：VERITAS研究（Amulet 360）洞见]]
+- [[来源/430-case-resolution|病例结局：M-TEER后复发MR的处理]]
+- [[来源/431-understanding-the-impact-of-frailty-in-adults-un|美国接受二尖瓣经导管缘对缘修复成人患者中脆弱性的影响]]
+- [[来源/432-percutaneous-closure-of-cardiac-and-aortic-pseud|结构性心脏介入时代心脏和主动脉假性动脉瘤经皮封堵：技术指南]]
+- [[来源/433-first-in-human-transfemoral-trans-septal-atriali|首例经股静脉经房间隔心房化经导管二尖瓣置换用于重度二尖瓣环钙化]]
+- [[来源/434-valve-balloon-and-stent-the-trifecta-to-overcome|瓣膜、球囊与支架：用三联策略应对Trifecta难题]]
+- [[来源/435-elevated-lvot-gradients-after-tmvr-when-to-wait|TMVR后LVOT梯度升高：何时等待，何时处理]]
+- [[来源/436-guideline-recommendation|指南推荐：TAVR年龄≥70岁]]
+- [[来源/437-case-2-pvl-closure-strategies-how-to-avoid-hemol|病例2：PVL封堵策略，如何避免溶血]]
+- [[来源/438-left-atrial-appendage-elimination-by-vacuum-base|基于真空内陷与结扎的左心耳消除]]
+- [[来源/439-early-rehospitalization-after-transcatheter-aort|TAVI 后早期再住院：发生率、预测因素及对死亡的影响]]
+- [[来源/440-association-of-coronary-artery-disease-with-outc|冠状动脉疾病与二尖瓣经导管缘对缘修复患者结局的关联]]
+- [[来源/441-intraoperative-multimodality-imaging-with-ct-flu|术中多模态影像指导二尖瓣瓣中瓣 BATMAN]]
+- [[来源/442-high-risk-aortopathy-in-pregnancy-point-of-care|妊娠期高危主动脉病变的床旁 TTE 快速诊断]]
+- [[来源/443-the-complex-lvot-mitral-interaction-why-lvot-obs|复杂 LVOT-二尖瓣相互作用：为什么 LVOT 阻塞仍会让我们意外]]
+- [[来源/444-case-presentation|病例汇报：M-TEER 后复发 MR]]
+- [[来源/445-how-do-i-prepare-for-mitral-valve-in-x-procedure|如何准备二尖瓣 Valve-in-X 手术]]
+- [[来源/446-do-early-complications-after-transcatheter-aorti|经导管主动脉瓣植入术后早期并发症是否影响生活质量？]]
+- [[来源/447-case-presentation-when-lvot-prediction-models-fa|病例展示：当 LVOT 预测模型失效时]]
+- [[来源/448-decade-of-mitraclip-in-real-world-practice-a-com|真实世界 MitraClip 十年实践：2013-2025 年 22,221 份 MAUDE 不良事件报告分析]]
+- [[来源/449-case-1-tmvr-embolization|病例 1：TMVR 栓塞]]
+- [[来源/450-clinical-outcomes-of-isolated-or-concomitant-m-t|高出血风险房颤患者单独或同期 M-TEER 与 LAAC 的临床结局：OCTOPUS 注册研究]]
+- [[来源/451-acute-aortic-valve-syndrome-my-personal-checklis|急性主动脉瓣综合征：我的个人清单]]
+- [[来源/452-criteria-1-clinical-practice-imperatives|标准 1：临床实践必要项]]
+- [[来源/453-facilitating-complete-coronary-access-for-tavr-i|在窦管交界封闭极高风险的 TAVR-in-TAVR 中保留完整冠脉通路]]
+- [[来源/454-transcatheter-tricuspid-valve-in-valve-replaceme|失败 Evoque 瓣中的经导管三尖瓣瓣中瓣置换]]
+- [[来源/455-live-pre-recorded-case-presentation-2-heterotopi|预录直播病例 2：异位 TTVR（TricValve）]]
+- [[来源/456-latest-therapy-results-in-failed-tavr-explant-vs|TAVR 失败后的最新治疗结果（外科取出 vs TAV-in-TAV）]]
+- [[来源/457-association-of-post-procedure-antiplatelet-thera|Post-Procedure Antithrombotic Therapy and Outcomes After Mitral Transcatheter Edge-to-Edge Repair]]
+- [[来源/458-case-presentation-2-ttvr-in-the-setting-of-rv-dy|A Case of TTVR in the Setting of RV Dysfunction]]
+- [[来源/459-complex-mitral-valve-disease-when-is-surgery-the|Complex Mitral Valve Disease: When is Surgery the Better Option?]]
+- [[来源/460-life-saving-unicorn-preventing-coronary-obstruct|Life-Saving UNICORN: Preventing Coronary Obstruction During Shock Valve-in-Valve TAVR]]
+- [[来源/461-jailed-but-functional-managing-coronary-sinus-le|Jailed but Functional: Managing Coronary Sinus Lead Entrapment After Tricuspid Valve-in-Valve Replacement]]
+- [[来源/462-balloon-assisted-anterior-mitral-leaflet-translo|Balloon-Assisted Anterior Mitral Leaflet Translocation for Valve-in-MAC TMVR]]
+- [[来源/463-ct-should-be-the-cornerstone-in-as-case-based-de|CT Should be the Cornerstone in AS Case-Based Decisions]]
+- [[来源/464-percutaneous-tricuspid-valve-implantation-follow|Percutaneous Tricuspid Valve Implantation Following Fontan-Björk Surgery: a cutting-edge approach]]
+- [[来源/465-paving-the-way-for-tav-in-tav-with-unicorn-using|Paving the Way for TAV-in-TAV With UNICORN using Aortic Shockwave Lithotripsy when Alternative Access is not an Option]]
+- [[来源/466-case-presentation-1-severe-tr-and-pulmonary-hype|Case presentation: Pulmonary Hypertension and Severe TR: When Do You Treat?]]
+- [[来源/467-tavr-first|TAVR First]]
+- [[来源/468-mitral-annulo-tripsy-in-extreme-risk-patients-1|Mitral Annulo-TRIpsy in eXtreme Risk Patients: 1 Year Outcomes of the MATRIX Procedure]]
+- [[来源/469-personalized-sex-specific-post-tavr-remodeling-p|Personalized Sex-Specific Post-TAVR Remodeling Prediction by AI-Driven Left Ventricular Geometry in Aortic Stenosis]]
+- [[来源/470-3d-simulation-guided-double-unicorn-viviv-tavr-w|3D Simulation-Guided Double UNICORN ViViV TAVR Without Mechanical Support]]
+- [[来源/471-transcatheter-tricuspid-edge-to-edge-repair-in-r|Transcatheter Tricuspid Edge-to-Edge Repair in Right Ventricular Shock]]
+- [[来源/472-savr-first|Lifetime Management: TAVR vs SAVR in Low Risk and Young Patients — SAVR First]]
+- [[来源/473-case-presentation-tri-leaflet-aortic-valve-steno|Case Presentation: Tri-Leaflet Aortic Valve Stenosis in a Symptomatic < 65 yo Patient]]
+- [[来源/474-mitral-transcatheter-edge-to-edge-repair-with-pa|Mitral Transcatheter Edge-to-Edge Repair With PASCAL System – Initial Real-World Experience in Asia]]
+- [[来源/475-artificial-intelligence-enabled-ct-assessment-of|AI 辅助 CT 评估 TAVR 经股动脉入路：外部验证研究]]
+- [[来源/476-defeating-coronary-obstruction-unicorn-in-a-seve|击败冠脉阻塞：重度钙化 Freestyle 主动脉瓣中的 UNICORN（SAVR 后 TAVR 挑战病例）]]
+- [[来源/477-when-the-clip-drops-the-beat-complete-heart-bloc|当夹子让心跳停拍：三尖瓣 TEER 中的完全性房室传导阻滞]]
+- [[来源/478-case-presentation-and-discussion-set-up|病例展示与讨论设置（反向课堂病例集）]]
+- [[来源/479-hemodynamics-optimization-before-ttvi-heart-team|TTVI 前血流动力学优化：Heart Team 管理流程]]
+- [[来源/480-sedation-anesthesia-vs-general-endotracheal-for|PASCAL 二尖瓣 TEER 中监测麻醉与全身气管插管麻醉比较（SAGE-M-TEER 试验）]]
+- [[来源/481-the-tavr-durability-issue-insights-from-low-and|TAVR 耐久性问题：来自低危和中危 TAVR 试验的启示]]
+- [[来源/482-validation-of-an-automated-artificial-intelligen|自动化 AI TAVR 规划器的验证]]
+- [[来源/483-how-do-i-prepare-for-tricuspid-valve-in-x-proced|如何准备三尖瓣 Valve-in-X 操作？]]
+- [[来源/484-my-practical-guide-to-unicorn-indications-and-te|UNICORN 适应证与技术实用指南]]
+- [[来源/485-simplifying-leaflet-laceration-pi-cardia-shortcu|简化瓣叶裂开：Pi-Cardia ShortCut]]
+- [[来源/486-double-transseptal-guide-sheath-technique-to-pre|双房间隔导引鞘技术预防经导管二尖瓣置换中 dock 低位]]
+- [[来源/487-case-4-severe-mr-and-torrential-tr-with-progress|病例 4：严重二尖瓣反流和倾盆样三尖瓣反流伴进行性休克]]
+- [[来源/488-how-anatomic-phenotypes-affect-my-ttvi-decision|解剖表型如何影响我的 TTVI 决策过程]]
+- [[来源/489-efficacy-and-safety-of-combined-m-and-t-teer-wit|使用单个 TriClip SGC 联合 M-TEER 与 T-TEER 的有效性和安全性：回顾性单中心研究]]
+- [[来源/490-reducing-time-to-tavi-system-level-interventions|缩短 Time-to-TAVI：系统层面干预处理重度主动脉瓣狭窄照护瓶颈]]
+- [[来源/491-first-in-human-use-of-combined-unicorn-and-pi-ca|首例联合 UNICORN 与 Pi-Cardia ShortCut 技术用于瓣中瓣 TAVR]]
+- [[来源/492-m-teer-in-the-setting-of-cardiogenic-shock-requi|VAV ECMO 与 Impella 支持下心源性休克中的 M-TEER]]
+- [[来源/493-case-3-acute-aortic-bioprosthetic-valve-failure|病例 3：急性主动脉生物瓣衰竭（主动脉反流所致）合并休克]]
+- [[来源/494-integrating-robotic-minimally-invasive-direct-co|整合机器人微创直接冠脉旁路与结构性心脏介入：TAVR 与二尖瓣 TEER]]
+- [[来源/495-transcatheter-aortic-valve-replacement-in-an-und|服务不足人群中的经导管主动脉瓣置换：大型市立医疗系统结局]]
+- [[来源/496-primary-tr-a-wastebasket-diagnosis-or-a-distinct|原发性三尖瓣反流：垃圾篓式诊断，还是独立临床实体？]]
+- [[来源/497-tav-in-tav-in-complex-anatomy-with-horizontal-ro|复杂解剖下水平主动脉根和钙化瓣叶的 TAV-in-TAV：使用 ShortCut 瓣叶改良]]
+- [[来源/498-edge-to-edge-against-the-edge-emergency-m-teer-f|"边缘对边缘，逼近边缘"：心源性休克中重度功能性 MR 的急诊 m-TEER]]
+- [[来源/499-case-2-acute-mv-leaflet-flail-with-ruptured-chor|病例2：急性二尖瓣瓣叶Flail伴腱索断裂和重度心力衰竭]]
+- [[来源/500-predictors-of-mortality-in-patients-with-multiva|TAVI多瓣膜病患者死亡预测因素：MIRA研究见解]]
+- [[来源/501-trends-in-aortic-valve-disease-and-atrial-fibril|美国主动脉瓣疾病合并房颤死亡率趋势（1999-2024）：CDC WONDER Joinpoint分析]]
+- [[来源/502-m-teer-with-pascal-for-cardiogenic-shock-seconda|PASCAL M-TEER治疗急性乳头肌断裂继发心源性休克]]
+- [[来源/503-bilateral-leaflet-modification-with-shortcut-dev|失败THV合并冠脉错位中的ShortCut双侧瓣叶改造]]
+- [[来源/504-ventricular-secondary-tr-defining-subtypes-and-t|心室性继发性三尖瓣反流：定义亚型并定制治疗]]
+- [[来源/505-case-1-critical-aortic-stenosis-presenting-with|病例 1：休克表现的重度主动脉瓣狭窄]]
+- [[来源/506-remote-monitoring-adherence-and-outcomes-in-hear|瓣膜病因心衰患者远程监测依从性与结局：Satelia Cardio 项目启示]]
+- [[来源/507-guidelines-vs-practice-decision-making-and-outco|指南与实践：65 岁以下患者 TAVR 决策与结局]]
+- [[来源/508-designing-for-me-without-me-a-clinician-s-case-f|为我设计，却没有我：临床医生呼吁更早工程协作]]
+- [[来源/509-ecmo-assisted-mv-teer-in-setting-of-acute-papill|ECMO 辅助下急性乳头肌断裂中的二尖瓣 TEER]]
+- [[来源/510-first-in-man-use-of-the-picardia-shortcut-device|经左颈动脉入路使用 PiCardia ShortCut 行左冠瓣改造并完成瓣中瓣 TAVR：首例人体应用]]
+- [[来源/511-how-to-step-by-step-case-in-a-box-and-simulator|T-TEER 逐步操作与模拟器演示]]
+- [[来源/512-my-practical-guide-to-shortcut-indications-and-t|ShortCut 适应证与技术实用指南]]
+- [[来源/513-lost-in-translation-why-engineers-need-a-seat-at|断译：为什么工程师需要坐到临床桌前]]
+- [[来源/514-the-spectrum-and-treatment-algorithms-for-acute|急性失代偿瓣膜性心脏病的谱系与治疗算法]]
+- [[来源/515-atrial-secondary-tr-assessment-and-management-ch|心房性继发性三尖瓣反流：评估与管理选择]]
+- [[来源/516-patterns-and-timing-of-multipletranscatheter-val|索引 TAVR、M-TEER 和 TMVR 后多次经导管瓣膜介入的模式与时机]]
+- [[来源/517-national-trends-in-transcatheter-versus-surgical|经导管与外科主动脉瓣置换的全国趋势：在更年轻和更低风险人群中的扩展应用]]
+- [[来源/518-case-presentation-and-discussion-set-up|病例介绍与讨论设置：不可解的TAVR病例白板讨论]]
+- [[来源/519-acute-mitral-valve-syndrome-my-personal-checklis|急性二尖瓣综合征：我的个人清单]]
+- [[来源/520-the-bottom-line|底线观点：冠心病与主动脉瓣狭窄]]
+- [[来源/521-case-resolution-multi-vessel-cad-in-severe-sympt|多支冠脉病变合并重度症状性主动脉瓣狭窄：病例结局]]
+- [[来源/522-angiovac-debulking-for-tavi-valve-endocarditis-f|AngioVac为TAVI瓣感染性心内膜炎减容：ACURATE Prime首次应用]]
+- [[来源/523-robotically-assisted-m-teer-technology-descripti|机器人辅助 M-TEER：技术描述与早期临床结果（Robogenix）]]
+- [[来源/524-aortic-valve-trans-leaflet-lithotripsy-atlas-for|主动脉瓣经瓣叶碎石术（ATLAS）：TAVI 前环周定向钙化改良]]
+- [[来源/525-case-4-clip-management-to-facilitate-ttvr|为促进 TTVR 进行夹子管理：AMX + Evoque 人体首例]]
+- [[来源/526-what-is-the-appropriate-trial-design-for-patient|无获批 TTVI 选择患者的适当试验设计是什么？]]
+- [[来源/527-aortic-flow-restoration-towards-native-physiolog|主动脉血流恢复趋向原生生理：新型仿生 TAVR 首次人体 CMR 影像结果]]
+- [[来源/528-savv-teer-in-cctga-and-surgically-corrected-tga|ccTGA 与外科矫正 TGA 中的 SAVV TEER]]
+- [[来源/529-live-pre-recorded-case-presentation-3-new-mitral|预录直播病例 3：新型二尖瓣瓣叶延展（Polares）]]
+- [[来源/530-calcium-mobilization-during-tavi-in-bicuspid-aor|二叶主动脉瓣 TAVI 中的钙化移位：术前 CT 尺寸遇到术中解剖改变]]
+- [[来源/531-interventional-perspectives-pci-timing-valve-sel|介入视角：重度 AS 合并 CAD 时的 PCI 时机、瓣膜选择与瓣叶改造]]
+- [[来源/532-robotically-assisted-tmvr-capstan-technology-des|机器人辅助 TMVR（Capstan）：技术描述与早期临床结果]]
+- [[来源/533-complex-mitral-paravalvular-leak-closure-with-si|复杂二尖瓣瓣周漏封堵：同时释放 3 枚 Amplatzer Vascular Plug II]]
+- [[来源/534-surgical-perspectives-is-complete-revascularizat|外科视角：仍然需要完全血运重建吗？]]
+- [[来源/535-invasive-pressure-volume-loop-assessment-of-acut|重度症状性主动脉瓣狭窄 TAVI 后急性双心室血流动力学变化的侵入性压力-容积环评估]]
+- [[来源/536-utilization-trends-and-in-hospital-outcomes-of-t|经导管缘对缘修复与外科二尖瓣干预的利用趋势及院内结局]]
+- [[来源/537-challenging-thv-sizing-in-bicuspid-aortic-valve|二叶式主动脉瓣 THV 尺寸选择挑战：经颈动脉 TAVR 中心脏停搏与 Double-TAP 补救]]
+- [[来源/538-smart-navigation-robotic-delivery-of-luna-tmvr-a|智能导航：Tioga Luna TMVR 的机器人递送及未来应用]]
+- [[来源/539-planning-for-lifetime-management-of-aortic-steno|回顾主动脉瓣狭窄全生命周期管理规划：Valve-in-Valve-in-Valve TAVR 的考量]]
+- [[来源/540-case-3-valve-malposition-after-ttvr|TTVR 后瓣膜位置不良：Evoque 瓣周漏]]
+- [[来源/541-what-should-the-endpoints-be-for-new-trials|新试验的终点应该是什么？]]
+- [[来源/542-non-invasive-pressure-recovery-and-echo-invasive|TAVR 后无创压力恢复与超声-有创梯度不一致]]
+- [[来源/543-long-term-outcomes-of-bioprosthetic-valves-in-th|三尖瓣位生物瓣长期结局：20 余年结果的荟萃分析]]
+- [[来源/544-transcatheter-aortic-valve-replacement-for-pure|二叶式主动脉瓣纯反流的经导管主动脉瓣置换：JenaValve Trilogy 的同情使用]]
+- [[来源/545-robotically-assisted-ttvr-jenscare-technology-de|机器人辅助 TTVR（Jenscare）：技术描述和早期临床结果]]
+- [[来源/546-complex-biological-prosthesis-disease-how-to-rep|复杂生物瓣假体病变：如何修复]]
+- [[来源/547-when-is-revascularization-needed-what-does-the-d|何时需要血运重建：数据怎么说？]]
+- [[来源/548-transeptal-puncture-where-to-stick|房间隔穿刺：应该扎在哪里？]]
+- [[来源/549-case-2-recurrent-tr-after-t-teer|病例2：T-TEER后复发性三尖瓣反流]]
+- [[来源/550-what-do-we-know-about-durability|三尖瓣耐久性：我们知道什么？]]
+- [[来源/551-anatomic-hemodynamic-discordance-in-low-flow-low|低流量低梯度主动脉瓣狭窄中解剖-血流动力学不一致：临床挑战]]
+- [[来源/552-early-outcomes-of-a-standardized-neochordal-tech|后叶二尖瓣修复标准化人工腱索技术的早期结果]]
+- [[来源/553-severe-bicuspid-aortic-stenosis-with-coronary-an|合并冠状动脉异常的重度二叶式主动脉瓣狭窄：当 chimney 支架与极度欠尺寸成为解决方案]]
+- [[来源/554-gps-guided-robotically-assisted-tmvr-technology|GPS 引导机器人辅助 TMVR：技术描述与未来展望]]
+- [[来源/555-modified-unicorn-assisted-tavr-for-severe-aortic|改良 UNICORN 辅助 TAVR 治疗 burned-out 心内膜炎所致重度主动脉反流：高风险结构性方案]]
+- [[来源/556-anatomical-relations-of-interatrial-septum|房间隔的解剖毗邻关系：为安全经房间隔入路定位真正房间隔]]
+- [[来源/557-diagnostic-cad-assessments-for-decision-making-i|冠心病诊断评估用于决策：影像（包括CTA）及生理学]]
+- [[来源/558-case-presentation-multi-vessel-cad-in-severe-sym|病例展示：重度症状性主动脉瓣狭窄合并多支冠心病]]
+- [[来源/559-tavi-pilot-robotic-valve-placement-system-carvol|TAVI Pilot 机器人瓣膜定位系统（Carvolix）]]
+- [[来源/560-how-do-i-prepare-for-intervention-in-failed-valv|急性二尖瓣失败和心内膜炎介入时如何准备？]]
+- [[来源/561-treatment-of-bicuspid-aortic-valve-disease-a-sta|二叶式主动脉瓣疾病的治疗：最新综述与实用指南]]
+- [[来源/562-case-1-ttvr-thrombosis|病例 1：TTVR 血栓形成]]
+- [[来源/563-impact-of-sex-on-early-outcomes-after-minimally|性别对微创二尖瓣手术早期结局的影响]]
+- [[来源/564-what-are-the-unresolved-issues-in-current-ttvi-t|当前 TTVI 试验尚未解决的问题是什么？]]
+- [[来源/565-sapien-x4-edwards|SAPIEN X4（Edwards）]]
+- [[来源/566-case-resolution|病例结局]]
+- [[来源/567-heterotopic-tricuspid-valve-replacement-more-tha|异位三尖瓣置换：不只是最后选择]]
+- [[来源/568-tavr-treatment-for-lvad-associated-ar-an-emergin|LVAD 相关主动脉反流的 TAVR 治疗：一个正在出现的适应证]]
+- [[来源/569-impact-of-cardiac-damage-on-1-year-outcomes-afte|心脏损害对重度主动脉瓣狭窄 TAVI 后 1 年结局的影响]]
+- [[来源/570-totally-endoscopic-mitral-valve-replacement-and|全内镜二尖瓣置换并同期修复罕见冠状窦顶缺如]]
+- [[来源/571-novel-percutaneous-closure-of-an-anterior-mitral|Novel Percutaneous Closure of an Anterior Mitral Leaflet Perforation]]
+- [[来源/572-myval-meril|Myval（Meril）]]
+- [[来源/573-beyond-doppler-valve-kinematics-enables-rapid-si|Beyond Doppler: Valve Kinematics Enables Rapid, Single-View Assessment of Aortic Stenosis Severity]]
+- [[来源/574-left-atrial-appendage-occlusion-versus-oral-anti|Left Atrial Appendage Occlusion vs Oral Anticoagulation for Stroke Prevention in Atrial Fibrillation: Updated Meta-Analysis of Randomized Trials]]
+- [[来源/575-surgical-resection-of-prosthetic-valve-leaflets|Surgical Resection of Prosthetic Valve Leaflets Under Direct Vision (SURPLUS) for High-Risk Redo TAVR]]
+- [[来源/576-device-driven-endocardial-failure-retained-chemo|Device-Driven Endocardial Failure: Retained Chemo Port-Associated Bacteremia Leading to Catastrophic Left-Sided Valvular Destruction in Advanced HIV]]
+- [[来源/577-the-landscape-for-transcatheter-valve-therapy-fo|主动脉瓣反流经导管瓣膜治疗格局]]
+- [[来源/578-case-presentation|病例展示：暴雨样三尖瓣反流合并重度右室功能障碍]]
+- [[来源/579-duravr-anteris|DurAVR（Anteris）：仿生THV系统更新及小主动脉瓣环中的30天加权比较]]
+- [[来源/580-case-resolution|病例解决：复杂三尖瓣修复失败后的Evoque TTVR补救]]
+- [[来源/581-left-atrial-appendage-closure-versus-oral-antico|房颤左心耳封堵与口服抗凝对比：采用贝叶斯、试验序贯和GRADE方法的更新Meta分析]]
+- [[来源/582-stable-progressive-and-acute-valve-syndrome-in-s|重度主动脉瓣狭窄中的稳定、进展与急性瓣膜综合征：CURRENT AS Registry-2洞见]]
+- [[来源/583-recurrence-of-orthodeoxia-platypnea-syndrome-in|既往 Amplatzer PFO 封堵器植入后因主动脉根部扩张导致体位性低氧综合征复发]]
+- [[来源/584-percutaneous-aspiration-of-tricuspid-valve-veget|活动性右心感染性心内膜炎中使用 AngioVac 系统经皮抽吸三尖瓣赘生物：病例报告]]
+- [[来源/585-contemporary-surgical-management-of-ar|主动脉瓣反流的当代外科管理]]
+- [[来源/586-not-a-candidate-for-ttvi-scope-of-the-problem|不适合 TTVI：问题规模]]
+- [[来源/587-procedural-outcomes-of-a-novel-balloon-expandabl|新型球囊扩张式 TAVR（Encantor）治疗主动脉瓣狭窄的操作结局：FIH 与 EFS 结果]]
+- [[来源/588-distinct-early-procedural-safety-phenotype-in-wo|女性接受当代左心耳封堵的独特早期操作安全表型：心包和出血并发症较高但无额外卒中]]
+- [[来源/589-fibrocalcific-tissue-distribution-phenotypes-and|三叶主动脉瓣狭窄 TAVR 患者的纤维钙化组织分布表型与结局]]
+- [[来源/590-exceptionally-rare-anterolateral-papillary-muscl|极罕见前外侧乳头肌干酪样坏死：多模态影像诊断]]
+- [[来源/591-aspiration-assisted-pascal-ace-mitral-teer-with|伴脑保护的抽吸辅助 PASCAL Ace 二尖瓣 TEER：重度 MR 合并 A2 活动性瓣叶回声团块]]
+- [[来源/592-case-presentation|病例报告：T-TEER 后下一步怎么办？]]
+- [[来源/593-role-of-multimodality-imaging-in-assessment-of-a|多模态影像在主动脉瓣反流严重程度评估中的作用]]
+- [[来源/594-case-resolution|病例解决：巨大三尖瓣环合并暴雨样三尖瓣反流]]
+- [[来源/595-case-presentations|病例合集：结构性心脏并发症快速处理]]
+- [[来源/596-case-presentation-severe-ar-in-a-surgery-eligibl|外科适应患者重度主动脉反流病例：ARTIST试验候选者]]
+- [[来源/597-endovascular-skills-helpful-in-structural-interv|结构性心脏介入实践中有用的外周血管腔内技能：个人入门]]
+- [[来源/598-my-toolbox-for-managing-pvl-and-intracardiac-mas|管理瓣周漏和心腔内肿块的个人工具箱]]
+- [[来源/599-siegel-tavr-system-2-year-fih-and-6-month-u-s-ef|SIEGEL TAVR系统：FIH 2年和美国EFS 6个月结果]]
+- [[来源/600-beyond-paradoxical-embolism-inflammatory-redox-m|超越反常栓塞：炎症-氧化还原机制驱动PFO相关卒中的系统性促血栓状态]]
+- [[来源/601-is-optimal-medical-therapy-underutilized-for-sym|症状性三尖瓣反流是否未充分使用最佳药物治疗？]]
+- [[来源/602-case-5-large-pvl-algorithm-for-treatment|病例5：大型瓣周漏治疗算法]]
+- [[来源/603-case-presentation|病例汇报：巨大瓣环伴瀑布样三尖瓣反流]]
+- [[来源/604-beyond-tee-the-role-of-ice-in-contemporary-tricu|超越TEE：ICE在当代三尖瓣介入中的作用]]
+- [[来源/605-the-next-decade-of-tmvr-what-will-define-long-te|TMVR的下一个十年：什么将定义长期成功？]]
+- [[来源/606-impact-of-transcatheter-aortic-valve-implantatio|TAVR对二叶式主动脉瓣患者升主动脉重构的影响]]
+- [[来源/607-have-your-cake-and-eat-it-too-method-for-bailout|Have Your Cake and Eat It Too: Method for Bailout Snare-Assisted TAVR Deflection Without LV Access Sacrifice]]
+- [[来源/608-transcatheter-tricuspid-valve-interventions-do-w|Transcatheter Tricuspid Valve Interventions: Do We Have Device Choice Equipoise?]]
+- [[来源/609-percutaneous-and-medical-management-of-harmony-t|Percutaneous Management of Harmony TPV Infectious Endocarditis With Aspiration Vegetectomy Followed by Transcatheter VIV PVR]]
+- [[来源/610-case-4-tall-valve-embolization|Case 4: Tall Valve Embolization]]
+- [[来源/611-left-atrial-appendage-occlusion-in-patients-with|Left Atrial Appendage Occlusion in Patients Undergoing TAVR]]
+- [[来源/612-from-float-to-fix-bailout-balloon-expandable-res|From Float to Fix: Bailout Balloon-Expandable Rescue After Self-Expanding Valve Migration in LVAD-Associated Aortic Regurgitation]]
+- [[来源/613-redo-tpvr-in-a-patient-with-a-ross-procedure|Ross 术后患者的再次经导管肺动脉瓣置换]]
+- [[来源/614-illustrative-imaging-case-studies-in-complex-tri|复杂三尖瓣介入的影像病例示例]]
+- [[来源/615-selecting-the-right-smr-patient-indications-and|选择合适的 SMR 患者：TMVR 治疗的适应证与边界]]
+- [[来源/616-case-3-short-valve-embolization|病例 3：短瓣膜栓塞]]
+- [[来源/617-comparative-cost-and-workflow-of-ice-versus-tee|ICE 与 TEE 引导左心耳封堵的成本和流程比较]]
+- [[来源/618-win-ratio-analysis-for-the-1-year-composite-endp|LANDMARK 试验子研究：1 年复合终点胜率分析]]
+- [[来源/619-acute-valve-embolization-during-tavr-successful|Acute Valve Embolization During TAVR: Successful Snare Assisted Repositioning With Second Valve Implantation]]
+- [[来源/620-severe-congenital-pulmonary-stenosis-presenting|Severe Congenital Pulmonary Stenosis Presenting in Adulthood Treated With Balloon Valvuloplasty]]
+- [[来源/621-interlaboratory-round-robin-study-path-to-harmon|Interlaboratory Round Robin Study: Path to Harmonization]]
+- [[来源/622-tmvr-in-mac-which-anatomical-features-predict-te|TMVR in MAC: Which Anatomical Features Predict Technical Success?]]
+- [[来源/623-imager-structuralist-communication-standardizing|Imager-Structuralist Communication: Standardizing Nomenclature for Intraprocedural Workflow]]
+- [[来源/624-case-2-vascular-injury|Case 2. Vascular Injury]]
+- [[来源/625-unfractionated-heparin-timing-in-transseptal-pun|需要经房间隔穿刺手术中未分馏肝素给药时机：单中心研究]]
+- [[来源/626-sex-based-differences-in-outcomes-among-patients|急性心力衰竭患者接受TAVR后结局的性别差异]]
+- [[来源/627-when-valves-wander-a-successful-bailout-after-ta|瓣膜游走：TAVR瓣膜迁移后的成功补救]]
+- [[来源/628-pulmonary-vein-revascularization-in-patient-with|房颤消融后反复肺部感染患者的肺静脉再血管化]]
+- [[来源/629-variability-reduction-not-elimination-setting-th|减少变异而非消除变异：为超声核心实验室方法学协调设定正确预期]]
+- [[来源/630-live-pre-recorded-case-presentation-1-mitral-tee|预录直播病例1：退行性二尖瓣反流mTEER（PASCAL）]]
+- [[来源/631-case-1-acute-complications-of-incomplete-transca|病例1：经导管主动脉瓣植入不完全的急性并发症]]
+- [[来源/632-m3-tmvr-after-fda-approval-real-world-utilizatio|M3 TMVR FDA批准后：真实世界使用与采纳策略]]
+- [[来源/633-minimizing-aortic-valve-embolization-my-personal|减少主动脉瓣栓塞：我的个人清单]]
+- [[来源/634-same-patients-different-results-the-case-for-ech|同一批患者，不同结果：超声核心实验室协调化的理由]]
+- [[来源/635-lessons-from-patient-specific-computational-flui|左心耳封堵中患者特异性CFD的启示]]
+- [[来源/636-imaging-parameters-beyond-tr-severity-what-else|TR严重程度之外的影像参数：还要看什么？]]
+- [[来源/637-outcomes-of-transcatheter-aortic-valve-replaceme|感染性心内膜炎治疗后残留主动脉瓣关闭不全的 TAVR 结局]]
+- [[来源/638-restoring-the-valvular-plane-acute-tavi-in-tavi|重建瓣膜平面：高度椭圆二叶瓣瓣环深度心室迁移后的急性期 TAVI-in-TAVI]]
+- [[来源/639-utilization-of-an-intraprocedural-dobutamine-cha|术中多巴酚丁胺激发试验识别并用二尖瓣 TEER 治疗外科修复术后动态 LVOT 梗阻]]
+- [[来源/640-changing-the-paradigm-for-sensing-and-pacing-str|改变 TAVR 后感知和起搏策略范式：引入 SMART Valves]]
+- [[来源/641-basilica-trends-and-outcomes-insights-from-the-s|BASILICA 趋势与结局：来自 STS/ACC TVT 注册研究的洞见]]
+- [[来源/642-case-4-continuous-pericardial-wall-suction-as-a|病例 4：TAVR 中灾难性左室穿孔的补救策略，连续心包壁吸引]]
+- [[来源/649-ai-driven-image-enhancement-and-3d-navigation-in|AI 驱动的 TAVR 图像增强与 3D 导航]]
+- [[来源/650-bioventrix|BioVentrix：低侵入性心室增强 RELIVE 试验]]
+- [[来源/651-real-world-outcomes-of-the-shortcut-device-for-l|ShortCut 装置在 ViV TAVR 前生物瓣叶改良中的真实世界结局]]
+- [[来源/652-when-the-balloon-fails-tavr-balloon-rupture-mana|当球囊失效：TAVR 球囊破裂后的套索取回和瓣中瓣补救]]
+- [[来源/653-case-3-risk-of-aortic-root-rupture-in-bicuspid-a|病例 3：二叶式主动脉瓣狭窄中主动脉根部破裂风险——ABC 尺寸算法]]
+- [[来源/654-using-a-coronary-sinus-approach-carillon-updates|经冠状窦途径的心室重构：Carillon 治疗更新]]
+- [[来源/655-improved-right-ventricular-function-following-tr|Trisol瓣膜治疗后右心室功能改善]]
+- [[来源/656-transcatheter-versus-surgical-management-of-conc|伴心力衰竭患者主动脉瓣狭窄合并冠状动脉疾病的经导管与外科治疗比较]]
+- [[来源/657-gore-cardioform-septal-occluderfor-closure-of-re|Gore Cardioform Septal Occluder 封堵 MitraClip 后残余二尖瓣反流]]
+- [[来源/658-subacute-thv-migration-after-unicorn-leaflet-mod|退化 Freestyle 瓣 UNICORN 瓣叶改造后亚急性 THV 移位，以 TAV-in-TAV-in-SAV 抢救]]
+- [[来源/659-ai-guidance-software-for-tavi-tavipilot-early-hu|TAVI AI 导航软件 TAVIPILOT：早期人体临床经验]]
+- [[来源/660-evolution-of-heart-valve-teams-and-the-patient-e|心脏瓣膜团队与患者体验的演变（EVOLVE）：美国 TAVR 项目的多中心混合方法研究]]
+- [[来源/661-case-2|病例 2：TAVR 后即刻突发血流动力学崩溃]]
+- [[来源/662-from-the-mid-wall-of-the-myocardium-mirth|从心肌中壁出发：MIRTH 心室成形]]
+- [[来源/663-recurrent-tricuspid-regurgitation-after-lux-valv|LuX-Valve 经导管三尖瓣置换后复发性三尖瓣反流：心脏植入式电子装置的影响]]
+- [[来源/664-simultaneous-pci-tavi-versus-pre-tavi-pci-approa|CAD 患者 TAVI 中同期 PCI-TAVI 与 TAVI 前 PCI：单中心回顾性研究]]
+- [[来源/665-navigating-the-crossbar-through-the-ring-m-teer|穿越'横杆'：外科二尖瓣环开裂后重度 MR 的 through-the-ring M-TEER]]
+- [[来源/666-transcatheter-pullback-of-embolized-sapien-with|经 Evolut 经导管回拉栓塞 Sapien：TRAPEZE 在 TAV-in-TAV 中抢救栓塞 Sapien]]
+- [[来源/667-materialise-mimics-for-cardiac-interventions-pla|Materialise Mimics 用于心脏介入：FEops 预测洞察赋能的规划]]
+- [[来源/668-from-inside-the-lv-ancora-updates|从左室内部看：ANCORA 更新]]
+- [[来源/669-live-pre-recorded-case-presentation-1-tavr-with|预录现场病例 1：TAVR 伴瓣叶改良（BASILICA-TELLTALE）]]
+- [[来源/670-how-to-step-by-step-case-in-a-box-and-simulator|手把手步骤：Case-in-a-Box 与模拟器演示]]
+- [[来源/671-ai-enabled-ecg-analysis-for-detection-and-predic|AI 辅助 ECG 分析用于结构性心脏病的检测与预测]]
+- [[来源/672-minimizing-complications-of-mteer-my-personal-ch|最小化 mTEER 并发症：我的个人清单]]
+- [[来源/673-precision-planning-through-digital-twin-technolo|数字孪生技术用于结构性心脏介入的精准规划]]
+- [[来源/674-a-novel-ttvr-system-from-early-feasibility-to-pi|新型 TTVR 系统：从早期可行性研究到关键性试验设计]]
+- [[来源/675-introduction-rationale-for-lv-remodeling-therapi|左室重构治疗用于扩张型心肌病的理论基础]]
+- [[来源/676-case-1|ARCTIC 误险病例：二尖瓣环钙化中 TMVR 的连续补救]]
+- [[来源/677-frame-fibrosis-of-transcatheter-aortic-valves|经导管主动脉瓣支架纤维化]]
+- [[来源/678-electrosurgical-laceration-and-stabilization-of|既有三尖瓣夹和外科 Alfieri 缝合患者的经导管三尖瓣置换]]
+- [[来源/679-innovalve|TWIST 研究中使用 INNOVALVE 系统经股静脉 TMVR]]
+- [[来源/680-impact-of-concomitant-left-sided-valve-disease-o|TTVR 后合并左心瓣膜病对临床结局的影响：TRIPLACE 注册研究]]
+- [[来源/681-effect-of-nominal-volume-double-tap-post-dilatat|标称容量 Double Tap 后扩张对球囊扩张式 TAVR 后显著 THV 中段支架框架欠扩张的影响]]
+- [[来源/682-m-teer-for-patients-with-a-small-mitral-valve-or|小二尖瓣口面积患者的 M-TEER：REPAIR 研究]]
+- [[来源/683-the-importance-of-modes-of-bioprosthetic-valve-f|生物瓣失效模式及再干预阈值的重要性]]
+- [[来源/684-clinical-trial-innovations-and-alternative-evide|临床试验创新和替代证据来源：丰富真实世界 LAAC 价值主张]]
+- [[来源/685-valve-migration-during-transseptal-tmvr-in-sever|Valve Migration During Transseptal TMVR in Severe Mitral Annular Calcification: Valve-in-Valve Rescue After BATMAN-Facilitated Deployment]]
+- [[来源/686-desperate-measures-in-a-desperate-situation-endo|Desperate Measures in a Desperate Situation: Endovascular Fenestration of Infra-Renal True Lumen Collapse Post Type I Aortic Dissection Repair]]
+- [[来源/687-cephea|Cephea TMVR Program Update]]
+- [[来源/688-will-robotic-tee-using-ai-algorithms-impact-futu|Will Robotic TEE Using AI Algorithms Impact Future LAAC Workflow?]]
+- [[来源/689-prognostic-value-of-right-ventricular-pulmonary|Prognostic Value of Right Ventricular-Pulmonary Artery Coupling in Patients Undergoing TTVR: Insights from TRISCEND and TRISCEND II]]
+- [[来源/690-post-dilation-beyond-ifu-in-evolut-valves-presen|Pre- and Post-Dilation Patterns in Evolut Valves Presenting With Bioprosthetic Valve Failure]]
+- [[来源/691-impact-of-frame-architecture-in-redo-tavr-tall-a|Impact of Frame Architecture in Redo-TAVR]]
+- [[来源/692-real-world-evaluation-of-mitraclip-vs-pascal-for|Real-World Evaluation of MitraClip vs PASCAL for M-TEER in Mitral Regurgitation (REAL-MR)]]
+- [[来源/693-simplified-batman-swatt-technique-for-transcathe|Simplified BATMAN-SWATT Technique for Transcatheter Mitral Valve Replacement]]
+- [[来源/694-in-vivo-electrosurgical-fenestration-of-mal-rota|In-Vivo Electrosurgical Fenestration of Mal-Rotated Valved Aortic Root Conduit]]
+- [[来源/695-intrepid|Intrepid TMVR Clinical Program Update]]
+- [[来源/696-nt-probnp-and-clinical-response-ffter-transcathe|NT-proBNP and Clinical Response After Transcatheter Tricuspid Valve Replacement: Insights from TRISCEND and TRISCEND II]]
+- [[来源/697-balloon-post-dilation-after-transcatheter-aortic|TAVI 后球囊后扩张在自膨瓣与球扩瓣中的影响]]
+- [[来源/698-keynote-lecture-the-promise-of-novel-pharmacolog|新型药物学改变房颤卒中预防格局的承诺（FXI抑制剂主题演讲）]]
+- [[来源/699-tip-to-base-lampoon-converting-a-prohibitive-val|Tip-to-Base LAMPOON 将禁忌性Valve-in-MAC解剖转化为成功TMVR]]
+- [[来源/700-combined-percutaneous-tavi-and-tmvr-in-the-absen|无股动脉入路时经皮联合TAVI与TMVR]]
+- [[来源/701-highlife|HighLife TMVR四年临床结局与瓣膜性能]]
+- [[来源/702-tav-in-tav-featuring-valve-selection-and-sizing|TAV-in-TAV：瓣膜选择、尺寸、瓣叶改造与冠脉通路]]
+- [[来源/703-repeat-m-teer-in-the-tvt-registry-temporal-trend|TVT Registry 中重复 M-TEER：时间趋势、预测因素与结局]]
+- [[来源/704-hemodynamic-characteristics-of-triscend-ii-trial|TRISCEND II 试验参与者血流动力学特征及其与临床结局的关联]]
+- [[来源/705-percentage-resizing-and-post-tavr-gradients-in-r|RESILIA 与旧代球囊扩张瓣中 percentage resizing 和 TAVR 后梯度]]
+- [[来源/706-transcatheter-mitral-valve-in-ring-implantation|严重二尖瓣成形环狭窄的经导管二尖瓣瓣中环植入：BATMAN 技术]]
+- [[来源/707-tavi-in-complex-patient-when-complexity-and-comp|复杂患者 TAVI：复杂性与并发症交汇时]]
+- [[来源/708-altavalve|AltaValve 经导管二尖瓣置换系统]]
+- [[来源/709-transcatheter-tricuspid-valve-replacement-versus|经导管三尖瓣置换对比药物治疗治疗重度继发性三尖瓣反流：TRIPLACE 注册研究]]
+- [[来源/710-sapien-3-ultra-compared-with-sapien-ultra-resili|Sapien 3 Ultra Resilia 与 Sapien 3 Ultra 两年比较]]
+- [[来源/711-one-year-outcomes-of-pascal-m-teer-real-world-ev|PASCAL M-TEER 一年结局：来自 TVT Registry 的真实世界证据]]
+- [[来源/712-contralateral-anterograde-stenting-assisted-prof|复杂经股 TAVR 中对侧顺行支架辅助股深动脉入路闭合]]
+- [[来源/713-first-lampoon-experience-in-argentina-for-transc|阿根廷首例 LAMPOON 辅助 TMVR 经验]]
+- [[来源/714-tav-in-sav-featuring-valve-fracture-leaflet-modi|TAV-in-SAV：瓣膜断裂、瓣叶改造与外置外科瓣叶]]
+- [[来源/715-the-saturn-tmvr-system-innovheart|Saturn TMVR 系统（InnovHeart）]]
+- [[来源/716-how-to-step-by-step-case-in-a-box|逐步操作（盒中病例）：室间隔减容 SESAME]]
+- [[来源/717-sts-tricuspid-score-validation-and-risk-factors|STS-Tricuspid 评分验证与真实世界孤立三尖瓣手术风险因素评估]]
+- [[来源/718-balloon-expandable-valves-are-associated-with-hi|球囊扩张瓣在中大型瓣环 TAVR 中与更高人工瓣-患者不匹配相关]]
+- [[来源/719-iliofemoral-artery-on-a-stick-a-hybrid-endovascu|髂股动脉挂在器械上：TAVR 重大血管并发症的混合腔内抢救]]
+- [[来源/720-iabp-supported-antegrade-lampoon-enables-valve-i|IABP 支持的前向 LAMPOON 实现机械主动脉瓣置换后的瓣环内 TMVR]]
+- [[来源/721-the-palmetto-tmvr-system-revalve|The Palmetto TMVR System (ReValve)]]
+- [[来源/722-lampoon-trends-and-outcomes-insights-from-the-st|LAMPOON Trends and Outcomes: Insights from the STS/ACC TVT Registry]]
+- [[来源/723-the-munich-tmvr-system|The Munich TMVR System: First Human Experience]]
+- [[来源/724-ct-planning-for-both-surgical-and-tavr-valve-in|CT Planning for Both TAV-in-SAV and TAV-in-TAV]]
+- [[来源/725-clinical-significance-of-the-tri-score-following|Clinical Significance of the TRI-SCORE Following TTVR: The TRIPLACE Registry]]
+- [[来源/726-short-and-long-term-outcomes-after-transcatheter|Short- and Long-Term Outcomes After TAVI with Large Self-Expanding Valves]]
+- [[来源/727-combined-asa-lampoon-and-batman-to-prevent-lvot|联合 ASA、LAMPOON 和 BATMAN 预防 TMVR 中 LVOT 梗阻]]
+- [[来源/728-self-expanding-tavi-in-ilio-femoral-tortuosity-t|髂股动脉迂曲中的自膨式 TAVI：Buddy Wire 的作用]]
+- [[来源/729-imaging-guidance-for-concomitant-af-ablation-and|联合房颤消融与左心耳封堵的影像引导：ICE 与 TEE、左侧与右侧 ICE]]
+- [[来源/730-one-year-outcomes-of-m3-tmvr-in-patients-with-mi|M3 经导管二尖瓣置换治疗二尖瓣环钙化患者的一年结局：ENCIRCLE-MAC 登记研究]]
+- [[来源/731-my-practical-guide-to-managing-the-lvot-obstruct|管理 LVOT 梗阻风险的实用指南]]
+- [[来源/732-alternative-access-for-tavr-a-state-of-the-art-r|TAVR 替代入路：最新综述与实用指南]]
+- [[来源/733-featured-lecture-real-world-outcomes-of-transsep|特色讲座：经房间隔 TMVR 真实世界结局，MIRACLE 注册研究启示]]
+- [[来源/734-hemodynamic-changes-after-transcatheter-valve-re|三尖瓣反流经导管修复与置换后的血流动力学变化]]
+- [[来源/735-fitting-index-an-important-concept-to-assess-cli|Fitting Index：评估 TAVR 后临床结局的重要概念]]
+- [[来源/736-questioning-the-durability-of-tav-in-sav-rationa|质疑 TAV-in-SAV 的耐久性：Redo SAVR vs TAV-in-SAV 随机对照试验的理由]]
+- [[来源/737-conscious-sedation-laao-preventing-recognizing-a|清醒镇静 LAAO：预防、识别和处理并发症]]
+- [[来源/738-late-transcatheter-heart-valve-device-migration|ViMAC 后经导管心脏瓣膜迟发迁移：机制与瓣中瓣处理]]
+- [[来源/739-liberation-of-an-aortic-valve-leaflet-under-intr|Liberation of an Aortic Valve Leaflet Under Intra-Valvular Intracardiac Echocardiographic Guidance]]
+- [[来源/740-halt-prevention-and-treatment-pharmacology-and-b|HALT Prevention and Treatment: Pharmacology and Beyond (Case Examples)]]
+- [[来源/741-case-resolution|Case Resolution: Multivalve Disease Case]]
+- [[来源/742-management-of-new-conduction-disturbances-after|Management of New Conduction Abnormalities after TTVR]]
+- [[来源/743-from-pre-procedural-planning-to-intraprocedural|From Pre-procedural Planning to Intraprocedural Rescue: Lessons From a Complex Valve-in-MAC Case]]
+- [[来源/744-acute-aortic-regurgitation-following-transcathet|Acute Aortic Regurgitation Following Transcatheter Aortic Valve Implantation]]
+- [[来源/745-live-pre-recorded-case-presentation-right-atrial|右房 4D ICE 引导 LAAC 预录病例演示]]
+- [[来源/746-predictors-of-halt-and-the-role-of-frame-expansi|HALT 预测因素与瓣架扩张的作用]]
+- [[来源/747-impact-of-ischemic-mitral-regurgitation-on-clini|缺血性二尖瓣反流对临床结局的影响：EXPANDed 研究结果]]
+- [[来源/748-prophylactic-permanent-pacemaker-versus-selectiv|基线 RBBB TAVR 患者预防性永久起搏器与选择性起搏：系统综述与荟萃分析]]
+- [[来源/749-mitral-intervention-via-retrograde-access-with-c|夹子在位的逆行二尖瓣介入与瓣叶电外科治疗 MAC：MIRACLE-MAC 病例]]
+- [[来源/750-physician-modified-repair-for-pure-native-severe|高外科风险纯原生重度主动脉反流的医生改良修复]]
+- [[来源/751-live-pre-recorded-case-presentation-2-new-tavr-d|预录直播病例2：新型TAVR DurAVR（Anteris）]]
+- [[来源/752-jailed-leads-after-ttvr-consequences-complicatio|TTVR后被夹闭的导线：后果、并发症与管理]]
+- [[来源/753-case-presentation|病例展示：多瓣膜病变]]
+- [[来源/754-case-resolution|病例解决方案：分阶段M-TEER后TAVR]]
+- [[来源/755-the-central-controversy-does-halt-have-clinical|中心争议：HALT是否有临床后果？]]
+- [[来源/756-redefining-functional-mitral-regurgitation-sever|重定义功能性/继发性二尖瓣反流严重程度与结局：EXPANDed研究结果]]
+- [[来源/757-permanent-pacemaker-recovery-post-transcatheter|经导管主动脉瓣植入后永久起搏器恢复：LANDMARK 试验事后分析]]
+- [[来源/758-the-sitral-surgical-implantation-of-transcathete|SITRAL：原生二尖瓣环钙化中外科植入经导管瓣膜]]
+- [[来源/759-reversing-regurgitant-physiology-pressure-volume|反转反流生理：纯主动脉反流专用 TAVR 后的压力-容量洞察]]
+- [[来源/760-what-the-new-guidelines-say-about-cied-managemen|新指南如何看待 TR 患者的 CIED 管理]]
+- [[来源/761-efs-cookbook-and-explorer-free-resources-for-you|EFS Cookbook 与 Explorer：旅程中的免费资源]]
+- [[来源/762-halt-basic-science-cellular-and-pathology-insigh|HALT 基础科学：细胞与病理学洞见]]
+- [[来源/763-the-eurosmr-score-for-predicting-1-year-mortalit|EuroSMR 评分预测不同二尖瓣反流病因患者 M-TEER 后 1 年死亡：REPAIR 研究]]
+- [[来源/764-predictors-of-conduction-system-disturbances-res|LANDMARK 亚研究：导致新发永久起搏器植入的传导系统障碍预测因素]]
+- [[来源/765-gotham-in-the-cath-lab-batman-facilitated-tmvr-v|导管室里的哥谭：双次酒精室间隔消融后 BATMAN 辅助 ViMAC TMVR]]
+- [[来源/766-transfemoral-transcatheter-aortic-valve-implanta|经股动脉 TAVI 治疗 LVAD 受者主动脉反流]]
+- [[来源/767-lead-extraction-in-patients-with-tr-when-and-how|三尖瓣反流患者导线拔除：何时以及如何？]]
+- [[来源/768-reimbursement-for-categories-a-and-b-what-cms-lo|A 类和 B 类报销：CMS 如何看数据和方案]]
+- [[来源/769-case-presentation|病例展示：AS-MR，先从……开始]]
+- [[来源/770-case-resolution|病例结局：多瓣膜病 AS 合并 MS]]
+- [[来源/771-treatment-of-aortic-regurgitation-a-state-of-the|主动脉瓣反流的治疗：最新综述与实用指南]]
+- [[来源/772-minimizing-complications-of-valve-in-mac-my-pers|减少 Valve-in-MAC 并发症：我的个人清单]]
+- [[来源/773-the-association-of-cied-with-tricuspid-regurgita|CIED 与三尖瓣反流的关联]]
+- [[来源/774-a-startup-s-journey-from-efs-to-pivotal-scars-on|一家初创公司从 EFS 到 Pivotal 的旅程：我背上的伤痕]]
+- [[来源/775-early-outcomes-of-transcatheter-edge-to-edge-rep|MitraClip G5 经导管缘对缘修复的早期结局：MITRAGEN5 注册研究]]
+- [[来源/776-my-preferred-technical-approach-to-2d-ice-guided|我偏好的 2D ICE 引导左心耳封堵技术路径]]
+- [[来源/777-complication-profiles-in-transcatheter-aortic-va|经导管主动脉瓣置换并发症谱：56,806 份 FDA MAUDE 不良事件报告的自然语言处理分析（2012-2025）]]
+- [[来源/778-the-halt-imaging-playbook-definitions-and-case-e|HALT 影像手册：定义与病例示例]]
+- [[来源/779-one-guide-two-valves-combined-mitral-and-tricusp|一根导引，两个瓣膜：使用单套 TriClip 系统完成二尖瓣和三尖瓣联合 TEER]]
+- [[来源/780-bilateral-leaflet-modification-with-ivl-ba-basil|双侧瓣叶改造：IVL BA-BASILICA 与 IVL UNICORN 联合 LAVA-ECMO 支持下治疗重度生物瓣主动脉反流的瓣中瓣 TAVR]]
+- [[来源/781-altavalve-tmvr-in-mac-procedural-and-clinical-re|AltaValve 经导管二尖瓣置换治疗 MAC：操作与临床结果]]
+- [[来源/782-case-presentation|病例报告：主动脉瓣狭窄合并二尖瓣狭窄的多瓣膜病]]
+- [[来源/783-laac-m-teer-with-case-examples|左心耳封堵联合二尖瓣经导管缘对缘修复：含病例示例]]
+- [[来源/784-case-5-failed-transfemoral-tavr-oops-should-have|病例 5：经股动脉大鞘入路失败，本该考虑替代入路]]
+- [[来源/785-case-presentation-3-severe-tr-with-significant-r|病例报告 3：重度三尖瓣反流合并显著右室功能不全]]
+- [[来源/786-reverse-ventricular-remodeling-after-teer-in-isc|TEER 后缺血性与非缺血性 FMR 的心室逆向重构]]
+- [[来源/787-laac-tavr-with-case-examples|左心耳封堵 + TAVR（含病例示例）]]
+- [[来源/788-triclip-after-lvad-a-novel-solution-to-tr-mediat|LVAD 后 TriClip：TR 介导低流量报警的新解决方案]]
+- [[来源/789-bail-out-llamacorn-for-basilica-failure|BASILICA 失败后的 Bail-out LLAMACORN]]
+- [[来源/790-the-diagnostic-pitfalls-of-multi-valve-disease|多瓣膜病的诊断陷阱]]
+- [[来源/791-tendyne-tmvr-in-patients-with-severe-mac-charact|重度二尖瓣环钙化患者的 Tendyne 经导管二尖瓣置换]]
+- [[来源/792-case-4-the-plumber-and-the-electrician-delayed-c|病例 4：管道工与电工——TAVR 后迟发性传导异常]]
+- [[来源/793-early-left-ventricular-ejection-fraction-improve|二尖瓣 M-TEER 后早期 LVEF 改善及其预后意义]]
+- [[来源/794-aortic-valve-leaflet-excursion-is-independently|主动脉瓣叶开放幅度与左室应变受损独立相关]]
+- [[来源/795-successful-ice-guided-t-teer-in-a-patient-with-o|ICE 引导 T-TEER 治疗主动脉骑跨且 TEE 显像受限病例]]
+- [[来源/796-to-basilica-or-not-to-basilica-a-technical-pivot|要不要做 BASILICA：紧 Bio-Bentall 中的技术转向]]
+- [[来源/797-case-presentation-2-complex-tr-anatomy-in-a-non|病例 2：非手术候选者复杂三尖瓣反流解剖——修复还是置换？]]
+- [[来源/798-cephea-in-mac-lessons-learned-from-early-human-c|MAC 中使用 Cephea：早期人体临床研究经验]]
+- [[来源/799-implications-of-the-tapse-pasp-ratio-in-mitral-v|二尖瓣脱垂中 TAPSE/PASP 比值的意义：MIDA-Q 注册研究]]
+- [[来源/800-outcomes-and-management-of-hypoattenuating-leafl|TAVR 后 HALT 和临床瓣膜血栓的结局与管理]]
+- [[来源/801-case-3-asymmetry-or-frame-deformity-do-we-need-a|病例 3：瓣架不对称或变形：我们需要完美圆形吗？]]
+- [[来源/802-lead-the-way-pacemaker-repositioning-to-enable-s|引导通路：起搏器导线复位使重度 TR 的 TriClip 成功]]
+- [[来源/803-ivl-enabled-bilateral-basilica-in-stentless-viv|IVL 辅助双侧 BASILICA 用于无支架瓣 ViV TAVR]]
+- [[来源/804-mitral-valve-lithotripsy-using-the-smartcrack-ba|使用 SMARTCRACK 球囊治疗 MAC 的二尖瓣碎石：技术描述和早期人体结果]]
+- [[来源/805-ventricular-and-atrial-strain-analysis-after-m-t|M-TEER 后心室和心房应变分析：单中心回顾性研究]]
+- [[来源/806-hypo-attenuated-leaflet-thickening-in-current-ba|当前球囊扩张式经导管心脏瓣膜术后低衰减瓣叶增厚：高容量单中心CT研究的发生率和预测因素]]
+- [[来源/807-case-2-elevated-gradients-early-after-tavr-how-h|病例2：TAVR后早期跨瓣压差升高，多高才算太高？]]
+- [[来源/808-4d-intracardiac-ultrasound-ice-guided-tricupsid|4D心腔内超声（ICE）指导三尖瓣TEER]]
+- [[来源/809-lacerate-to-liberate-preventing-coronary-obstruc|切开以解放：TAV-in-TAV中通过瓣叶改良预防冠脉阻塞]]
+- [[来源/810-case-presentation-1-favorable-tr-anatomy-repair|病例1：有利TR解剖，修复、置换还是外科？]]
+- [[来源/811-minimizing-complications-of-tteer-my-personal-ch|减少 tTEER 并发症：我的个人检查清单]]
+- [[来源/812-transcatheter-electrosurgery-and-leaflet-modific|主动脉瓣经导管电外科与瓣叶改良：概述与分步操作]]
+- [[来源/813-anatomical-and-clinical-factors-affecting-treatm|三尖瓣反流治疗选择的解剖和临床因素]]
+- [[来源/814-mitral-annulo-tripsy-in-extreme-risk-patients-ma|极高危患者二尖瓣环震波碎钙术（MATRIX）：操作描述与早期临床结果]]
+- [[来源/815-right-ventricular-performance-in-the-mitra-fr-tr|MITRA-FR 试验中的右室表现：特征与预后影响]]
+- [[来源/816-tissue-remodeling-patterns-associated-with-valve|TAVI 后瓣膜功能障碍相关的组织重塑模式：180 天临床前模型启示]]
+- [[来源/817-concomitant-af-ablation-and-laac-clinical-trials|同期房颤消融与左心耳封堵：临床试验和真实世界证据]]
+- [[来源/818-case-1-moderate-or-more-pvl-to-plug-or-to-replac|病例1：中度及以上瓣周漏，封堵还是换瓣？]]
+- [[来源/819-the-bottom-line|小主动脉瓣环管理的底线]]
+- [[来源/820-an-unexpected-turn-echocardiography-unmasks-annu|意外转折：超声揭示 TAVR 后瓣环破裂]]
+- [[来源/821-transcatheter-treatment-of-chronic-aortic-regurg|J-Valve 系统经导管治疗慢性主动脉瓣反流：1 年早期可行性研究结果]]
+- [[来源/822-transcatheter-tricuspid-valve-annuloplasty-versu|经导管三尖瓣环成形术与缘对缘修复：倾向匹配多中心比较分析]]
+- [[来源/823-five-year-outcomes-of-self-expanding-intra-annul|自膨式瓣环内经导管心脏瓣膜治疗重度主动脉瓣狭窄的五年结果：Navitor IDE 研究更新]]
+- [[来源/824-conformal-laac-device-design-and-clinical-update|CONFORMAL LAAC：器械设计与临床更新]]
+- [[来源/825-case-presentation-2-torrential-tr-with-end-organ|暴发性三尖瓣反流合并终末器官功能障碍（无效治疗？）]]
+- [[来源/826-a-challenging-case-parade-of-small-annulus-patie|小瓣环患者挑战病例巡礼]]
+- [[来源/827-tav-in-tav-through-a-previuosly-embolized-self-e|经既往栓塞自膨瓣实施 TAV-in-TAV]]
+- [[来源/828-cracking-the-calcified-valve-ivl-assisted-mitral|钙化瓣膜破裂：IVL 辅助二尖瓣球囊成形术]]
+- [[来源/829-the-jenavalve-tavr-system-for-aortic-insuficieny|The JenaValve TAVR System for Aortic Insufficiency]]
+- [[来源/830-hemodynamically-guided-heart-failure-management|CardioMEMS and Readmission Outcomes Following Mitral TEER in Patients with Ventricular Functional Mitral Regurgitation]]
+- [[来源/831-long-term-outcomes-after-transcatheter-aortic-va|Long-term Outcomes After Transcatheter Aortic Valve Replacement: Comparison with Evolut Low Risk Trial]]
+- [[来源/832-hostile-anatomy-without-options-challenging-case|Hostile Anatomy Without Options: Challenging Case of Percutaneous Balloon Mitral Commissurotomy in the Setting of Severe Pulmonary Hypertension]]
+- [[来源/833-torrential-mitral-regurgitation-following-self-e|Torrential Mitral Regurgitation Following Self-Expanding TAVR: Salvage with mTEER]]
+- [[来源/834-case-presentation-1-moderate-severe-tr-with-symp|Case Presentation 1: Moderate-Severe TR with Symptoms]]
+- [[来源/835-tavr-approaches-in-small-annulus-patients-show-u|小主动脉瓣环患者的 TAVR 策略：临床证据]]
+- [[来源/836-echocardiographic-assessment-of-residual-mitral|残余二尖瓣反流超声评估预测二尖瓣 TEER 后结局：术中 TEE 对比出院前 TTE]]
+- [[来源/837-long-term-incidence-of-hemodynamic-valve-deterio|Evolut TAVR 后血流动力学瓣膜退化的长期发生率]]
+- [[来源/838-the-zeta-balloon-expandable-tavr-system-for-aort|ZETA 球囊扩张式 TAVR 系统用于主动脉反流：Laguna Tech 项目更新]]
+- [[来源/839-percutaneous-closure-of-a-leaflet-perforation-fo|二尖瓣修复后复发性二尖瓣反流的瓣叶穿孔经皮封堵]]
+- [[来源/840-one-step-from-disaster-a-near-miss-in-transcathe|一步之遥的灾难：TAVR 瓣周漏经导管处理中的险情]]
+- [[来源/841-the-reality-of-root-enlargement-not-for-everyone|The 'Reality' of Root Enlargement: Not for Everyone]]
+- [[来源/842-do-we-need-more-objective-risk-scores|Do We Need More Objective Risk Scores?]]
+- [[来源/843-impact-of-residual-mitral-regurgitation-and-grad|Impact of Residual Mitral Regurgitation and Gradient Following Transcatheter Mitral Edge-to-Edge Repair]]
+- [[来源/844-long-term-outcomes-of-tavr-vs-savr-in-low-risk-p|Long-Term Outcomes of TAVR vs. SAVR in Low-Risk Patients with Severe Aortic Stenosis]]
+- [[来源/845-transcatheter-mitral-valve-in-mis-aligned-surgic|Transcatheter Mitral Valve-in-Misaligned Surgical Valve with Small Neo-LVOT: Is There a Role for ETOH Ablation?]]
+- [[来源/846-x-ray-vision-intraprocedural-decision-making-and|X-ray Vision: Intraprocedural Decision Making and Change in Valve Size During Self-Expanding TAVR]]
+- [[来源/847-how-to-step-by-step-case-in-a-box-and-simulator|逐步操作：盒中病例与模拟器演示]]
+- [[来源/848-live-pre-recorded-case-presentation-amulet-360-s|预录直播病例：AMULET 360，St. Bernard's Medical Center]]
+- [[来源/849-next-generation-transcatheter-bentall-platform-f|新一代经导管Bentall平台：AortoSave]]
+- [[来源/850-challenges-of-echocardiographic-assessment|三尖瓣反流超声评估挑战]]
+- [[来源/851-hemodynamics-and-flow-patterns-in-small-annuli|小瓣环中的血流动力学与血流模式]]
+- [[来源/852-lecture-overview-of-indications|二尖瓣缘对缘修复适应证概览]]
+- [[来源/853-transcatheter-valve-implantation-following-surgi|Transcatheter Valve Implantation Following Balloon-Expandable Valve-in-MAC: Case Report]]
+- [[来源/854-challenges-of-clinical-assessment|Challenges of Clinical Assessment (TR Patient Selection)]]
+- [[来源/855-tavr-in-aortic-insufficiency-look-beyond-the-val|TAVR in Aortic Insufficiency: Look Beyond the Valve]]
+- [[来源/856-minimizing-complications-of-tavr-my-personal-che|Minimising Complications of TAVR: My Personal Checklist]]
+- [[来源/857-edge-to-edge-repair-for-recurrent-mitral-regurgi|Edge-to-Edge Repair for Recurrent Mitral Regurgitation After Surgical Mitral Valve Repair]]
+- [[来源/858-long-term-durability-of-transcatheter-aortic-val|Long-Term Durability of TAVI vs. Surgical Replacement in Low-Risk Severe Aortic Stenosis: A Systematic Review and Meta-Analysis of Randomized Trials]]
+- [[来源/859-watchman-elite-and-amulet-360-device-design-inno|WATCHMAN Elite和AMULET 360：器械设计创新和临床试验更新]]
+- [[来源/860-in-women-it-s-not-just-the-annulus-size|女性患者：不能只看瓣环大小]]
+- [[来源/861-case-resolution|病例结局：主动脉瓣反流病例（二叶式主动脉瓣合并重度AR，Jena Trilogy THV）]]
+- [[来源/862-case-presentation|病例呈现：主动脉瓣反流病例（二叶式主动脉瓣合并重度AR）]]
+- [[来源/349-case-discussion-1-cied-and-tr|病例讨论 1：CIED 与三尖瓣反流]]
+- [[来源/350-massive-lvot-pseudoaneurysm-after-avr-transcathe|AVR 后巨大 LVOT 假性动脉瘤：外科并发症的经导管治疗]]
+- [[来源/351-ct-mri|三尖瓣反流的 CT 与 MRI 评估]]
+- [[来源/352-echocardiographic-evaluation|三尖瓣反流的超声心动图评估]]
+- [[来源/353-preserving-the-fistula-lessons-from-aorto-caval|保留瘘道：主动脉-腔静脉封堵器脱位的教训]]
+- [[来源/354-opening-remarks-tavr-dissemination-through-the-n|开场致辞：通过 NCD 流程推广 TAVR]]
+- [[来源/379-real-world-outcomes-of-tavr-with-the-navitor-val|小主动脉瓣环患者使用 Navitor 瓣膜 TAVR 的真实世界结局]]
+- [[来源/380-balloon-aortic-valvuloplasty-bridging-improves-o|球囊主动脉瓣成形桥接改善急性瓣膜综合征一年生存]]
+- [[来源/381-transcaval-transcatheter-aortic-valve-replacemen|敌意解剖中的经腔 TAVR：Larsen 综合征患者的救命策略及 6 年随访]]
+- [[来源/382-navigating-the-challenging-neo-lvot-altavalve|挑战性 neo-LVOT 中的 AltaValve 导航]]
+- [[来源/383-sesame-in-mac-an-out-of-the-box-therapeutic-poss|MAC 中的 SESAME：跳出常规的治疗可能]]
+- [[来源/384-lux-valve-plus-ttvr-system-12-month-outcomes-in|LuX-Valve Plus TTVR 系统：大瓣环患者 12 个月结果]]
+- [[来源/643-the-unica-heterotopic-cross-caval-ttvr-the-ottaw|Unica 异位跨腔 TTVR：渥太华心脏中心单中心经验]]
+- [[来源/644-the-next-generation-xenter-md-tavr-guide-wire-du|下一代 Xenter MD TAVR 导丝：双传感器血流动力学评估与无线云端数据采集]]
+- [[来源/645-redo-mitral-transcatheter-edge-to-edge-repair-in|窄夹间区 redo 二尖瓣 TEER：第三夹成功补救复发重度 MR]]
+- [[来源/646-caught-in-the-act-recognizing-and-managing-an-un|术中突发并发症的识别与处理]]
+- [[来源/647-case-presentations-and-heart-team-discussions|病例展示与心脏团队讨论：经导管左心室重建治疗 HFrEF]]
+- [[来源/648-novel-echocardiographic-parameter-hepatic-caval|新型超声参数：肝腔静脉反流作为重度 TR 双腔静脉瓣治疗的淤血标志物]]

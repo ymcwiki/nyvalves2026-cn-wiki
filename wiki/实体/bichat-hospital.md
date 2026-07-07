@@ -1,0 +1,33 @@
+---
+type: entity
+created: 2026-06-29
+updated: 2026-06-29
+sources: ["[[来源/449-case-1-tmvr-embolization]]"]
+tags: [organization]
+aliases:
+  - "Hôpital Bichat"
+generation_complete: true
+---
+
+# Bichat Hospital
+
+## 基本信息
+- Type: organization
+- Source: [[来源/449-case-1-tmvr-embolization|449-case-1-tmvr-embolization]]
+
+## 描述
+巴黎 Paris City University 附属医院，本病例讲者 Marina Urena 所在机构。
+
+## 相关实体
+- [[实体/perimount|Perimount]]
+- [[实体/sapien-xt|SAPIEN XT]]
+- [[实体/marina-urena|Marina Urena]]
+
+## 相关概念
+- [[概念/va-ecmo|VA-ECMO]]
+- [[概念/tmvr-栓塞|TMVR 栓塞]]
+- [[概念/瓣膜过度扩张|瓣膜过度扩张]]
+- [[概念/经房间隔tmvr|经房间隔TMVR]]
+
+## 来源提及
+- "讲者为 Marina Urena, PhD, MD，来自法国巴黎 Bichat Hospital、Paris City University" — [[来源/449-case-1-tmvr-embolization|449-case-1-tmvr-embolization]]
