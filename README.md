@@ -6,7 +6,9 @@
 
 ## 🕸️ 交互式关系图谱
 
-**[▶ 打开在线知识图谱](https://ymcwiki.github.io/nyvalves2026-cn-wiki/)** —— 4,598 个页面、35,032 条链接的力导向图，可拖动、缩放、悬停看名字、点击聚焦邻居、搜索定位。橙=实体、蓝=概念、绿=来源，节点大小随连接数变化。
+[![知识图谱预览](docs/preview.png)](https://ymcwiki.github.io/nyvalves2026-cn-wiki/)
+
+**[▶ 打开在线知识图谱](https://ymcwiki.github.io/nyvalves2026-cn-wiki/)**（点上图或此链接）—— 4,598 个页面、35,032 条链接的力导向图，可拖动、缩放、悬停看名字、点击聚焦邻居、搜索定位。橙=实体、蓝=概念、绿=来源，节点大小随连接数变化。
 
 图谱数据由 `scripts/build_graph.py` 从 `wiki/` 的 `[[链接]]` 生成，页面在 `docs/`（GitHub Pages）。
 
