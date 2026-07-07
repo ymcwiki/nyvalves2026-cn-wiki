@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>纽约瓣膜会 2026 · 知识图谱</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:rgba(22,27,34,.86); --border:#30363d;
+    --text:#e6edf3; --muted:#8b949e;
+    --entity:#ff8f40; --concept:#58a6ff; --source:#3fb950;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;overflow:hidden;background:var(--bg);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",Helvetica,Arial,sans-serif;
+    color:var(--text);-webkit-tap-highlight-color:transparent}
+  #graph{position:fixed;inset:0}
+  #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;
+    flex-direction:column;gap:14px;background:var(--bg);z-index:50;transition:opacity .5s;font-size:14px;color:var(--muted)}
+  .spin{width:34px;height:34px;border:3px solid var(--border);border-top-color:var(--concept);
+    border-radius:50%;animation:s 1s linear infinite}
+  @keyframes s{to{transform:rotate(360deg)}}
+
+  .panel{position:fixed;background:var(--panel);border:1px solid var(--border);
+    border-radius:12px;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+  #top{top:14px;left:14px;padding:14px 16px;max-width:min(340px,calc(100vw - 28px));z-index:20}
+  #top h1{margin:0 0 2px;font-size:16px;font-weight:650;letter-spacing:.2px}
+  #top .sub{font-size:12px;color:var(--muted);margin-bottom:12px;line-height:1.5}
+  #top .sub a{color:var(--concept);text-decoration:none}
+  #search{width:100%;padding:8px 11px;border-radius:8px;border:1px solid var(--border);
+    background:#0d1117;color:var(--text);font-size:13px;outline:none}
+  #search:focus{border-color:var(--concept)}
+  #results{margin-top:6px;max-height:210px;overflow:auto;display:none}
+  #results.on{display:block}
+  .r{padding:7px 9px;border-radius:7px;font-size:13px;cursor:pointer;display:flex;
+    align-items:center;gap:8px;line-height:1.3}
+  .r:hover{background:rgba(255,255,255,.06)}
+  .dot{width:9px;height:9px;border-radius:50%;flex:0 0 auto}
+  .r .meta{color:var(--muted);font-size:11px;margin-left:auto;flex:0 0 auto}
+
+  #legend{bottom:14px;left:14px;padding:11px 13px;z-index:20;font-size:12.5px}
+  .lg{display:flex;align-items:center;gap:8px;padding:5px 6px;border-radius:7px;cursor:pointer;user-select:none}
+  .lg:hover{background:rgba(255,255,255,.05)}
+  .lg.off{opacity:.4}
+  .lg .c{color:var(--muted);margin-left:auto}
+  #hint{bottom:14px;right:14px;padding:9px 12px;z-index:20;font-size:11.5px;color:var(--muted);
+    line-height:1.6;max-width:180px}
+  @media (max-width:560px){#hint{display:none} #top{max-width:calc(100vw - 28px)}}
+</style>
+</head>
+<body>
+<div id="graph"></div>
+
+<div id="loading"><div class="spin"></div><div>正在布局 4,598 个节点…</div></div>
+
+<div id="top" class="panel">
+  <h1>纽约瓣膜会 2026 · 知识图谱</h1>
+  <div class="sub">CRF New York Valves 2026 中文知识库的实体 / 概念 / 来源关系网。<br>
+    <a href="https://github.com/ymcwiki/nyvalves2026-cn-wiki" target="_blank" rel="noopener">← 返回仓库</a></div>
+  <input id="search" type="search" placeholder="搜索器械 / 试验 / 概念…" autocomplete="off">
+  <div id="results"></div>
+</div>
+
+<div id="legend" class="panel">
+  <div class="lg" data-t="e"><span class="dot" style="background:var(--entity)"></span>实体<span class="c" id="ce"></span></div>
+  <div class="lg" data-t="c"><span class="dot" style="background:var(--concept)"></span>概念<span class="c" id="cc"></span></div>
+  <div class="lg" data-t="s"><span class="dot" style="background:var(--source)"></span>来源<span class="c" id="cs"></span></div>
+</div>
+
+<div id="hint" class="panel">拖动平移 · 滚轮缩放<br>悬停看名字 · 点击聚焦邻居<br>双击空白复位</div>
+
+<script src="./force-graph.min.js"></script>
+<script>
+const COLOR = {e:'#ff8f40', c:'#58a6ff', s:'#3fb950'};
+const TYPE_NAME = {e:'实体', c:'概念', s:'来源'};
+const el = id => document.getElementById(id);
+
+fetch('./graph.json').then(r=>r.json()).then(data => {
+  const nodes = data.nodes, links = data.links;
+
+  // counts
+  const cnt = {e:0,c:0,s:0};
+  nodes.forEach(n => cnt[n.t]++);
+  el('ce').textContent = cnt.e; el('cc').textContent = cnt.c; el('cs').textContent = cnt.s;
+
+  // adjacency for neighbor highlight
+  const adj = new Map(); nodes.forEach(n => adj.set(n.id, new Set()));
+  links.forEach(l => { adj.get(l.source).add(l.target); adj.get(l.target).add(l.source); });
+
+  const hidden = {e:false,c:false,s:false};
+  let hoverNode = null, selNode = null, selSet = new Set();
+
+  const Graph = ForceGraph()(el('graph'))
+    .graphData({nodes, links})
+    .backgroundColor('#0d1117')
+    .nodeId('id')
+    .nodeRelSize(1)
+    .nodeVal(n => Math.max(1, n.v))                       // area ∝ degree
+    .nodeColor(n => COLOR[n.t])
+    .nodeLabel(n => `<div style="font:13px -apple-system,'PingFang SC',sans-serif;color:#e6edf3">
+        <b>${n.n}</b> <span style="color:#8b949e">· ${TYPE_NAME[n.t]} · ${n.v} 连接</span></div>`)
+    .linkColor(() => 'rgba(139,148,158,0.13)')
+    .linkWidth(0.5)
+    .warmupTicks(20)
+    .cooldownTime(14000)
+    .nodeVisibility(n => !hidden[n.t])
+    .linkVisibility(l => !hidden[l.source.t] && !hidden[l.target.t])
+    .onEngineStop(() => {
+      const L = el('loading'); L.style.opacity = 0; setTimeout(()=>L.style.display='none', 500);
+      Graph.zoomToFit(500, 60);
+    });
+
+  // custom node paint: highlight ring + adaptive labels
+  Graph.nodeCanvasObjectMode(() => 'after')
+    .nodeCanvasObject((n, ctx, scale) => {
+      const r = Math.sqrt(Math.max(1,n.v)) * 1 + 1;
+      const dim = selNode && !selSet.has(n.id) && n.id !== selNode.id;
+      if (dim) return;
+      const focused = (n === hoverNode) || (selNode && (n.id===selNode.id || selSet.has(n.id)));
+      if (focused){
+        ctx.beginPath(); ctx.arc(n.x, n.y, r+2/scale, 0, 2*Math.PI);
+        ctx.strokeStyle = '#e6edf3'; ctx.lineWidth = 1.2/scale; ctx.stroke();
+      }
+      // label when zoomed in OR hub OR focused
+      if (scale > 3.2 || n.v > 70 || focused){
+        const fs = Math.min(13/scale, r*1.1 + 3/scale);
+        ctx.font = `${fs}px -apple-system,"PingFang SC",sans-serif`;
+        ctx.fillStyle = focused ? '#fff' : 'rgba(230,237,243,0.82)';
+        ctx.textAlign='left'; ctx.textBaseline='middle';
+        ctx.fillText(n.n, n.x + r + 1.5/scale, n.y);
+      }
+    });
+
+  // dim non-selected on paint pass for links too
+  Graph.linkColor(l => {
+    if (!selNode) return 'rgba(139,148,158,0.13)';
+    const on = l.source.id===selNode.id || l.target.id===selNode.id;
+    return on ? 'rgba(88,166,255,0.55)' : 'rgba(139,148,158,0.04)';
+  });
+
+  Graph.onNodeHover(n => { hoverNode = n; el('graph').style.cursor = n ? 'pointer' : 'grab'; });
+
+  Graph.onNodeClick(n => {
+    if (selNode === n){ selNode=null; selSet=new Set(); }
+    else { selNode = n; selSet = adj.get(n.id); }
+    const d = 40 / Math.sqrt(Math.max(1,n.v));
+    Graph.centerAt(n.x, n.y, 700); Graph.zoom(Math.min(6, 2.2), 700);
+    Graph.nodeColor(Graph.nodeColor());  // trigger repaint
+  });
+
+  Graph.onBackgroundClick(() => { selNode=null; selSet=new Set(); });
+  el('graph').addEventListener('dblclick', () => { selNode=null; selSet=new Set(); Graph.zoomToFit(600, 60); });
+
+  // responsive
+  const resize = () => Graph.width(innerWidth).height(innerHeight);
+  addEventListener('resize', resize); resize();
+
+  // legend toggles
+  document.querySelectorAll('.lg').forEach(lg => lg.addEventListener('click', () => {
+    const t = lg.dataset.t; hidden[t] = !hidden[t]; lg.classList.toggle('off', hidden[t]);
+    Graph.nodeVisibility(Graph.nodeVisibility()).linkVisibility(Graph.linkVisibility());
+  }));
+
+  // search
+  const S = el('search'), R = el('results');
+  const idmap = new Map(nodes.map(n=>[n.id,n]));
+  S.addEventListener('input', () => {
+    const q = S.value.trim().toLowerCase();
+    if (!q){ R.className=''; R.innerHTML=''; return; }
+    const hits = nodes.filter(n => n.n.toLowerCase().includes(q))
+                      .sort((a,b)=>b.v-a.v).slice(0,20);
+    R.className = 'on';
+    R.innerHTML = hits.map(n =>
+      `<div class="r" data-id="${n.id}"><span class="dot" style="background:${COLOR[n.t]}"></span>
+       <span>${n.n}</span><span class="meta">${n.v}</span></div>`).join('') ||
+      `<div class="r" style="color:var(--muted)">无匹配</div>`;
+  });
+  R.addEventListener('click', e => {
+    const row = e.target.closest('.r'); if(!row || !row.dataset.id) return;
+    const n = idmap.get(+row.dataset.id);
+    selNode = n; selSet = adj.get(n.id);
+    Graph.centerAt(n.x, n.y, 700); Graph.zoom(4, 700);
+    R.className=''; S.value = n.n;
+  });
+});
+</script>
+</body>
+</html>
